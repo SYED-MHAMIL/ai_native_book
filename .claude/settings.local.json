@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git fetch --all --prune)",
+      "Bash(.specify/scripts/powershell/create-new-feature.ps1 -Json \"Module 1: The Robotic Nervous System (ROS 2)\" -Number 1 -ShortName \"ros2-book-module\")",
+      "Bash(mkdir -p specs/01-ros2-book-module)"
+    ]
+  }
+}
