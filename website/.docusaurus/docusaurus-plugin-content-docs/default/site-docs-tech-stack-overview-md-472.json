@@ -1,0 +1,52 @@
+{
+  "id": "tech-stack/overview",
+  "title": "Technology Stack Overview",
+  "description": "Comprehensive overview of the technologies used in Physical AI & Humanoid Robotics",
+  "source": "@site/docs/tech-stack/overview.md",
+  "sourceDirName": "tech-stack",
+  "slug": "/tech-stack/overview",
+  "permalink": "/ai_book_hack_I/docs/tech-stack/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mohamil/ai-book-hack/tree/main/website/docs/tech-stack/overview.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "tech-stack",
+      "permalink": "/ai_book_hack_I/docs/tags/tech-stack"
+    },
+    {
+      "inline": true,
+      "label": "architecture",
+      "permalink": "/ai_book_hack_I/docs/tags/architecture"
+    },
+    {
+      "inline": true,
+      "label": "frameworks",
+      "permalink": "/ai_book_hack_I/docs/tags/frameworks"
+    },
+    {
+      "inline": true,
+      "label": "tools",
+      "permalink": "/ai_book_hack_I/docs/tags/tools"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Technology Stack Overview",
+    "description": "Comprehensive overview of the technologies used in Physical AI & Humanoid Robotics",
+    "tags": [
+      "tech-stack",
+      "architecture",
+      "frameworks",
+      "tools"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vision-Language-Action Systems",
+    "permalink": "/ai_book_hack_I/docs/modules/vla/theory/multimodal-integration"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "modules/nvidia-isaac/theory/gpu-accelerated-perception",
+  "title": "GPU-Accelerated Perception Systems",
+  "description": "Implementing high-performance computer vision and sensor processing using NVIDIA Isaac and GPU acceleration",
+  "source": "@site/docs/modules/03-nvidia-isaac/theory/gpu-accelerated-perception.md",
+  "sourceDirName": "modules/03-nvidia-isaac/theory",
+  "slug": "/modules/nvidia-isaac/theory/gpu-accelerated-perception",
+  "permalink": "/ai_book_hack_I/docs/modules/nvidia-isaac/theory/gpu-accelerated-perception",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mohamil/ai-book-hack/tree/main/website/docs/modules/03-nvidia-isaac/theory/gpu-accelerated-perception.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "nvidia-isaac",
+      "permalink": "/ai_book_hack_I/docs/tags/nvidia-isaac"
+    },
+    {
+      "inline": true,
+      "label": "gpu-acceleration",
+      "permalink": "/ai_book_hack_I/docs/tags/gpu-acceleration"
+    },
+    {
+      "inline": true,
+      "label": "computer-vision",
+      "permalink": "/ai_book_hack_I/docs/tags/computer-vision"
+    },
+    {
+      "inline": true,
+      "label": "perception",
+      "permalink": "/ai_book_hack_I/docs/tags/perception"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "GPU-Accelerated Perception Systems",
+    "description": "Implementing high-performance computer vision and sensor processing using NVIDIA Isaac and GPU acceleration",
+    "tags": [
+      "nvidia-isaac",
+      "gpu-acceleration",
+      "computer-vision",
+      "perception"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Practical GPU Acceleration for Robotics",
+    "permalink": "/ai_book_hack_I/docs/modules/nvidia-isaac/practical/gpu-acceleration"
+  },
+  "next": {
+    "title": "Advanced Vision-Language-Action Systems",
+    "permalink": "/ai_book_hack_I/docs/modules/vla/advanced/"
+  }
+}

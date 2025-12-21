@@ -1,0 +1,62 @@
+{
+  "id": "modules/nvidia-isaac/summary",
+  "title": "Module 3 Summary: NVIDIA Isaac - AI Robot Brain",
+  "description": "Summary of AI integration and NVIDIA Isaac concepts for humanoid robotics",
+  "source": "@site/docs/modules/03-nvidia-isaac/summary.md",
+  "sourceDirName": "modules/03-nvidia-isaac",
+  "slug": "/modules/nvidia-isaac/summary",
+  "permalink": "/ai_book_hack_I/docs/modules/nvidia-isaac/summary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mohamil/ai-book-hack/tree/main/website/docs/modules/03-nvidia-isaac/summary.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "nvidia-isaac",
+      "permalink": "/ai_book_hack_I/docs/tags/nvidia-isaac"
+    },
+    {
+      "inline": true,
+      "label": "ai",
+      "permalink": "/ai_book_hack_I/docs/tags/ai"
+    },
+    {
+      "inline": true,
+      "label": "robotics",
+      "permalink": "/ai_book_hack_I/docs/tags/robotics"
+    },
+    {
+      "inline": true,
+      "label": "perception",
+      "permalink": "/ai_book_hack_I/docs/tags/perception"
+    },
+    {
+      "inline": true,
+      "label": "planning",
+      "permalink": "/ai_book_hack_I/docs/tags/planning"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 100,
+  "frontMatter": {
+    "sidebar_position": 100,
+    "title": "Module 3 Summary: NVIDIA Isaac - AI Robot Brain",
+    "description": "Summary of AI integration and NVIDIA Isaac concepts for humanoid robotics",
+    "tags": [
+      "nvidia-isaac",
+      "ai",
+      "robotics",
+      "perception",
+      "planning"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NVIDIA Isaac - AI Robot Brain",
+    "permalink": "/ai_book_hack_I/docs/modules/nvidia-isaac/intro"
+  },
+  "next": {
+    "title": "Practical GPU Acceleration for Robotics",
+    "permalink": "/ai_book_hack_I/docs/modules/nvidia-isaac/practical/gpu-acceleration"
+  }
+}

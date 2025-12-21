@@ -1,0 +1,62 @@
+{
+  "id": "modules/nvidia-isaac/intro",
+  "title": "NVIDIA Isaac - AI Robot Brain",
+  "description": "Implementing advanced AI capabilities for humanoid robots using NVIDIA Isaac platform",
+  "source": "@site/docs/modules/03-nvidia-isaac/intro.md",
+  "sourceDirName": "modules/03-nvidia-isaac",
+  "slug": "/modules/nvidia-isaac/intro",
+  "permalink": "/ai_book_hack_I/docs/modules/nvidia-isaac/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mohamil/ai-book-hack/tree/main/website/docs/modules/03-nvidia-isaac/intro.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "nvidia-isaac",
+      "permalink": "/ai_book_hack_I/docs/tags/nvidia-isaac"
+    },
+    {
+      "inline": true,
+      "label": "ai",
+      "permalink": "/ai_book_hack_I/docs/tags/ai"
+    },
+    {
+      "inline": true,
+      "label": "robotics",
+      "permalink": "/ai_book_hack_I/docs/tags/robotics"
+    },
+    {
+      "inline": true,
+      "label": "computer-vision",
+      "permalink": "/ai_book_hack_I/docs/tags/computer-vision"
+    },
+    {
+      "inline": true,
+      "label": "perception",
+      "permalink": "/ai_book_hack_I/docs/tags/perception"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "NVIDIA Isaac - AI Robot Brain",
+    "description": "Implementing advanced AI capabilities for humanoid robots using NVIDIA Isaac platform",
+    "tags": [
+      "nvidia-isaac",
+      "ai",
+      "robotics",
+      "computer-vision",
+      "perception"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Advanced GPU Acceleration and AI Integration",
+    "permalink": "/ai_book_hack_I/docs/modules/nvidia-isaac/advanced/"
+  },
+  "next": {
+    "title": "Module 3 Summary: NVIDIA Isaac - AI Robot Brain",
+    "permalink": "/ai_book_hack_I/docs/modules/nvidia-isaac/summary"
+  }
+}

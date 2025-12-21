@@ -1,0 +1,148 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/ai_book_hack_I/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/ai_book_hack_I/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "getting-started/environment-verification",
+              "path": "/ai_book_hack_I/docs/getting-started/environment-verification",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/installation",
+              "path": "/ai_book_hack_I/docs/getting-started/installation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guidelines/style-guide",
+              "path": "/ai_book_hack_I/docs/guidelines/style-guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/ai_book_hack_I/docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/gazebo-unity/advanced/index",
+              "path": "/ai_book_hack_I/docs/modules/gazebo-unity/advanced/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/gazebo-unity/intro",
+              "path": "/ai_book_hack_I/docs/modules/gazebo-unity/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/gazebo-unity/practical/world-creation",
+              "path": "/ai_book_hack_I/docs/modules/gazebo-unity/practical/world-creation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/gazebo-unity/summary",
+              "path": "/ai_book_hack_I/docs/modules/gazebo-unity/summary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/gazebo-unity/theory/world-creation",
+              "path": "/ai_book_hack_I/docs/modules/gazebo-unity/theory/world-creation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/nvidia-isaac/advanced/index",
+              "path": "/ai_book_hack_I/docs/modules/nvidia-isaac/advanced/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/nvidia-isaac/intro",
+              "path": "/ai_book_hack_I/docs/modules/nvidia-isaac/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/nvidia-isaac/practical/gpu-acceleration",
+              "path": "/ai_book_hack_I/docs/modules/nvidia-isaac/practical/gpu-acceleration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/nvidia-isaac/summary",
+              "path": "/ai_book_hack_I/docs/modules/nvidia-isaac/summary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/nvidia-isaac/theory/gpu-accelerated-perception",
+              "path": "/ai_book_hack_I/docs/modules/nvidia-isaac/theory/gpu-accelerated-perception",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/ros2/advanced/index",
+              "path": "/ai_book_hack_I/docs/modules/ros2/advanced/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/ros2/intro",
+              "path": "/ai_book_hack_I/docs/modules/ros2/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/ros2/practical/setup",
+              "path": "/ai_book_hack_I/docs/modules/ros2/practical/setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/ros2/summary",
+              "path": "/ai_book_hack_I/docs/modules/ros2/summary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/ros2/theory/core-concepts",
+              "path": "/ai_book_hack_I/docs/modules/ros2/theory/core-concepts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/vla/advanced/index",
+              "path": "/ai_book_hack_I/docs/modules/vla/advanced/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/vla/intro",
+              "path": "/ai_book_hack_I/docs/modules/vla/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/vla/summary",
+              "path": "/ai_book_hack_I/docs/modules/vla/summary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/vla/theory/multimodal-integration",
+              "path": "/ai_book_hack_I/docs/modules/vla/theory/multimodal-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tech-stack/overview",
+              "path": "/ai_book_hack_I/docs/tech-stack/overview",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/ai_book_hack_I/docs/",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

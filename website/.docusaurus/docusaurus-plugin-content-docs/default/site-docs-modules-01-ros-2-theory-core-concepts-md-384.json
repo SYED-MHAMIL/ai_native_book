@@ -1,0 +1,62 @@
+{
+  "id": "modules/ros2/theory/core-concepts",
+  "title": "ROS 2 Core Concepts and Architecture",
+  "description": "Fundamental building blocks of ROS 2 systems for humanoid robotics",
+  "source": "@site/docs/modules/01-ros2/theory/core-concepts.md",
+  "sourceDirName": "modules/01-ros2/theory",
+  "slug": "/modules/ros2/theory/core-concepts",
+  "permalink": "/ai_book_hack_I/docs/modules/ros2/theory/core-concepts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mohamil/ai-book-hack/tree/main/website/docs/modules/01-ros2/theory/core-concepts.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "ros2",
+      "permalink": "/ai_book_hack_I/docs/tags/ros-2"
+    },
+    {
+      "inline": true,
+      "label": "architecture",
+      "permalink": "/ai_book_hack_I/docs/tags/architecture"
+    },
+    {
+      "inline": true,
+      "label": "nodes",
+      "permalink": "/ai_book_hack_I/docs/tags/nodes"
+    },
+    {
+      "inline": true,
+      "label": "topics",
+      "permalink": "/ai_book_hack_I/docs/tags/topics"
+    },
+    {
+      "inline": true,
+      "label": "services",
+      "permalink": "/ai_book_hack_I/docs/tags/services"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "ROS 2 Core Concepts and Architecture",
+    "description": "Fundamental building blocks of ROS 2 systems for humanoid robotics",
+    "tags": [
+      "ros2",
+      "architecture",
+      "nodes",
+      "topics",
+      "services"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS 2 Practical Setup and Implementation",
+    "permalink": "/ai_book_hack_I/docs/modules/ros2/practical/setup"
+  },
+  "next": {
+    "title": "Advanced Simulation Techniques",
+    "permalink": "/ai_book_hack_I/docs/modules/gazebo-unity/advanced/"
+  }
+}

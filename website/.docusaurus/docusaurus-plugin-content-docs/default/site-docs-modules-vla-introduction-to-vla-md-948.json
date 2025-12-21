@@ -1,0 +1,62 @@
+{
+  "id": "modules/vla/introduction-to-vla",
+  "title": "Vision-Language-Action Systems",
+  "description": "Creating integrated perception-action systems that understand and respond to human commands",
+  "source": "@site/docs/modules/vla/introduction-to-vla.md",
+  "sourceDirName": "modules/vla",
+  "slug": "/modules/vla/introduction-to-vla",
+  "permalink": "/ai_book_hack_I/docs/modules/vla/introduction-to-vla",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mohamil/ai-book-hack/tree/main/website/docs/modules/vla/introduction-to-vla.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "vla",
+      "permalink": "/ai_book_hack_I/docs/tags/vla"
+    },
+    {
+      "inline": true,
+      "label": "vision-language-action",
+      "permalink": "/ai_book_hack_I/docs/tags/vision-language-action"
+    },
+    {
+      "inline": true,
+      "label": "ai",
+      "permalink": "/ai_book_hack_I/docs/tags/ai"
+    },
+    {
+      "inline": true,
+      "label": "robotics",
+      "permalink": "/ai_book_hack_I/docs/tags/robotics"
+    },
+    {
+      "inline": true,
+      "label": "multimodal",
+      "permalink": "/ai_book_hack_I/docs/tags/multimodal"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Vision-Language-Action Systems",
+    "description": "Creating integrated perception-action systems that understand and respond to human commands",
+    "tags": [
+      "vla",
+      "vision-language-action",
+      "ai",
+      "robotics",
+      "multimodal"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 4 Summary: Vision-Language-Action Systems",
+    "permalink": "/ai_book_hack_I/docs/modules/vla/summary"
+  },
+  "next": {
+    "title": "Technology Stack Overview",
+    "permalink": "/ai_book_hack_I/docs/tech-stack/overview"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "modules/vla/summary",
+  "title": "Module 4 Summary: Vision-Language-Action Systems",
+  "description": "Summary of VLA systems and multimodal AI for humanoid robotics",
+  "source": "@site/docs/modules/04-vla/summary.md",
+  "sourceDirName": "modules/04-vla",
+  "slug": "/modules/vla/summary",
+  "permalink": "/ai_book_hack_I/docs/modules/vla/summary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mohamil/ai-book-hack/tree/main/website/docs/modules/04-vla/summary.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "vla",
+      "permalink": "/ai_book_hack_I/docs/tags/vla"
+    },
+    {
+      "inline": true,
+      "label": "vision-language-action",
+      "permalink": "/ai_book_hack_I/docs/tags/vision-language-action"
+    },
+    {
+      "inline": true,
+      "label": "multimodal-ai",
+      "permalink": "/ai_book_hack_I/docs/tags/multimodal-ai"
+    },
+    {
+      "inline": true,
+      "label": "summary",
+      "permalink": "/ai_book_hack_I/docs/tags/summary"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 100,
+  "frontMatter": {
+    "sidebar_position": 100,
+    "title": "Module 4 Summary: Vision-Language-Action Systems",
+    "description": "Summary of VLA systems and multimodal AI for humanoid robotics",
+    "tags": [
+      "vla",
+      "vision-language-action",
+      "multimodal-ai",
+      "summary"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 4: Vision-Language-Action (VLA) Systems",
+    "permalink": "/ai_book_hack_I/docs/modules/vla/intro"
+  },
+  "next": {
+    "title": "Vision-Language-Action Systems",
+    "permalink": "/ai_book_hack_I/docs/modules/vla/theory/multimodal-integration"
+  }
+}

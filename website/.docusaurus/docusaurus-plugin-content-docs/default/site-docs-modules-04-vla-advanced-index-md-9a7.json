@@ -1,0 +1,62 @@
+{
+  "id": "modules/vla/advanced/index",
+  "title": "Advanced Vision-Language-Action Systems",
+  "description": "Advanced techniques for multimodal AI systems in humanoid robotics",
+  "source": "@site/docs/modules/04-vla/advanced/index.md",
+  "sourceDirName": "modules/04-vla/advanced",
+  "slug": "/modules/vla/advanced/",
+  "permalink": "/ai_book_hack_I/docs/modules/vla/advanced/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mohamil/ai-book-hack/tree/main/website/docs/modules/04-vla/advanced/index.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "vla",
+      "permalink": "/ai_book_hack_I/docs/tags/vla"
+    },
+    {
+      "inline": true,
+      "label": "vision-language-action",
+      "permalink": "/ai_book_hack_I/docs/tags/vision-language-action"
+    },
+    {
+      "inline": true,
+      "label": "ai",
+      "permalink": "/ai_book_hack_I/docs/tags/ai"
+    },
+    {
+      "inline": true,
+      "label": "advanced",
+      "permalink": "/ai_book_hack_I/docs/tags/advanced"
+    },
+    {
+      "inline": true,
+      "label": "multimodal",
+      "permalink": "/ai_book_hack_I/docs/tags/multimodal"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Advanced Vision-Language-Action Systems",
+    "description": "Advanced techniques for multimodal AI systems in humanoid robotics",
+    "tags": [
+      "vla",
+      "vision-language-action",
+      "ai",
+      "advanced",
+      "multimodal"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GPU-Accelerated Perception Systems",
+    "permalink": "/ai_book_hack_I/docs/modules/nvidia-isaac/theory/gpu-accelerated-perception"
+  },
+  "next": {
+    "title": "Module 4: Vision-Language-Action (VLA) Systems",
+    "permalink": "/ai_book_hack_I/docs/modules/vla/intro"
+  }
+}

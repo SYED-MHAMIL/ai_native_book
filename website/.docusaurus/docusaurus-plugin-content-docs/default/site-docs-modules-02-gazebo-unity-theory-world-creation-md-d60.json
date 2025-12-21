@@ -1,0 +1,56 @@
+{
+  "id": "modules/gazebo-unity/theory/world-creation",
+  "title": "World Creation and Environment Modeling",
+  "description": "Creating realistic simulation environments for humanoid robot testing and development",
+  "source": "@site/docs/modules/02-gazebo-unity/theory/world-creation.md",
+  "sourceDirName": "modules/02-gazebo-unity/theory",
+  "slug": "/modules/gazebo-unity/theory/world-creation",
+  "permalink": "/ai_book_hack_I/docs/modules/gazebo-unity/theory/world-creation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mohamil/ai-book-hack/tree/main/website/docs/modules/02-gazebo-unity/theory/world-creation.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "gazebo",
+      "permalink": "/ai_book_hack_I/docs/tags/gazebo"
+    },
+    {
+      "inline": true,
+      "label": "simulation",
+      "permalink": "/ai_book_hack_I/docs/tags/simulation"
+    },
+    {
+      "inline": true,
+      "label": "world-modeling",
+      "permalink": "/ai_book_hack_I/docs/tags/world-modeling"
+    },
+    {
+      "inline": true,
+      "label": "environment",
+      "permalink": "/ai_book_hack_I/docs/tags/environment"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "World Creation and Environment Modeling",
+    "description": "Creating realistic simulation environments for humanoid robot testing and development",
+    "tags": [
+      "gazebo",
+      "simulation",
+      "world-modeling",
+      "environment"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Practical World Creation and Environment Setup",
+    "permalink": "/ai_book_hack_I/docs/modules/gazebo-unity/practical/world-creation"
+  },
+  "next": {
+    "title": "Advanced GPU Acceleration and AI Integration",
+    "permalink": "/ai_book_hack_I/docs/modules/nvidia-isaac/advanced/"
+  }
+}

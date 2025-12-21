@@ -1,0 +1,56 @@
+{
+  "id": "getting-started/environment-verification",
+  "title": "Environment Verification",
+  "description": "Verify that your Physical AI & Humanoid Robotics development environment is properly configured",
+  "source": "@site/docs/getting-started/environment-verification.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/environment-verification",
+  "permalink": "/ai_book_hack_I/docs/getting-started/environment-verification",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mohamil/ai-book-hack/tree/main/website/docs/getting-started/environment-verification.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "setup",
+      "permalink": "/ai_book_hack_I/docs/tags/setup"
+    },
+    {
+      "inline": true,
+      "label": "verification",
+      "permalink": "/ai_book_hack_I/docs/tags/verification"
+    },
+    {
+      "inline": true,
+      "label": "testing",
+      "permalink": "/ai_book_hack_I/docs/tags/testing"
+    },
+    {
+      "inline": true,
+      "label": "environment",
+      "permalink": "/ai_book_hack_I/docs/tags/environment"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Environment Verification",
+    "description": "Verify that your Physical AI & Humanoid Robotics development environment is properly configured",
+    "tags": [
+      "setup",
+      "verification",
+      "testing",
+      "environment"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Installation & Setup Guide",
+    "permalink": "/ai_book_hack_I/docs/getting-started/installation"
+  },
+  "next": {
+    "title": "Documentation Style Guide",
+    "permalink": "/ai_book_hack_I/docs/guidelines/style-guide"
+  }
+}

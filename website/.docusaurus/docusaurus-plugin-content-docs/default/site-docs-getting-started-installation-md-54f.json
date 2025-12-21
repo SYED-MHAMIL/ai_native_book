@@ -1,0 +1,56 @@
+{
+  "id": "getting-started/installation",
+  "title": "Installation & Setup Guide",
+  "description": "Complete setup guide for the Physical AI & Humanoid Robotics development environment",
+  "source": "@site/docs/getting-started/installation.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/installation",
+  "permalink": "/ai_book_hack_I/docs/getting-started/installation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mohamil/ai-book-hack/tree/main/website/docs/getting-started/installation.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "setup",
+      "permalink": "/ai_book_hack_I/docs/tags/setup"
+    },
+    {
+      "inline": true,
+      "label": "installation",
+      "permalink": "/ai_book_hack_I/docs/tags/installation"
+    },
+    {
+      "inline": true,
+      "label": "environment",
+      "permalink": "/ai_book_hack_I/docs/tags/environment"
+    },
+    {
+      "inline": true,
+      "label": "prerequisites",
+      "permalink": "/ai_book_hack_I/docs/tags/prerequisites"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Installation & Setup Guide",
+    "description": "Complete setup guide for the Physical AI & Humanoid Robotics development environment",
+    "tags": [
+      "setup",
+      "installation",
+      "environment",
+      "prerequisites"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Physical AI & Humanoid Robotics: Bridging Digital and Physical Intelligence",
+    "permalink": "/ai_book_hack_I/docs/"
+  },
+  "next": {
+    "title": "Environment Verification",
+    "permalink": "/ai_book_hack_I/docs/getting-started/environment-verification"
+  }
+}

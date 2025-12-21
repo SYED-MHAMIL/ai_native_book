@@ -1,0 +1,995 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "2237": [
+      2237
+    ],
+    "17896441": [
+      1869,
+      8401
+    ],
+    "54261523": [
+      8863
+    ],
+    "main": [
+      1869,
+      5354,
+      8792
+    ],
+    "runtime~main": [
+      1869,
+      8792,
+      5354
+    ],
+    "06705f17": [
+      3581
+    ],
+    "06f786ee": [
+      8952
+    ],
+    "07327252": [
+      3325
+    ],
+    "0cd25194": [
+      8175
+    ],
+    "0dcda2e9": [
+      6113
+    ],
+    "0e384e19": [
+      3976
+    ],
+    "0ea26ca4": [
+      8297
+    ],
+    "10fdeae4": [
+      2379
+    ],
+    "164666ac": [
+      4668
+    ],
+    "18a1d5a3": [
+      8775
+    ],
+    "18e07c35": [
+      9965
+    ],
+    "1bd67ce0": [
+      7033
+    ],
+    "1c330d87": [
+      8754
+    ],
+    "1eea372e": [
+      5414
+    ],
+    "21a5728f": [
+      2287
+    ],
+    "257ab9d7": [
+      1088
+    ],
+    "27f78630": [
+      3440
+    ],
+    "284ab42e": [
+      9881
+    ],
+    "2f6e6a2f": [
+      3783
+    ],
+    "3162b670": [
+      1842
+    ],
+    "31d84a30": [
+      5535
+    ],
+    "33ebaa34": [
+      6707
+    ],
+    "3720c009": [
+      1869,
+      4787
+    ],
+    "38438a60": [
+      8422
+    ],
+    "3b72beaa": [
+      4386
+    ],
+    "3b8a74a7": [
+      2548
+    ],
+    "41bd2ef0": [
+      3309
+    ],
+    "430eeb04": [
+      2232
+    ],
+    "4572d7b3": [
+      3539
+    ],
+    "461735ca": [
+      3057
+    ],
+    "472a4128": [
+      5632
+    ],
+    "4f53670c": [
+      4543
+    ],
+    "4fabafd6": [
+      1751
+    ],
+    "5245ba28": [
+      4254
+    ],
+    "52939c33": [
+      1700
+    ],
+    "54f44165": [
+      7924
+    ],
+    "585ef63b": [
+      1769
+    ],
+    "5e95c892": [
+      9647
+    ],
+    "62b08943": [
+      9783
+    ],
+    "6632e561": [
+      841
+    ],
+    "6813c401": [
+      8985
+    ],
+    "6bac4bf8": [
+      1003
+    ],
+    "75144d15": [
+      4946
+    ],
+    "7f5ec105": [
+      3867
+    ],
+    "8a7717f7": [
+      2409
+    ],
+    "8db2e0d6": [
+      990
+    ],
+    "9739ff46": [
+      805
+    ],
+    "999179fd": [
+      4249
+    ],
+    "9a70ebea": [
+      327
+    ],
+    "9fe74b97": [
+      6212
+    ],
+    "a491fb6d": [
+      8324
+    ],
+    "a7bd4aaa": [
+      7098
+    ],
+    "a94703ab": [
+      1869,
+      9048
+    ],
+    "aba21aa0": [
+      5742
+    ],
+    "ad9c9b42": [
+      9719
+    ],
+    "af069f6f": [
+      4241
+    ],
+    "af164d46": [
+      8945
+    ],
+    "b822abdf": [
+      7130
+    ],
+    "b85f6678": [
+      1921
+    ],
+    "bb230bdc": [
+      9587
+    ],
+    "bbc7dffb": [
+      3331
+    ],
+    "bc010c7c": [
+      8138
+    ],
+    "bdce984c": [
+      6053
+    ],
+    "c5060816": [
+      7384
+    ],
+    "ca7b8870": [
+      5877
+    ],
+    "cd692f5b": [
+      6144
+    ],
+    "d5182688": [
+      5621
+    ],
+    "d6021bba": [
+      8809
+    ],
+    "da7777ca": [
+      7730
+    ],
+    "df203c0f": [
+      1869,
+      4279
+    ],
+    "e194855b": [
+      2930
+    ],
+    "e5fef0ad": [
+      1515
+    ],
+    "e6c4ccd1": [
+      9940
+    ],
+    "e93c76e9": [
+      3154
+    ],
+    "fe88d601": [
+      2207
+    ],
+    "styles": [
+      4279,
+      4787,
+      5354,
+      8401,
+      8792,
+      9048,
+      1869
+    ]
+  },
+  "assets": {
+    "327": {
+      "js": [
+        {
+          "file": "assets/js/9a70ebea.412a8d01.js",
+          "hash": "a41608e8ae1fe5b3",
+          "publicPath": "/ai_book_hack_I/assets/js/9a70ebea.412a8d01.js"
+        }
+      ]
+    },
+    "805": {
+      "js": [
+        {
+          "file": "assets/js/9739ff46.6b8c621a.js",
+          "hash": "7d0756c856abebc9",
+          "publicPath": "/ai_book_hack_I/assets/js/9739ff46.6b8c621a.js"
+        }
+      ]
+    },
+    "841": {
+      "js": [
+        {
+          "file": "assets/js/6632e561.0abba19b.js",
+          "hash": "143a5155bbcaa4c8",
+          "publicPath": "/ai_book_hack_I/assets/js/6632e561.0abba19b.js"
+        }
+      ]
+    },
+    "990": {
+      "js": [
+        {
+          "file": "assets/js/8db2e0d6.11cd9c60.js",
+          "hash": "9104ba83764c4a68",
+          "publicPath": "/ai_book_hack_I/assets/js/8db2e0d6.11cd9c60.js"
+        }
+      ]
+    },
+    "1003": {
+      "js": [
+        {
+          "file": "assets/js/6bac4bf8.e016df77.js",
+          "hash": "e9ba53829982daf2",
+          "publicPath": "/ai_book_hack_I/assets/js/6bac4bf8.e016df77.js"
+        }
+      ]
+    },
+    "1088": {
+      "js": [
+        {
+          "file": "assets/js/257ab9d7.c1498ec1.js",
+          "hash": "7b4b99e53aa2dd64",
+          "publicPath": "/ai_book_hack_I/assets/js/257ab9d7.c1498ec1.js"
+        }
+      ]
+    },
+    "1515": {
+      "js": [
+        {
+          "file": "assets/js/e5fef0ad.7a1a5929.js",
+          "hash": "7e8feacde444d6b1",
+          "publicPath": "/ai_book_hack_I/assets/js/e5fef0ad.7a1a5929.js"
+        }
+      ]
+    },
+    "1700": {
+      "js": [
+        {
+          "file": "assets/js/52939c33.5151a729.js",
+          "hash": "cace6fb4c1cb4c7c",
+          "publicPath": "/ai_book_hack_I/assets/js/52939c33.5151a729.js"
+        }
+      ]
+    },
+    "1751": {
+      "js": [
+        {
+          "file": "assets/js/4fabafd6.73dc8af5.js",
+          "hash": "2317a88be9716b40",
+          "publicPath": "/ai_book_hack_I/assets/js/4fabafd6.73dc8af5.js"
+        }
+      ]
+    },
+    "1769": {
+      "js": [
+        {
+          "file": "assets/js/585ef63b.879f648b.js",
+          "hash": "d55ab9f164dabb5a",
+          "publicPath": "/ai_book_hack_I/assets/js/585ef63b.879f648b.js"
+        }
+      ]
+    },
+    "1842": {
+      "js": [
+        {
+          "file": "assets/js/3162b670.dd49aca6.js",
+          "hash": "b39730dd9869bb6a",
+          "publicPath": "/ai_book_hack_I/assets/js/3162b670.dd49aca6.js"
+        }
+      ]
+    },
+    "1869": {
+      "css": [
+        {
+          "file": "assets/css/styles.6aa18503.css",
+          "hash": "189fe9a2282295aa",
+          "publicPath": "/ai_book_hack_I/assets/css/styles.6aa18503.css"
+        }
+      ]
+    },
+    "1921": {
+      "js": [
+        {
+          "file": "assets/js/b85f6678.d7d235e7.js",
+          "hash": "d5632469919a8fbe",
+          "publicPath": "/ai_book_hack_I/assets/js/b85f6678.d7d235e7.js"
+        }
+      ]
+    },
+    "2207": {
+      "js": [
+        {
+          "file": "assets/js/fe88d601.efce05ca.js",
+          "hash": "47cbf3705af35725",
+          "publicPath": "/ai_book_hack_I/assets/js/fe88d601.efce05ca.js"
+        }
+      ]
+    },
+    "2232": {
+      "js": [
+        {
+          "file": "assets/js/430eeb04.c95ea549.js",
+          "hash": "4a2728f7d60182df",
+          "publicPath": "/ai_book_hack_I/assets/js/430eeb04.c95ea549.js"
+        }
+      ]
+    },
+    "2237": {
+      "js": [
+        {
+          "file": "assets/js/2237.33afd36d.js",
+          "hash": "35757891b34b475e",
+          "publicPath": "/ai_book_hack_I/assets/js/2237.33afd36d.js"
+        }
+      ]
+    },
+    "2287": {
+      "js": [
+        {
+          "file": "assets/js/21a5728f.497e0731.js",
+          "hash": "0e33009140377bc2",
+          "publicPath": "/ai_book_hack_I/assets/js/21a5728f.497e0731.js"
+        }
+      ]
+    },
+    "2379": {
+      "js": [
+        {
+          "file": "assets/js/10fdeae4.649a5c11.js",
+          "hash": "c4bcf02bdc842934",
+          "publicPath": "/ai_book_hack_I/assets/js/10fdeae4.649a5c11.js"
+        }
+      ]
+    },
+    "2409": {
+      "js": [
+        {
+          "file": "assets/js/8a7717f7.6e6b2543.js",
+          "hash": "bbddde9885b776e9",
+          "publicPath": "/ai_book_hack_I/assets/js/8a7717f7.6e6b2543.js"
+        }
+      ]
+    },
+    "2548": {
+      "js": [
+        {
+          "file": "assets/js/3b8a74a7.de7f6d09.js",
+          "hash": "892fda6f680a3ad8",
+          "publicPath": "/ai_book_hack_I/assets/js/3b8a74a7.de7f6d09.js"
+        }
+      ]
+    },
+    "2930": {
+      "js": [
+        {
+          "file": "assets/js/e194855b.c95c786d.js",
+          "hash": "acfd0321e0a6fa57",
+          "publicPath": "/ai_book_hack_I/assets/js/e194855b.c95c786d.js"
+        }
+      ]
+    },
+    "3057": {
+      "js": [
+        {
+          "file": "assets/js/461735ca.1d5a1ffe.js",
+          "hash": "18d98c828fd01851",
+          "publicPath": "/ai_book_hack_I/assets/js/461735ca.1d5a1ffe.js"
+        }
+      ]
+    },
+    "3154": {
+      "js": [
+        {
+          "file": "assets/js/e93c76e9.85c0afa2.js",
+          "hash": "2428ccbfa880ff01",
+          "publicPath": "/ai_book_hack_I/assets/js/e93c76e9.85c0afa2.js"
+        }
+      ]
+    },
+    "3309": {
+      "js": [
+        {
+          "file": "assets/js/41bd2ef0.41fb5558.js",
+          "hash": "ebb01fabfbe68c42",
+          "publicPath": "/ai_book_hack_I/assets/js/41bd2ef0.41fb5558.js"
+        }
+      ]
+    },
+    "3325": {
+      "js": [
+        {
+          "file": "assets/js/07327252.f34d9c72.js",
+          "hash": "e26524c185d275ac",
+          "publicPath": "/ai_book_hack_I/assets/js/07327252.f34d9c72.js"
+        }
+      ]
+    },
+    "3331": {
+      "js": [
+        {
+          "file": "assets/js/bbc7dffb.180cc52d.js",
+          "hash": "b4e58e315b2b6812",
+          "publicPath": "/ai_book_hack_I/assets/js/bbc7dffb.180cc52d.js"
+        }
+      ]
+    },
+    "3440": {
+      "js": [
+        {
+          "file": "assets/js/27f78630.ee795c01.js",
+          "hash": "fcd23482fa39e057",
+          "publicPath": "/ai_book_hack_I/assets/js/27f78630.ee795c01.js"
+        }
+      ]
+    },
+    "3539": {
+      "js": [
+        {
+          "file": "assets/js/4572d7b3.03a3e1c6.js",
+          "hash": "31e39cab22b91146",
+          "publicPath": "/ai_book_hack_I/assets/js/4572d7b3.03a3e1c6.js"
+        }
+      ]
+    },
+    "3581": {
+      "js": [
+        {
+          "file": "assets/js/06705f17.19cd92d5.js",
+          "hash": "6d2bdc6089a821fc",
+          "publicPath": "/ai_book_hack_I/assets/js/06705f17.19cd92d5.js"
+        }
+      ]
+    },
+    "3783": {
+      "js": [
+        {
+          "file": "assets/js/2f6e6a2f.b264dffb.js",
+          "hash": "739b3a8d56f36d61",
+          "publicPath": "/ai_book_hack_I/assets/js/2f6e6a2f.b264dffb.js"
+        }
+      ]
+    },
+    "3867": {
+      "js": [
+        {
+          "file": "assets/js/7f5ec105.22d00521.js",
+          "hash": "f5e0bc74c3ea4f96",
+          "publicPath": "/ai_book_hack_I/assets/js/7f5ec105.22d00521.js"
+        }
+      ]
+    },
+    "3976": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.9affb347.js",
+          "hash": "045228a7eb1d0908",
+          "publicPath": "/ai_book_hack_I/assets/js/0e384e19.9affb347.js"
+        }
+      ]
+    },
+    "4241": {
+      "js": [
+        {
+          "file": "assets/js/af069f6f.50c81529.js",
+          "hash": "bb24c0c6430e97e2",
+          "publicPath": "/ai_book_hack_I/assets/js/af069f6f.50c81529.js"
+        }
+      ]
+    },
+    "4249": {
+      "js": [
+        {
+          "file": "assets/js/999179fd.b2256a9f.js",
+          "hash": "c79cac7da23c9743",
+          "publicPath": "/ai_book_hack_I/assets/js/999179fd.b2256a9f.js"
+        }
+      ]
+    },
+    "4254": {
+      "js": [
+        {
+          "file": "assets/js/5245ba28.801e751e.js",
+          "hash": "8adbdc4394abca14",
+          "publicPath": "/ai_book_hack_I/assets/js/5245ba28.801e751e.js"
+        }
+      ]
+    },
+    "4279": {
+      "js": [
+        {
+          "file": "assets/js/df203c0f.3786e5cc.js",
+          "hash": "dd501470d4d6212b",
+          "publicPath": "/ai_book_hack_I/assets/js/df203c0f.3786e5cc.js"
+        }
+      ]
+    },
+    "4386": {
+      "js": [
+        {
+          "file": "assets/js/3b72beaa.71cf8fd7.js",
+          "hash": "a3b8e4ebb8075172",
+          "publicPath": "/ai_book_hack_I/assets/js/3b72beaa.71cf8fd7.js"
+        }
+      ]
+    },
+    "4543": {
+      "js": [
+        {
+          "file": "assets/js/4f53670c.79f0af5f.js",
+          "hash": "bc2e4d88a38f7659",
+          "publicPath": "/ai_book_hack_I/assets/js/4f53670c.79f0af5f.js"
+        }
+      ]
+    },
+    "4668": {
+      "js": [
+        {
+          "file": "assets/js/164666ac.fdfd0024.js",
+          "hash": "356edab26ef9a825",
+          "publicPath": "/ai_book_hack_I/assets/js/164666ac.fdfd0024.js"
+        }
+      ]
+    },
+    "4787": {
+      "js": [
+        {
+          "file": "assets/js/3720c009.071084d3.js",
+          "hash": "387263c5b710ef37",
+          "publicPath": "/ai_book_hack_I/assets/js/3720c009.071084d3.js"
+        }
+      ]
+    },
+    "4946": {
+      "js": [
+        {
+          "file": "assets/js/75144d15.09fee5f7.js",
+          "hash": "b65da43586d8132e",
+          "publicPath": "/ai_book_hack_I/assets/js/75144d15.09fee5f7.js"
+        }
+      ]
+    },
+    "5354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.1af9e7a5.js",
+          "hash": "c829a9fd8dda2124",
+          "publicPath": "/ai_book_hack_I/assets/js/runtime~main.1af9e7a5.js"
+        }
+      ]
+    },
+    "5414": {
+      "js": [
+        {
+          "file": "assets/js/1eea372e.eed11f0e.js",
+          "hash": "35e0af888956ef16",
+          "publicPath": "/ai_book_hack_I/assets/js/1eea372e.eed11f0e.js"
+        }
+      ]
+    },
+    "5535": {
+      "js": [
+        {
+          "file": "assets/js/31d84a30.64a77aaf.js",
+          "hash": "dab9860121fbca00",
+          "publicPath": "/ai_book_hack_I/assets/js/31d84a30.64a77aaf.js"
+        }
+      ]
+    },
+    "5621": {
+      "js": [
+        {
+          "file": "assets/js/d5182688.d3f2da18.js",
+          "hash": "dfef48ca718b9bae",
+          "publicPath": "/ai_book_hack_I/assets/js/d5182688.d3f2da18.js"
+        }
+      ]
+    },
+    "5632": {
+      "js": [
+        {
+          "file": "assets/js/472a4128.fb5f8c2f.js",
+          "hash": "bb8b896efddaabe4",
+          "publicPath": "/ai_book_hack_I/assets/js/472a4128.fb5f8c2f.js"
+        }
+      ]
+    },
+    "5742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.bbc83552.js",
+          "hash": "e6e4eb23a3ea50c3",
+          "publicPath": "/ai_book_hack_I/assets/js/aba21aa0.bbc83552.js"
+        }
+      ]
+    },
+    "5877": {
+      "js": [
+        {
+          "file": "assets/js/ca7b8870.85f51693.js",
+          "hash": "3236aae20f45021f",
+          "publicPath": "/ai_book_hack_I/assets/js/ca7b8870.85f51693.js"
+        }
+      ]
+    },
+    "6053": {
+      "js": [
+        {
+          "file": "assets/js/bdce984c.04772375.js",
+          "hash": "22561286983667c9",
+          "publicPath": "/ai_book_hack_I/assets/js/bdce984c.04772375.js"
+        }
+      ]
+    },
+    "6113": {
+      "js": [
+        {
+          "file": "assets/js/0dcda2e9.0ed5b0ec.js",
+          "hash": "5782fedc4ab62e86",
+          "publicPath": "/ai_book_hack_I/assets/js/0dcda2e9.0ed5b0ec.js"
+        }
+      ]
+    },
+    "6144": {
+      "js": [
+        {
+          "file": "assets/js/cd692f5b.287b350b.js",
+          "hash": "843f3ba8332765ec",
+          "publicPath": "/ai_book_hack_I/assets/js/cd692f5b.287b350b.js"
+        }
+      ]
+    },
+    "6212": {
+      "js": [
+        {
+          "file": "assets/js/9fe74b97.bd61d365.js",
+          "hash": "51ed991feb8dea70",
+          "publicPath": "/ai_book_hack_I/assets/js/9fe74b97.bd61d365.js"
+        }
+      ]
+    },
+    "6707": {
+      "js": [
+        {
+          "file": "assets/js/33ebaa34.f0ca252e.js",
+          "hash": "67745e3cb07fdc81",
+          "publicPath": "/ai_book_hack_I/assets/js/33ebaa34.f0ca252e.js"
+        }
+      ]
+    },
+    "7033": {
+      "js": [
+        {
+          "file": "assets/js/1bd67ce0.7f012cca.js",
+          "hash": "11b35f5d0a92b201",
+          "publicPath": "/ai_book_hack_I/assets/js/1bd67ce0.7f012cca.js"
+        }
+      ]
+    },
+    "7098": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.ccb01e07.js",
+          "hash": "ffe98e04262fccf8",
+          "publicPath": "/ai_book_hack_I/assets/js/a7bd4aaa.ccb01e07.js"
+        }
+      ]
+    },
+    "7130": {
+      "js": [
+        {
+          "file": "assets/js/b822abdf.fd579d88.js",
+          "hash": "387510796a132ed1",
+          "publicPath": "/ai_book_hack_I/assets/js/b822abdf.fd579d88.js"
+        }
+      ]
+    },
+    "7384": {
+      "js": [
+        {
+          "file": "assets/js/c5060816.9fc319a5.js",
+          "hash": "8609afdd76faf37f",
+          "publicPath": "/ai_book_hack_I/assets/js/c5060816.9fc319a5.js"
+        }
+      ]
+    },
+    "7730": {
+      "js": [
+        {
+          "file": "assets/js/da7777ca.8f611e57.js",
+          "hash": "d813267f61d775f6",
+          "publicPath": "/ai_book_hack_I/assets/js/da7777ca.8f611e57.js"
+        }
+      ]
+    },
+    "7924": {
+      "js": [
+        {
+          "file": "assets/js/54f44165.a5fae5b6.js",
+          "hash": "36fb704c8f27ab59",
+          "publicPath": "/ai_book_hack_I/assets/js/54f44165.a5fae5b6.js"
+        }
+      ]
+    },
+    "8138": {
+      "js": [
+        {
+          "file": "assets/js/bc010c7c.7582d297.js",
+          "hash": "ca36c4d4ba06341f",
+          "publicPath": "/ai_book_hack_I/assets/js/bc010c7c.7582d297.js"
+        }
+      ]
+    },
+    "8175": {
+      "js": [
+        {
+          "file": "assets/js/0cd25194.839eca94.js",
+          "hash": "d603139e44ee87aa",
+          "publicPath": "/ai_book_hack_I/assets/js/0cd25194.839eca94.js"
+        }
+      ]
+    },
+    "8297": {
+      "js": [
+        {
+          "file": "assets/js/0ea26ca4.5528a542.js",
+          "hash": "d00bf1db55f508ad",
+          "publicPath": "/ai_book_hack_I/assets/js/0ea26ca4.5528a542.js"
+        }
+      ]
+    },
+    "8324": {
+      "js": [
+        {
+          "file": "assets/js/a491fb6d.f790a549.js",
+          "hash": "b4cb036bba734d33",
+          "publicPath": "/ai_book_hack_I/assets/js/a491fb6d.f790a549.js"
+        }
+      ]
+    },
+    "8401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.2d0c0180.js",
+          "hash": "61226682391f8229",
+          "publicPath": "/ai_book_hack_I/assets/js/17896441.2d0c0180.js"
+        }
+      ]
+    },
+    "8422": {
+      "js": [
+        {
+          "file": "assets/js/38438a60.ad34848f.js",
+          "hash": "c6fbcb953c194184",
+          "publicPath": "/ai_book_hack_I/assets/js/38438a60.ad34848f.js"
+        }
+      ]
+    },
+    "8754": {
+      "js": [
+        {
+          "file": "assets/js/1c330d87.b9bf849d.js",
+          "hash": "d354f6a26be01362",
+          "publicPath": "/ai_book_hack_I/assets/js/1c330d87.b9bf849d.js"
+        }
+      ]
+    },
+    "8775": {
+      "js": [
+        {
+          "file": "assets/js/18a1d5a3.a4f832cd.js",
+          "hash": "ffa7d171670dd428",
+          "publicPath": "/ai_book_hack_I/assets/js/18a1d5a3.a4f832cd.js"
+        }
+      ]
+    },
+    "8792": {
+      "js": [
+        {
+          "file": "assets/js/main.35a1ab85.js",
+          "hash": "52d059f8c5135875",
+          "publicPath": "/ai_book_hack_I/assets/js/main.35a1ab85.js"
+        }
+      ]
+    },
+    "8809": {
+      "js": [
+        {
+          "file": "assets/js/d6021bba.40bdf017.js",
+          "hash": "3d02c0605390b5ab",
+          "publicPath": "/ai_book_hack_I/assets/js/d6021bba.40bdf017.js"
+        }
+      ]
+    },
+    "8863": {
+      "js": [
+        {
+          "file": "assets/js/54261523.4fce9f94.js",
+          "hash": "52d19aa001e265b9",
+          "publicPath": "/ai_book_hack_I/assets/js/54261523.4fce9f94.js"
+        }
+      ]
+    },
+    "8945": {
+      "js": [
+        {
+          "file": "assets/js/af164d46.d3b52d2e.js",
+          "hash": "bdc7274240653739",
+          "publicPath": "/ai_book_hack_I/assets/js/af164d46.d3b52d2e.js"
+        }
+      ]
+    },
+    "8952": {
+      "js": [
+        {
+          "file": "assets/js/06f786ee.5107650d.js",
+          "hash": "95d9dc229df12362",
+          "publicPath": "/ai_book_hack_I/assets/js/06f786ee.5107650d.js"
+        }
+      ]
+    },
+    "8985": {
+      "js": [
+        {
+          "file": "assets/js/6813c401.e3525e9f.js",
+          "hash": "4333bd893790fa1d",
+          "publicPath": "/ai_book_hack_I/assets/js/6813c401.e3525e9f.js"
+        }
+      ]
+    },
+    "9048": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.c1d3dadf.js",
+          "hash": "a09ba8eda960e0f7",
+          "publicPath": "/ai_book_hack_I/assets/js/a94703ab.c1d3dadf.js"
+        }
+      ]
+    },
+    "9587": {
+      "js": [
+        {
+          "file": "assets/js/bb230bdc.873d26d1.js",
+          "hash": "86f630e598c02704",
+          "publicPath": "/ai_book_hack_I/assets/js/bb230bdc.873d26d1.js"
+        }
+      ]
+    },
+    "9647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.93b56d0b.js",
+          "hash": "637fa8d04fb69e16",
+          "publicPath": "/ai_book_hack_I/assets/js/5e95c892.93b56d0b.js"
+        }
+      ]
+    },
+    "9719": {
+      "js": [
+        {
+          "file": "assets/js/ad9c9b42.f13652c8.js",
+          "hash": "15a82c0dc3d02a23",
+          "publicPath": "/ai_book_hack_I/assets/js/ad9c9b42.f13652c8.js"
+        }
+      ]
+    },
+    "9783": {
+      "js": [
+        {
+          "file": "assets/js/62b08943.3098173e.js",
+          "hash": "f5d8afd45ba59408",
+          "publicPath": "/ai_book_hack_I/assets/js/62b08943.3098173e.js"
+        }
+      ]
+    },
+    "9881": {
+      "js": [
+        {
+          "file": "assets/js/284ab42e.930ae029.js",
+          "hash": "8311b78b9248dc6e",
+          "publicPath": "/ai_book_hack_I/assets/js/284ab42e.930ae029.js"
+        }
+      ]
+    },
+    "9940": {
+      "js": [
+        {
+          "file": "assets/js/e6c4ccd1.f100d3fa.js",
+          "hash": "5f151f0ef709af8c",
+          "publicPath": "/ai_book_hack_I/assets/js/e6c4ccd1.f100d3fa.js"
+        }
+      ]
+    },
+    "9965": {
+      "js": [
+        {
+          "file": "assets/js/18e07c35.e5427f61.js",
+          "hash": "23a893b4176900dd",
+          "publicPath": "/ai_book_hack_I/assets/js/18e07c35.e5427f61.js"
+        }
+      ]
+    }
+  }
+}

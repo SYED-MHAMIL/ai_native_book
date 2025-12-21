@@ -1,0 +1,65 @@
+{
+  "id": "intro",
+  "title": "Physical AI & Humanoid Robotics: Bridging Digital and Physical Intelligence",
+  "description": "A comprehensive technical book on building AI systems for humanoid robots, covering ROS 2, simulation, NVIDIA Isaac, and Vision-Language-Action systems.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/ai_book_hack_I/docs/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mohamil/ai-book-hack/tree/main/website/docs/intro.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "ai",
+      "permalink": "/ai_book_hack_I/docs/tags/ai"
+    },
+    {
+      "inline": true,
+      "label": "robotics",
+      "permalink": "/ai_book_hack_I/docs/tags/robotics"
+    },
+    {
+      "inline": true,
+      "label": "humanoid",
+      "permalink": "/ai_book_hack_I/docs/tags/humanoid"
+    },
+    {
+      "inline": true,
+      "label": "ros2",
+      "permalink": "/ai_book_hack_I/docs/tags/ros-2"
+    },
+    {
+      "inline": true,
+      "label": "nvidia-isaac",
+      "permalink": "/ai_book_hack_I/docs/tags/nvidia-isaac"
+    },
+    {
+      "inline": true,
+      "label": "gazebo",
+      "permalink": "/ai_book_hack_I/docs/tags/gazebo"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "slug": "/",
+    "sidebar_position": 1,
+    "title": "Physical AI & Humanoid Robotics: Bridging Digital and Physical Intelligence",
+    "description": "A comprehensive technical book on building AI systems for humanoid robots, covering ROS 2, simulation, NVIDIA Isaac, and Vision-Language-Action systems.",
+    "tags": [
+      "ai",
+      "robotics",
+      "humanoid",
+      "ros2",
+      "nvidia-isaac",
+      "gazebo"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Installation & Setup Guide",
+    "permalink": "/ai_book_hack_I/docs/getting-started/installation"
+  }
+}

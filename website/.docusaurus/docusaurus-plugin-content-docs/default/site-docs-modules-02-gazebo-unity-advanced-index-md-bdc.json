@@ -1,0 +1,62 @@
+{
+  "id": "modules/gazebo-unity/advanced/index",
+  "title": "Advanced Simulation Techniques",
+  "description": "Advanced simulation methods and optimization for complex humanoid robotics applications",
+  "source": "@site/docs/modules/02-gazebo-unity/advanced/index.md",
+  "sourceDirName": "modules/02-gazebo-unity/advanced",
+  "slug": "/modules/gazebo-unity/advanced/",
+  "permalink": "/ai_book_hack_I/docs/modules/gazebo-unity/advanced/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mohamil/ai-book-hack/tree/main/website/docs/modules/02-gazebo-unity/advanced/index.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "gazebo",
+      "permalink": "/ai_book_hack_I/docs/tags/gazebo"
+    },
+    {
+      "inline": true,
+      "label": "simulation",
+      "permalink": "/ai_book_hack_I/docs/tags/simulation"
+    },
+    {
+      "inline": true,
+      "label": "advanced",
+      "permalink": "/ai_book_hack_I/docs/tags/advanced"
+    },
+    {
+      "inline": true,
+      "label": "optimization",
+      "permalink": "/ai_book_hack_I/docs/tags/optimization"
+    },
+    {
+      "inline": true,
+      "label": "physics",
+      "permalink": "/ai_book_hack_I/docs/tags/physics"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Advanced Simulation Techniques",
+    "description": "Advanced simulation methods and optimization for complex humanoid robotics applications",
+    "tags": [
+      "gazebo",
+      "simulation",
+      "advanced",
+      "optimization",
+      "physics"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS 2 Core Concepts and Architecture",
+    "permalink": "/ai_book_hack_I/docs/modules/ros2/theory/core-concepts"
+  },
+  "next": {
+    "title": "Gazebo Simulation for Digital Twins",
+    "permalink": "/ai_book_hack_I/docs/modules/gazebo-unity/intro"
+  }
+}

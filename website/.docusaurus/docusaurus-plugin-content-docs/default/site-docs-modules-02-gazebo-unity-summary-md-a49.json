@@ -1,0 +1,62 @@
+{
+  "id": "modules/gazebo-unity/summary",
+  "title": "Module 2 Summary: Gazebo & Unity - Digital Twins",
+  "description": "Summary of simulation environments and digital twin concepts for humanoid robotics",
+  "source": "@site/docs/modules/02-gazebo-unity/summary.md",
+  "sourceDirName": "modules/02-gazebo-unity",
+  "slug": "/modules/gazebo-unity/summary",
+  "permalink": "/ai_book_hack_I/docs/modules/gazebo-unity/summary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mohamil/ai-book-hack/tree/main/website/docs/modules/02-gazebo-unity/summary.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "gazebo",
+      "permalink": "/ai_book_hack_I/docs/tags/gazebo"
+    },
+    {
+      "inline": true,
+      "label": "unity",
+      "permalink": "/ai_book_hack_I/docs/tags/unity"
+    },
+    {
+      "inline": true,
+      "label": "simulation",
+      "permalink": "/ai_book_hack_I/docs/tags/simulation"
+    },
+    {
+      "inline": true,
+      "label": "digital-twin",
+      "permalink": "/ai_book_hack_I/docs/tags/digital-twin"
+    },
+    {
+      "inline": true,
+      "label": "robotics",
+      "permalink": "/ai_book_hack_I/docs/tags/robotics"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 100,
+  "frontMatter": {
+    "sidebar_position": 100,
+    "title": "Module 2 Summary: Gazebo & Unity - Digital Twins",
+    "description": "Summary of simulation environments and digital twin concepts for humanoid robotics",
+    "tags": [
+      "gazebo",
+      "unity",
+      "simulation",
+      "digital-twin",
+      "robotics"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gazebo Simulation for Digital Twins",
+    "permalink": "/ai_book_hack_I/docs/modules/gazebo-unity/intro"
+  },
+  "next": {
+    "title": "Practical World Creation and Environment Setup",
+    "permalink": "/ai_book_hack_I/docs/modules/gazebo-unity/practical/world-creation"
+  }
+}

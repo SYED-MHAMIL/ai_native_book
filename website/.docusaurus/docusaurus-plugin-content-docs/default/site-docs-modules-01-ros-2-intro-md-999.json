@@ -1,0 +1,56 @@
+{
+  "id": "modules/ros2/intro",
+  "title": "Introduction to ROS 2 as a Robotic Nervous System",
+  "description": "Understanding why robots need a nervous system and the fundamental concepts of ROS 2",
+  "source": "@site/docs/modules/01-ros2/intro.md",
+  "sourceDirName": "modules/01-ros2",
+  "slug": "/modules/ros2/intro",
+  "permalink": "/ai_book_hack_I/docs/modules/ros2/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mohamil/ai-book-hack/tree/main/website/docs/modules/01-ros2/intro.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "ros2",
+      "permalink": "/ai_book_hack_I/docs/tags/ros-2"
+    },
+    {
+      "inline": true,
+      "label": "robotics",
+      "permalink": "/ai_book_hack_I/docs/tags/robotics"
+    },
+    {
+      "inline": true,
+      "label": "ai",
+      "permalink": "/ai_book_hack_I/docs/tags/ai"
+    },
+    {
+      "inline": true,
+      "label": "middleware",
+      "permalink": "/ai_book_hack_I/docs/tags/middleware"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Introduction to ROS 2 as a Robotic Nervous System",
+    "description": "Understanding why robots need a nervous system and the fundamental concepts of ROS 2",
+    "tags": [
+      "ros2",
+      "robotics",
+      "ai",
+      "middleware"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Advanced ROS 2 Topics",
+    "permalink": "/ai_book_hack_I/docs/modules/ros2/advanced/"
+  },
+  "next": {
+    "title": "Module 1 Summary: ROS 2 - Robotic Nervous System",
+    "permalink": "/ai_book_hack_I/docs/modules/ros2/summary"
+  }
+}

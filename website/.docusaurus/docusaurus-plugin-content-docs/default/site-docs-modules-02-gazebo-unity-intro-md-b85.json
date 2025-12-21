@@ -1,0 +1,56 @@
+{
+  "id": "modules/gazebo-unity/intro",
+  "title": "Gazebo Simulation for Digital Twins",
+  "description": "Creating and using digital twins of humanoid robots in Gazebo simulation environment",
+  "source": "@site/docs/modules/02-gazebo-unity/intro.md",
+  "sourceDirName": "modules/02-gazebo-unity",
+  "slug": "/modules/gazebo-unity/intro",
+  "permalink": "/ai_book_hack_I/docs/modules/gazebo-unity/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mohamil/ai-book-hack/tree/main/website/docs/modules/02-gazebo-unity/intro.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "gazebo",
+      "permalink": "/ai_book_hack_I/docs/tags/gazebo"
+    },
+    {
+      "inline": true,
+      "label": "simulation",
+      "permalink": "/ai_book_hack_I/docs/tags/simulation"
+    },
+    {
+      "inline": true,
+      "label": "digital-twin",
+      "permalink": "/ai_book_hack_I/docs/tags/digital-twin"
+    },
+    {
+      "inline": true,
+      "label": "robotics",
+      "permalink": "/ai_book_hack_I/docs/tags/robotics"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Gazebo Simulation for Digital Twins",
+    "description": "Creating and using digital twins of humanoid robots in Gazebo simulation environment",
+    "tags": [
+      "gazebo",
+      "simulation",
+      "digital-twin",
+      "robotics"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Advanced Simulation Techniques",
+    "permalink": "/ai_book_hack_I/docs/modules/gazebo-unity/advanced/"
+  },
+  "next": {
+    "title": "Module 2 Summary: Gazebo & Unity - Digital Twins",
+    "permalink": "/ai_book_hack_I/docs/modules/gazebo-unity/summary"
+  }
+}

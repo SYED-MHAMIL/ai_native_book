@@ -1,0 +1,56 @@
+{
+  "id": "modules/ros2/practical/setup",
+  "title": "ROS 2 Practical Setup and Implementation",
+  "description": "Hands-on guide to implementing ROS 2 systems for humanoid robotics",
+  "source": "@site/docs/modules/01-ros2/practical/setup.md",
+  "sourceDirName": "modules/01-ros2/practical",
+  "slug": "/modules/ros2/practical/setup",
+  "permalink": "/ai_book_hack_I/docs/modules/ros2/practical/setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mohamil/ai-book-hack/tree/main/website/docs/modules/01-ros2/practical/setup.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "ros2",
+      "permalink": "/ai_book_hack_I/docs/tags/ros-2"
+    },
+    {
+      "inline": true,
+      "label": "practical",
+      "permalink": "/ai_book_hack_I/docs/tags/practical"
+    },
+    {
+      "inline": true,
+      "label": "setup",
+      "permalink": "/ai_book_hack_I/docs/tags/setup"
+    },
+    {
+      "inline": true,
+      "label": "implementation",
+      "permalink": "/ai_book_hack_I/docs/tags/implementation"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "ROS 2 Practical Setup and Implementation",
+    "description": "Hands-on guide to implementing ROS 2 systems for humanoid robotics",
+    "tags": [
+      "ros2",
+      "practical",
+      "setup",
+      "implementation"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 1 Summary: ROS 2 - Robotic Nervous System",
+    "permalink": "/ai_book_hack_I/docs/modules/ros2/summary"
+  },
+  "next": {
+    "title": "ROS 2 Core Concepts and Architecture",
+    "permalink": "/ai_book_hack_I/docs/modules/ros2/theory/core-concepts"
+  }
+}

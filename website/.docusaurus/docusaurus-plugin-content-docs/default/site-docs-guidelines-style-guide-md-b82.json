@@ -1,0 +1,56 @@
+{
+  "id": "guidelines/style-guide",
+  "title": "Documentation Style Guide",
+  "description": "Style guide and contribution guidelines for the Physical AI & Humanoid Robotics book",
+  "source": "@site/docs/guidelines/style-guide.md",
+  "sourceDirName": "guidelines",
+  "slug": "/guidelines/style-guide",
+  "permalink": "/ai_book_hack_I/docs/guidelines/style-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mohamil/ai-book-hack/tree/main/website/docs/guidelines/style-guide.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "style-guide",
+      "permalink": "/ai_book_hack_I/docs/tags/style-guide"
+    },
+    {
+      "inline": true,
+      "label": "contribution",
+      "permalink": "/ai_book_hack_I/docs/tags/contribution"
+    },
+    {
+      "inline": true,
+      "label": "guidelines",
+      "permalink": "/ai_book_hack_I/docs/tags/guidelines"
+    },
+    {
+      "inline": true,
+      "label": "markdown",
+      "permalink": "/ai_book_hack_I/docs/tags/markdown"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Documentation Style Guide",
+    "description": "Style guide and contribution guidelines for the Physical AI & Humanoid Robotics book",
+    "tags": [
+      "style-guide",
+      "contribution",
+      "guidelines",
+      "markdown"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Environment Verification",
+    "permalink": "/ai_book_hack_I/docs/getting-started/environment-verification"
+  },
+  "next": {
+    "title": "Advanced ROS 2 Topics",
+    "permalink": "/ai_book_hack_I/docs/modules/ros2/advanced/"
+  }
+}

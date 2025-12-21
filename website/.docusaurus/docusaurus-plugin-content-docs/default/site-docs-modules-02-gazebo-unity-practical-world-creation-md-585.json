@@ -1,0 +1,56 @@
+{
+  "id": "modules/gazebo-unity/practical/world-creation",
+  "title": "Practical World Creation and Environment Setup",
+  "description": "Hands-on guide to creating and testing simulation environments for humanoid robots",
+  "source": "@site/docs/modules/02-gazebo-unity/practical/world-creation.md",
+  "sourceDirName": "modules/02-gazebo-unity/practical",
+  "slug": "/modules/gazebo-unity/practical/world-creation",
+  "permalink": "/ai_book_hack_I/docs/modules/gazebo-unity/practical/world-creation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mohamil/ai-book-hack/tree/main/website/docs/modules/02-gazebo-unity/practical/world-creation.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "gazebo",
+      "permalink": "/ai_book_hack_I/docs/tags/gazebo"
+    },
+    {
+      "inline": true,
+      "label": "simulation",
+      "permalink": "/ai_book_hack_I/docs/tags/simulation"
+    },
+    {
+      "inline": true,
+      "label": "practical",
+      "permalink": "/ai_book_hack_I/docs/tags/practical"
+    },
+    {
+      "inline": true,
+      "label": "world-creation",
+      "permalink": "/ai_book_hack_I/docs/tags/world-creation"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Practical World Creation and Environment Setup",
+    "description": "Hands-on guide to creating and testing simulation environments for humanoid robots",
+    "tags": [
+      "gazebo",
+      "simulation",
+      "practical",
+      "world-creation"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 2 Summary: Gazebo & Unity - Digital Twins",
+    "permalink": "/ai_book_hack_I/docs/modules/gazebo-unity/summary"
+  },
+  "next": {
+    "title": "World Creation and Environment Modeling",
+    "permalink": "/ai_book_hack_I/docs/modules/gazebo-unity/theory/world-creation"
+  }
+}
