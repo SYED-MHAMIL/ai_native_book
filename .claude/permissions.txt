@@ -1,0 +1,6 @@
+Bash(npm run:*)
+Bash(npm install:*)
+Bash(npm test:*)
+Bash(npx:*)
+Bash(yarn:*)
+Bash(pnpm:*)

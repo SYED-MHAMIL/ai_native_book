@@ -1,0 +1,363 @@
+openapi: 3.0.0
+info:
+  title: Docusaurus Documentation API
+  description: API contracts for the Docusaurus-based documentation system for the Physical AI & Humanoid Robotics book
+  version: 1.0.0
+  contact:
+    name: Physical AI Book Team
+    email: team@physicalai-book.org
+
+servers:
+  - url: https://api.physicalai-book.org
+    description: Production API server
+  - url: https://staging-api.physicalai-book.org
+    description: Staging API server
+
+paths:
+  /api/search:
+    get:
+      summary: Search documentation content
+      description: Search across all documentation content with various filters
+      parameters:
+        - name: query
+          in: query
+          required: true
+          schema:
+            type: string
+            example: "ROS 2 installation"
+          description: Search query string
+        - name: limit
+          in: query
+          required: false
+          schema:
+            type: integer
+            default: 10
+            minimum: 1
+            maximum: 100
+          description: Maximum number of results to return
+        - name: module
+          in: query
+          required: false
+          schema:
+            type: string
+            enum: [ros2, gazebo-unity, nvidia-isaac, vla]
+          description: Filter results by specific module
+        - name: type
+          in: query
+          required: false
+          schema:
+            type: string
+            enum: [theory, practical, advanced, exercise]
+          description: Filter results by content type
+      responses:
+        '200':
+          description: Successful search results
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  results:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/SearchResult'
+                  total:
+                    type: integer
+                    description: Total number of results
+                  page:
+                    type: integer
+                    description: Current page number
+                  limit:
+                    type: integer
+                    description: Number of results per page
+        '400':
+          $ref: '#/components/responses/BadRequest'
+        '500':
+          $ref: '#/components/responses/InternalServerError'
+
+  /api/content/{module}/{section}:
+    get:
+      summary: Get specific content section
+      description: Retrieve a specific section of content from the documentation
+      parameters:
+        - name: module
+          in: path
+          required: true
+          schema:
+            type: string
+            enum: [ros2, gazebo-unity, nvidia-isaac, vla]
+          description: Module identifier
+        - name: section
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Section identifier within the module
+        - name: personalized
+          in: query
+          required: false
+          schema:
+            type: boolean
+            default: false
+          description: Whether to return personalized content based on user profile
+        - name: language
+          in: query
+          required: false
+          schema:
+            type: string
+            default: en
+            enum: [en, ur]
+          description: Language code for content (en for English, ur for Urdu)
+      responses:
+        '200':
+          description: Content section retrieved successfully
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ContentSection'
+        '404':
+          $ref: '#/components/responses/NotFound'
+        '500':
+          $ref: '#/components/responses/InternalServerError'
+
+  /api/modules:
+    get:
+      summary: List all available modules
+      description: Get a list of all course modules with metadata
+      responses:
+        '200':
+          description: List of available modules
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  modules:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/Module'
+        '500':
+          $ref: '#/components/responses/InternalServerError'
+
+  /api/user/profile:
+    get:
+      summary: Get user profile
+      description: Retrieve the current user's profile information
+      responses:
+        '200':
+          description: User profile retrieved successfully
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/UserProfile'
+        '401':
+          $ref: '#/components/responses/Unauthorized'
+        '500':
+          $ref: '#/components/responses/InternalServerError'
+    post:
+      summary: Update user profile
+      description: Update the current user's profile information
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/UserProfileUpdate'
+      responses:
+        '200':
+          description: User profile updated successfully
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/UserProfile'
+        '400':
+          $ref: '#/components/responses/BadRequest'
+        '401':
+          $ref: '#/components/responses/Unauthorized'
+        '500':
+          $ref: '#/components/responses/InternalServerError'
+
+components:
+  schemas:
+    SearchResult:
+      type: object
+      properties:
+        id:
+          type: string
+          description: Unique identifier for the content
+        title:
+          type: string
+          description: Title of the content section
+        excerpt:
+          type: string
+          description: Brief excerpt of the content
+        module:
+          $ref: '#/components/schemas/Module'
+        url:
+          type: string
+          format: uri
+          description: URL to the content section
+        score:
+          type: number
+          format: float
+          description: Relevance score for the search result
+        type:
+          type: string
+          enum: [theory, practical, advanced, exercise]
+          description: Type of content
+
+    ContentSection:
+      type: object
+      properties:
+        id:
+          type: string
+          description: Unique identifier for the content
+        title:
+          type: string
+          description: Title of the content section
+        content:
+          type: string
+          description: Markdown content of the section
+        module:
+          $ref: '#/components/schemas/Module'
+        section:
+          type: string
+          description: Section identifier within the module
+        nextSection:
+          type: string
+          description: ID of the next section in sequence
+        previousSection:
+          type: string
+          description: ID of the previous section in sequence
+        relatedSections:
+          type: array
+          items:
+            type: string
+            description: IDs of related sections
+        metadata:
+          type: object
+          additionalProperties: true
+          description: Additional metadata for the content
+
+    Module:
+      type: object
+      properties:
+        id:
+          type: string
+          enum: [ros2, gazebo-unity, nvidia-isaac, vla]
+          description: Unique identifier for the module
+        name:
+          type: string
+          description: Display name of the module
+        description:
+          type: string
+          description: Brief description of the module
+        order:
+          type: integer
+          description: Order in which the module appears in the curriculum
+        sections:
+          type: array
+          items:
+            type: string
+            description: Available section identifiers within the module
+        learningObjectives:
+          type: array
+          items:
+            type: string
+            description: Learning objectives for the module
+
+    UserProfile:
+      type: object
+      properties:
+        id:
+          type: string
+          description: Unique user identifier
+        programmingExperience:
+          type: string
+          enum: [beginner, intermediate, advanced, expert]
+          description: User's programming experience level
+        roboticsExperience:
+          type: string
+          enum: [none, basic, intermediate, advanced]
+          description: User's robotics experience level
+        hardwareAccess:
+          type: array
+          items:
+            type: string
+            enum: [gpu, jetson, robot, none]
+          description: Hardware access available to the user
+        preferredLanguage:
+          type: string
+          enum: [en, ur]
+          description: Preferred language for content
+        personalizationEnabled:
+          type: boolean
+          description: Whether personalization features are enabled
+        createdAt:
+          type: string
+          format: date-time
+          description: When the profile was created
+        updatedAt:
+          type: string
+          format: date-time
+          description: When the profile was last updated
+
+    UserProfileUpdate:
+      type: object
+      properties:
+        programmingExperience:
+          type: string
+          enum: [beginner, intermediate, advanced, expert]
+        roboticsExperience:
+          type: string
+          enum: [none, basic, intermediate, advanced]
+        hardwareAccess:
+          type: array
+          items:
+            type: string
+            enum: [gpu, jetson, robot, none]
+        preferredLanguage:
+          type: string
+          enum: [en, ur]
+        personalizationEnabled:
+          type: boolean
+
+    Error:
+      type: object
+      properties:
+        error:
+          type: string
+          description: Error code
+        message:
+          type: string
+          description: Human-readable error message
+        details:
+          type: object
+          additionalProperties: true
+          description: Additional error details
+
+  responses:
+    BadRequest:
+      description: Bad request - invalid parameters
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/Error'
+    Unauthorized:
+      description: Unauthorized - authentication required
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/Error'
+    NotFound:
+      description: Resource not found
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/Error'
+    InternalServerError:
+      description: Internal server error
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/Error'
