@@ -1,0 +1,265 @@
+openapi: 3.0.0
+info:
+  title: Docusaurus Frontend API Contracts
+  description: API contracts for the Docusaurus frontend and landing experience
+  version: 1.0.0
+
+paths:
+  /api/modules:
+    get:
+      summary: Get all learning modules
+      description: Retrieve a list of all available learning modules with their basic information
+      responses:
+        '200':
+          description: Successful response with module list
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  modules:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/Module'
+        '500':
+          description: Internal server error
+
+  /api/modules/{moduleId}:
+    get:
+      summary: Get specific module details
+      description: Retrieve detailed information about a specific learning module
+      parameters:
+        - name: moduleId
+          in: path
+          required: true
+          schema:
+            type: string
+            example: "module-1-ros2"
+      responses:
+        '200':
+          description: Successful response with module details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Module'
+        '404':
+          description: Module not found
+        '500':
+          description: Internal server error
+
+  /api/modules/{moduleId}/slides:
+    get:
+      summary: Get slides for a module
+      description: Retrieve all slides for a specific learning module
+      parameters:
+        - name: moduleId
+          in: path
+          required: true
+          schema:
+            type: string
+            example: "module-1-ros2"
+      responses:
+        '200':
+          description: Successful response with module slides
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  slides:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/ModuleSlide'
+        '404':
+          description: Module not found
+        '500':
+          description: Internal server error
+
+  /api/progress:
+    post:
+      summary: Save user progress
+      description: Save the current progress of a user in their learning journey
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/UserProgress'
+      responses:
+        '200':
+          description: Progress saved successfully
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/UserProgress'
+        '400':
+          description: Invalid progress data
+        '500':
+          description: Internal server error
+    get:
+      summary: Get user progress
+      description: Retrieve the progress of the authenticated user
+      responses:
+        '200':
+          description: Successful response with user progress
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/UserProgress'
+        '401':
+          description: Unauthorized
+        '500':
+          description: Internal server error
+
+  /api/progress/{progressId}:
+    put:
+      summary: Update user progress
+      description: Update specific progress record
+      parameters:
+        - name: progressId
+          in: path
+          required: true
+          schema:
+            type: string
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/UserProgress'
+      responses:
+        '200':
+          description: Progress updated successfully
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/UserProgress'
+        '400':
+          description: Invalid progress data
+        '404':
+          description: Progress record not found
+        '500':
+          description: Internal server error
+
+components:
+  schemas:
+    Module:
+      type: object
+      required:
+        - id
+        - title
+        - description
+        - buttonText
+        - contentPath
+        - order
+      properties:
+        id:
+          type: string
+          description: Unique identifier for the module
+          example: "module-1-ros2"
+        title:
+          type: string
+          description: Title of the module
+          example: "The Robotic Nervous System (ROS 2)"
+        description:
+          type: string
+          description: One-line focus description
+          example: "Middleware for robot control"
+        buttonText:
+          type: string
+          description: Text for the view details button
+          example: "View Details / Slides"
+        contentPath:
+          type: string
+          description: Path to module documentation
+          example: "/docs/module-1-ros2"
+        icon:
+          type: string
+          description: Optional icon identifier
+          example: "robot"
+        order:
+          type: integer
+          description: Display order
+          example: 1
+
+    ModuleSlide:
+      type: object
+      required:
+        - id
+        - moduleId
+        - title
+        - content
+        - order
+        - type
+      properties:
+        id:
+          type: string
+          description: Unique identifier for the slide
+          example: "slide-1-ros2-intro"
+        moduleId:
+          type: string
+          description: Reference to parent module
+          example: "module-1-ros2"
+        title:
+          type: string
+          description: Slide title
+          example: "Introduction to ROS 2"
+        content:
+          type: string
+          description: Markdown content for the slide
+          example: "# Introduction to ROS 2\n\nROS 2 is the next generation of Robot Operating System..."
+        order:
+          type: integer
+          description: Slide order within module
+          example: 1
+        type:
+          type: string
+          enum: [intro, concept, example, summary, exercise]
+          description: Type of slide
+          example: "intro"
+
+    UserProgress:
+      type: object
+      required:
+        - userId
+        - moduleId
+        - currentSlideId
+        - completedSlides
+        - completedModules
+      properties:
+        id:
+          type: string
+          description: Unique identifier for the progress record
+          example: "progress-123"
+        userId:
+          type: string
+          description: ID of the user
+          example: "user-456"
+        moduleId:
+          type: string
+          description: ID of the current module
+          example: "module-1-ros2"
+        currentSlideId:
+          type: string
+          description: ID of the current slide
+          example: "slide-1-ros2-intro"
+        completedSlides:
+          type: array
+          items:
+            type: string
+          description: IDs of completed slides
+          example: ["slide-1-ros2-intro", "slide-1-ros2-nodes"]
+        completedModules:
+          type: array
+          items:
+            type: string
+          description: IDs of completed modules
+          example: ["module-1-ros2"]
+        createdAt:
+          type: string
+          format: date-time
+          description: When the progress record was created
+        updatedAt:
+          type: string
+          format: date-time
+          description: When the progress record was last updated
