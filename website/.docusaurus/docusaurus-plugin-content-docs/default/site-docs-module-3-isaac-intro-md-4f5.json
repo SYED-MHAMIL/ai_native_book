@@ -1,0 +1,28 @@
+{
+  "id": "module-3-isaac/intro",
+  "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac)",
+  "description": "Introduction to NVIDIA Isaac for perception and motion intelligence in humanoid robots",
+  "source": "@site/docs/module-3-isaac/intro.md",
+  "sourceDirName": "module-3-isaac",
+  "slug": "/module-3-isaac/intro",
+  "permalink": "/ai_book_hack_I/docs/module-3-isaac/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-3-isaac/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Module 3: The AI-Robot Brain (NVIDIA Isaac)",
+    "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac)",
+    "description": "Introduction to NVIDIA Isaac for perception and motion intelligence in humanoid robots"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 3 Summary: NVIDIA Isaac - AI Robot Brain",
+    "permalink": "/ai_book_hack_I/docs/module-3-isaac/summary"
+  },
+  "next": {
+    "title": "Practical GPU Acceleration for Robotics",
+    "permalink": "/ai_book_hack_I/docs/module-3-isaac/practical/gpu-acceleration"
+  }
+}

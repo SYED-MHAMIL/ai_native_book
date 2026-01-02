@@ -1,0 +1,52 @@
+{
+  "id": "module-1-ros2/summary",
+  "title": "Module 1 Summary: ROS 2 - Robotic Nervous System",
+  "description": "Summary of ROS 2 concepts and implementation for humanoid robotics",
+  "source": "@site/docs/module-1-ros2/summary.md",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/summary",
+  "permalink": "/ai_book_hack_I/docs/module-1-ros2/summary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-1-ros2/summary.md",
+  "tags": [
+    {
+      "label": "ros2",
+      "permalink": "/ai_book_hack_I/docs/tags/ros-2"
+    },
+    {
+      "label": "summary",
+      "permalink": "/ai_book_hack_I/docs/tags/summary"
+    },
+    {
+      "label": "robotics",
+      "permalink": "/ai_book_hack_I/docs/tags/robotics"
+    },
+    {
+      "label": "communication",
+      "permalink": "/ai_book_hack_I/docs/tags/communication"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 100,
+  "frontMatter": {
+    "sidebar_position": 100,
+    "title": "Module 1 Summary: ROS 2 - Robotic Nervous System",
+    "description": "Summary of ROS 2 concepts and implementation for humanoid robotics",
+    "tags": [
+      "ros2",
+      "summary",
+      "robotics",
+      "communication"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "URDF for Humanoid Robots",
+    "permalink": "/ai_book_hack_I/docs/module-1-ros2/urdf-humanoids"
+  },
+  "next": {
+    "title": "Module 1: The Robotic Nervous System (ROS 2)",
+    "permalink": "/ai_book_hack_I/docs/module-1-ros2/intro"
+  }
+}

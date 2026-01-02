@@ -1,0 +1,57 @@
+{
+  "id": "module-2-digital-twin/advanced/index",
+  "title": "Advanced Simulation Techniques",
+  "description": "Advanced simulation methods and optimization for complex humanoid robotics applications",
+  "source": "@site/docs/module-2-digital-twin/advanced/index.md",
+  "sourceDirName": "module-2-digital-twin/advanced",
+  "slug": "/module-2-digital-twin/advanced/",
+  "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/advanced/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-2-digital-twin/advanced/index.md",
+  "tags": [
+    {
+      "label": "gazebo",
+      "permalink": "/ai_book_hack_I/docs/tags/gazebo"
+    },
+    {
+      "label": "simulation",
+      "permalink": "/ai_book_hack_I/docs/tags/simulation"
+    },
+    {
+      "label": "advanced",
+      "permalink": "/ai_book_hack_I/docs/tags/advanced"
+    },
+    {
+      "label": "optimization",
+      "permalink": "/ai_book_hack_I/docs/tags/optimization"
+    },
+    {
+      "label": "physics",
+      "permalink": "/ai_book_hack_I/docs/tags/physics"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Advanced Simulation Techniques",
+    "description": "Advanced simulation methods and optimization for complex humanoid robotics applications",
+    "tags": [
+      "gazebo",
+      "simulation",
+      "advanced",
+      "optimization",
+      "physics"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 2: The Digital Twin (Gazebo & Unity)",
+    "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/"
+  },
+  "next": {
+    "title": "Physics & Collision Simulation",
+    "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/physics-simulation"
+  }
+}

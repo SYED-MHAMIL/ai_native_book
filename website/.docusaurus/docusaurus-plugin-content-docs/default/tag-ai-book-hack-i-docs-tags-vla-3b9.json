@@ -1,0 +1,27 @@
+{
+  "label": "vla",
+  "permalink": "/ai_book_hack_I/docs/tags/vla",
+  "allTagsPath": "/ai_book_hack_I/docs/tags",
+  "count": 3,
+  "items": [
+    {
+      "id": "module-4-vla/advanced/index",
+      "title": "Advanced Vision-Language-Action Systems",
+      "description": "Advanced techniques for multimodal AI systems in humanoid robotics",
+      "permalink": "/ai_book_hack_I/docs/module-4-vla/advanced/"
+    },
+    {
+      "id": "module-4-vla/summary",
+      "title": "Module 4 Summary: Vision-Language-Action Systems",
+      "description": "Summary of VLA systems and multimodal AI for humanoid robotics",
+      "permalink": "/ai_book_hack_I/docs/module-4-vla/summary"
+    },
+    {
+      "id": "module-4-vla/theory/multimodal-integration",
+      "title": "Vision-Language-Action Systems",
+      "description": "Creating integrated perception-action systems that understand and respond to human commands",
+      "permalink": "/ai_book_hack_I/docs/module-4-vla/theory/multimodal-integration"
+    }
+  ],
+  "unlisted": false
+}

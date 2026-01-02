@@ -1,0 +1,28 @@
+{
+  "id": "module-2-digital-twin/environment-design",
+  "title": "Environment Design",
+  "description": "Creating realistic environments is crucial for effective simulation and digital twin applications. In this section, we'll explore environment design principles for robotics simulation.",
+  "source": "@site/docs/module-2-digital-twin/environment-design.md",
+  "sourceDirName": "module-2-digital-twin",
+  "slug": "/module-2-digital-twin/environment-design",
+  "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/environment-design",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-2-digital-twin/environment-design.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Environment Design"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Physics & Collision Simulation",
+    "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/physics-simulation"
+  },
+  "next": {
+    "title": "Unity High-Fidelity Rendering",
+    "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/unity-rendering"
+  }
+}

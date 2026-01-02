@@ -1,0 +1,28 @@
+{
+  "id": "module-1-ros2/rclpy-bridge",
+  "title": "rclpy Python Agent Bridge",
+  "description": "rclpy is the Python client library for ROS 2. It provides Python bindings for ROS 2, allowing Python developers to create ROS 2 nodes and interact with the ROS 2 ecosystem.",
+  "source": "@site/docs/module-1-ros2/rclpy-bridge.md",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/rclpy-bridge",
+  "permalink": "/ai_book_hack_I/docs/module-1-ros2/rclpy-bridge",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-1-ros2/rclpy-bridge.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "rclpy Python Agent Bridge"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Nodes, Topics, and Services",
+    "permalink": "/ai_book_hack_I/docs/module-1-ros2/nodes-topics-services"
+  },
+  "next": {
+    "title": "URDF for Humanoid Robots",
+    "permalink": "/ai_book_hack_I/docs/module-1-ros2/urdf-humanoids"
+  }
+}

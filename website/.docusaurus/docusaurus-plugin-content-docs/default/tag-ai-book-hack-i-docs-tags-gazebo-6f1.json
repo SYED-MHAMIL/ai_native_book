@@ -1,0 +1,33 @@
+{
+  "label": "gazebo",
+  "permalink": "/ai_book_hack_I/docs/tags/gazebo",
+  "allTagsPath": "/ai_book_hack_I/docs/tags",
+  "count": 4,
+  "items": [
+    {
+      "id": "module-2-digital-twin/advanced/index",
+      "title": "Advanced Simulation Techniques",
+      "description": "Advanced simulation methods and optimization for complex humanoid robotics applications",
+      "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/advanced/"
+    },
+    {
+      "id": "module-2-digital-twin/summary",
+      "title": "Module 2 Summary: Gazebo & Unity - Digital Twins",
+      "description": "Summary of simulation environments and digital twin concepts for humanoid robotics",
+      "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/summary"
+    },
+    {
+      "id": "module-2-digital-twin/practical/world-creation",
+      "title": "Practical World Creation and Environment Setup",
+      "description": "Hands-on guide to creating and testing simulation environments for humanoid robots",
+      "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/practical/world-creation"
+    },
+    {
+      "id": "module-2-digital-twin/theory/world-creation",
+      "title": "World Creation and Environment Modeling",
+      "description": "Creating realistic simulation environments for humanoid robot testing and development",
+      "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/theory/world-creation"
+    }
+  ],
+  "unlisted": false
+}

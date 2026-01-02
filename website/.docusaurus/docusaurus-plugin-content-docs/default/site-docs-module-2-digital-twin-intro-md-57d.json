@@ -1,0 +1,28 @@
+{
+  "id": "module-2-digital-twin/intro",
+  "title": "Module 2: The Digital Twin (Gazebo & Unity)",
+  "description": "Introduction to digital twins and simulation environments for humanoid robotics",
+  "source": "@site/docs/module-2-digital-twin/intro.md",
+  "sourceDirName": "module-2-digital-twin",
+  "slug": "/module-2-digital-twin/intro",
+  "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-2-digital-twin/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Module 2: The Digital Twin (Gazebo & Unity)",
+    "title": "Module 2: The Digital Twin (Gazebo & Unity)",
+    "description": "Introduction to digital twins and simulation environments for humanoid robotics"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 2 Summary: Gazebo & Unity - Digital Twins",
+    "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/summary"
+  },
+  "next": {
+    "title": "Practical World Creation and Environment Setup",
+    "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/practical/world-creation"
+  }
+}

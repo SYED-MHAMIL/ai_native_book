@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Physical AI & Humanoid Robotics',
-  tagline: 'Bridging Digital Intelligence and Physical Intelligence',
+  title: 'robot.ai',
+  tagline: 'A comprehensive learning platform for humanoid robotics',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -34,25 +34,27 @@ const config = {
     locales: ['en'],
   },
 
-  presets: [
-    [
-      'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
-        docs: {
-          sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/mohamil/ai-book-hack/tree/main/website/',
-        },
-        blog: false, // Optional: disable the blog plugin
-        theme: {
-          customCss: './src/css/custom.css',
-        },
-      }),
-    ],
+ presets: [
+  [
+    'classic',
+    /** @type {import('@docusaurus/preset-classic').Options} */
+    ({
+      docs: {
+        sidebarPath: require.resolve('./sidebars.js'),
+        editUrl:
+          'https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/',
+      },
+      blog: false,
+      theme: {
+        customCss: [
+          require.resolve('./src/css/tailwind.css'),
+          require.resolve('./src/css/custom.css'),
+        ],
+      },
+    }),
   ],
+],
+
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -60,17 +62,16 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Physical AI & Humanoid Robotics',
+        title: 'robot.ai',
         logo: {
-          alt: 'Physical AI Logo',
+          alt: 'robot.ai Logo',
           src: 'img/logo.svg',
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
+            to: '/docs/overview/welcome',
             label: 'Documentation',
+            position: 'right'
           },
           {
             href: 'https://github.com/mohamil/ai-book-hack',
@@ -89,18 +90,42 @@ const config = {
                 label: 'Introduction',
                 to: '/docs/intro',
               },
+              {
+                label: 'Module 1: ROS 2',
+                to: '/docs/module-1-ros2',
+              },
+              {
+                label: 'Module 2: Simulation',
+                to: '/docs/module-2-digital-twin',
+              },
+              {
+                label: 'Module 3: AI Brain',
+                to: '/docs/module-3-isaac',
+              },
+              {
+                label: 'Module 4: VLA',
+                to: '/docs/module-4-vla',
+              },
             ],
           },
           {
-            title: 'Community',
+            title: 'Modules',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'The Robotic Nervous System',
+                to: '/docs/module-1-ros2',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'The Digital Twin',
+                to: '/docs/module-2-digital-twin',
+              },
+              {
+                label: 'The AI-Robot Brain',
+                to: '/docs/module-3-isaac',
+              },
+              {
+                label: 'Vision-Language-Action',
+                to: '/docs/module-4-vla',
               },
             ],
           },
@@ -109,12 +134,12 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/mohamil/ai-book-hack',
+                href: 'https://github.com/SYED-MHAMIL/ai_native_book',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Physical AI & Humanoid Robotics Book Project. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} robot.ai. All rights reserved.`,
       },
       prism: {
         theme: prismThemes.github,

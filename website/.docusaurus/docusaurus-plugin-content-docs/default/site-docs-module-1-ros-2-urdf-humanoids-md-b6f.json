@@ -1,0 +1,28 @@
+{
+  "id": "module-1-ros2/urdf-humanoids",
+  "title": "URDF for Humanoid Robots",
+  "description": "URDF (Unified Robot Description Format) is an XML format for representing a robot model. For humanoid robots, URDF describes the physical structure, joints, and kinematic properties.",
+  "source": "@site/docs/module-1-ros2/urdf-humanoids.md",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/urdf-humanoids",
+  "permalink": "/ai_book_hack_I/docs/module-1-ros2/urdf-humanoids",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-1-ros2/urdf-humanoids.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "URDF for Humanoid Robots"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "rclpy Python Agent Bridge",
+    "permalink": "/ai_book_hack_I/docs/module-1-ros2/rclpy-bridge"
+  },
+  "next": {
+    "title": "Module 1 Summary: ROS 2 - Robotic Nervous System",
+    "permalink": "/ai_book_hack_I/docs/module-1-ros2/summary"
+  }
+}

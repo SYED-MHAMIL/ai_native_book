@@ -1,0 +1,28 @@
+{
+  "id": "module-3-isaac/index",
+  "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac)",
+  "description": "Welcome to the third module of your robotics learning journey. In this module, you'll explore NVIDIA Isaac, which provides perception and motion intelligence for robots.",
+  "source": "@site/docs/module-3-isaac/index.md",
+  "sourceDirName": "module-3-isaac",
+  "slug": "/module-3-isaac/",
+  "permalink": "/ai_book_hack_I/docs/module-3-isaac/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-3-isaac/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "World Creation and Environment Modeling",
+    "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/theory/world-creation"
+  },
+  "next": {
+    "title": "Advanced GPU Acceleration and AI Integration",
+    "permalink": "/ai_book_hack_I/docs/module-3-isaac/advanced/"
+  }
+}

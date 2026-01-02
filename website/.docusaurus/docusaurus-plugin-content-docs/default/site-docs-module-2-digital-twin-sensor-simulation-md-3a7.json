@@ -1,0 +1,28 @@
+{
+  "id": "module-2-digital-twin/sensor-simulation",
+  "title": "Sensor Simulation (LiDAR, Depth, IMU)",
+  "description": "Sensor simulation is critical for robotics development, allowing algorithms to be tested with realistic sensor data before deployment on physical robots.",
+  "source": "@site/docs/module-2-digital-twin/sensor-simulation.md",
+  "sourceDirName": "module-2-digital-twin",
+  "slug": "/module-2-digital-twin/sensor-simulation",
+  "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/sensor-simulation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-2-digital-twin/sensor-simulation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Sensor Simulation (LiDAR, Depth, IMU)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Unity High-Fidelity Rendering",
+    "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/unity-rendering"
+  },
+  "next": {
+    "title": "Module 2 Summary: Gazebo & Unity - Digital Twins",
+    "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/summary"
+  }
+}

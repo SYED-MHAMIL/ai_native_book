@@ -1,0 +1,28 @@
+{
+  "id": "module-4-vla/real-world-applications",
+  "title": "Real-World Applications",
+  "description": "Vision-Language-Action (VLA) models are being deployed in various real-world applications, transforming how robots interact with complex environments and human users. This section explores practical implementations and use cases.",
+  "source": "@site/docs/module-4-vla/real-world-applications.md",
+  "sourceDirName": "module-4-vla",
+  "slug": "/module-4-vla/real-world-applications",
+  "permalink": "/ai_book_hack_I/docs/module-4-vla/real-world-applications",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-4-vla/real-world-applications.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Real-World Applications"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Role in Humanoid Interaction",
+    "permalink": "/ai_book_hack_I/docs/module-4-vla/humanoid-interaction"
+  },
+  "next": {
+    "title": "Module 4 Summary: Vision-Language-Action Systems",
+    "permalink": "/ai_book_hack_I/docs/module-4-vla/summary"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "module-4-vla/index",
+  "title": "Module 4: Vision-Language-Action (VLA)",
+  "description": "Welcome to the fourth and final module of your robotics learning journey. In this module, you'll explore Vision-Language-Action models, which represent the cutting edge of multimodal reasoning and behavior in robotics.",
+  "source": "@site/docs/module-4-vla/index.md",
+  "sourceDirName": "module-4-vla",
+  "slug": "/module-4-vla/",
+  "permalink": "/ai_book_hack_I/docs/module-4-vla/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-4-vla/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Module 4: Vision-Language-Action (VLA)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GPU-Accelerated Perception Systems",
+    "permalink": "/ai_book_hack_I/docs/module-3-isaac/theory/gpu-accelerated-perception"
+  },
+  "next": {
+    "title": "Advanced Vision-Language-Action Systems",
+    "permalink": "/ai_book_hack_I/docs/module-4-vla/advanced/"
+  }
+}

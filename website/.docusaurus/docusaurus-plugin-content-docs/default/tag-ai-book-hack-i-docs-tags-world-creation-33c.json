@@ -1,0 +1,15 @@
+{
+  "label": "world-creation",
+  "permalink": "/ai_book_hack_I/docs/tags/world-creation",
+  "allTagsPath": "/ai_book_hack_I/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "module-2-digital-twin/practical/world-creation",
+      "title": "Practical World Creation and Environment Setup",
+      "description": "Hands-on guide to creating and testing simulation environments for humanoid robots",
+      "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/practical/world-creation"
+    }
+  ],
+  "unlisted": false
+}

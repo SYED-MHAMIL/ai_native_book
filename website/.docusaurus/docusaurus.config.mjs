@@ -4,14 +4,15 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Physical AI & Humanoid Robotics",
-  "tagline": "Bridging Digital Intelligence and Physical Intelligence",
+  "title": "robot.ai",
+  "tagline": "A comprehensive learning platform for humanoid robotics",
   "favicon": "img/favicon.ico",
   "url": "https://your-username.github.io",
   "baseUrl": "/ai_book_hack_I/",
   "organizationName": "mohamil",
   "projectName": "ai-book-hack",
   "onBrokenLinks": "warn",
+  "onBrokenMarkdownLinks": "warn",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -25,12 +26,15 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/mohamil/ai-book-hack/tree/main/website/"
+          "sidebarPath": "C:\\Users\\mohamil\\Desktop\\MHAMIL\\SPECIFY\\ai_book_hack_I\\website\\sidebars.js",
+          "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/"
         },
         "blog": false,
         "theme": {
-          "customCss": "./src/css/custom.css"
+          "customCss": [
+            "C:\\Users\\mohamil\\Desktop\\MHAMIL\\SPECIFY\\ai_book_hack_I\\website\\src\\css\\tailwind.css",
+            "C:\\Users\\mohamil\\Desktop\\MHAMIL\\SPECIFY\\ai_book_hack_I\\website\\src\\css\\custom.css"
+          ]
         }
       }
     ]
@@ -38,17 +42,16 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "Physical AI & Humanoid Robotics",
+      "title": "robot.ai",
       "logo": {
-        "alt": "Physical AI Logo",
+        "alt": "robot.ai Logo",
         "src": "img/logo.svg"
       },
       "items": [
         {
-          "type": "docSidebar",
-          "sidebarId": "tutorialSidebar",
-          "position": "left",
-          "label": "Documentation"
+          "to": "/docs/overview/welcome",
+          "label": "Documentation",
+          "position": "right"
         },
         {
           "href": "https://github.com/mohamil/ai-book-hack",
@@ -67,19 +70,43 @@ export default {
             {
               "label": "Introduction",
               "to": "/docs/intro"
+            },
+            {
+              "label": "Module 1: ROS 2",
+              "to": "/docs/module-1-ros2"
+            },
+            {
+              "label": "Module 2: Simulation",
+              "to": "/docs/module-2-digital-twin"
+            },
+            {
+              "label": "Module 3: AI Brain",
+              "to": "/docs/module-3-isaac"
+            },
+            {
+              "label": "Module 4: VLA",
+              "to": "/docs/module-4-vla"
             }
           ]
         },
         {
-          "title": "Community",
+          "title": "Modules",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
+              "label": "The Robotic Nervous System",
+              "to": "/docs/module-1-ros2"
             },
             {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
+              "label": "The Digital Twin",
+              "to": "/docs/module-2-digital-twin"
+            },
+            {
+              "label": "The AI-Robot Brain",
+              "to": "/docs/module-3-isaac"
+            },
+            {
+              "label": "Vision-Language-Action",
+              "to": "/docs/module-4-vla"
             }
           ]
         },
@@ -88,12 +115,12 @@ export default {
           "items": [
             {
               "label": "GitHub",
-              "href": "https://github.com/mohamil/ai-book-hack"
+              "href": "https://github.com/SYED-MHAMIL/ai_native_book"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2025 Physical AI & Humanoid Robotics Book Project. Built with Docusaurus."
+      "copyright": "Copyright © 2026 robot.ai. All rights reserved."
     },
     "prism": {
       "theme": {
@@ -311,11 +338,6 @@ export default {
         "autoCollapseCategories": false
       }
     },
-    "blog": {
-      "sidebar": {
-        "groupByYear": true
-      }
-    },
     "metadata": [],
     "tableOfContents": {
       "minHeadingLevel": 2,
@@ -323,27 +345,6 @@ export default {
     }
   },
   "baseUrlIssueBanner": true,
-  "future": {
-    "v4": {
-      "removeLegacyPostBuildHeadAttribute": false,
-      "useCssCascadeLayers": false
-    },
-    "experimental_faster": {
-      "swcJsLoader": false,
-      "swcJsMinimizer": false,
-      "swcHtmlMinimizer": false,
-      "lightningCssMinimizer": false,
-      "mdxCrossCompilerCache": false,
-      "rspackBundler": false,
-      "rspackPersistentCache": false,
-      "ssgWorkerThreads": false
-    },
-    "experimental_storage": {
-      "type": "localStorage",
-      "namespace": false
-    },
-    "experimental_router": "browser"
-  },
   "onBrokenAnchors": "warn",
   "onDuplicateRoutes": "warn",
   "staticDirectories": [
@@ -361,18 +362,10 @@ export default {
   "markdown": {
     "format": "mdx",
     "mermaid": false,
-    "emoji": true,
     "mdx1Compat": {
       "comments": true,
       "admonitions": true,
       "headingIds": true
-    },
-    "anchors": {
-      "maintainCase": false
-    },
-    "hooks": {
-      "onBrokenMarkdownLinks": "warn",
-      "onBrokenMarkdownImages": "throw"
     }
   }
 };

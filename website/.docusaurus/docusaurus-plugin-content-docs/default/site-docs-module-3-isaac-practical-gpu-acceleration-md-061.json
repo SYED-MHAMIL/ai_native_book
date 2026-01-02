@@ -1,0 +1,52 @@
+{
+  "id": "module-3-isaac/practical/gpu-acceleration",
+  "title": "Practical GPU Acceleration for Robotics",
+  "description": "Hands-on guide to implementing GPU-accelerated perception and AI systems using NVIDIA Isaac",
+  "source": "@site/docs/module-3-isaac/practical/gpu-acceleration.md",
+  "sourceDirName": "module-3-isaac/practical",
+  "slug": "/module-3-isaac/practical/gpu-acceleration",
+  "permalink": "/ai_book_hack_I/docs/module-3-isaac/practical/gpu-acceleration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-3-isaac/practical/gpu-acceleration.md",
+  "tags": [
+    {
+      "label": "nvidia-isaac",
+      "permalink": "/ai_book_hack_I/docs/tags/nvidia-isaac"
+    },
+    {
+      "label": "gpu-acceleration",
+      "permalink": "/ai_book_hack_I/docs/tags/gpu-acceleration"
+    },
+    {
+      "label": "practical",
+      "permalink": "/ai_book_hack_I/docs/tags/practical"
+    },
+    {
+      "label": "perception",
+      "permalink": "/ai_book_hack_I/docs/tags/perception"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Practical GPU Acceleration for Robotics",
+    "description": "Hands-on guide to implementing GPU-accelerated perception and AI systems using NVIDIA Isaac",
+    "tags": [
+      "nvidia-isaac",
+      "gpu-acceleration",
+      "practical",
+      "perception"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac)",
+    "permalink": "/ai_book_hack_I/docs/module-3-isaac/intro"
+  },
+  "next": {
+    "title": "GPU-Accelerated Perception Systems",
+    "permalink": "/ai_book_hack_I/docs/module-3-isaac/theory/gpu-accelerated-perception"
+  }
+}

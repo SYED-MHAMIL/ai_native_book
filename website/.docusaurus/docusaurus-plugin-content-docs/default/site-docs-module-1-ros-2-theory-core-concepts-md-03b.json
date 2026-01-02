@@ -1,0 +1,57 @@
+{
+  "id": "module-1-ros2/theory/core-concepts",
+  "title": "ROS 2 Core Concepts and Architecture",
+  "description": "Fundamental building blocks of ROS 2 systems for humanoid robotics",
+  "source": "@site/docs/module-1-ros2/theory/core-concepts.md",
+  "sourceDirName": "module-1-ros2/theory",
+  "slug": "/module-1-ros2/theory/core-concepts",
+  "permalink": "/ai_book_hack_I/docs/module-1-ros2/theory/core-concepts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-1-ros2/theory/core-concepts.md",
+  "tags": [
+    {
+      "label": "ros2",
+      "permalink": "/ai_book_hack_I/docs/tags/ros-2"
+    },
+    {
+      "label": "architecture",
+      "permalink": "/ai_book_hack_I/docs/tags/architecture"
+    },
+    {
+      "label": "nodes",
+      "permalink": "/ai_book_hack_I/docs/tags/nodes"
+    },
+    {
+      "label": "topics",
+      "permalink": "/ai_book_hack_I/docs/tags/topics"
+    },
+    {
+      "label": "services",
+      "permalink": "/ai_book_hack_I/docs/tags/services"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "ROS 2 Core Concepts and Architecture",
+    "description": "Fundamental building blocks of ROS 2 systems for humanoid robotics",
+    "tags": [
+      "ros2",
+      "architecture",
+      "nodes",
+      "topics",
+      "services"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS 2 Practical Setup and Implementation",
+    "permalink": "/ai_book_hack_I/docs/module-1-ros2/practical/setup"
+  },
+  "next": {
+    "title": "Module 2: The Digital Twin (Gazebo & Unity)",
+    "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "module-1-ros2/advanced/index",
+  "title": "Advanced ROS 2 Topics",
+  "description": "Advanced concepts and techniques for sophisticated humanoid robotics applications",
+  "source": "@site/docs/module-1-ros2/advanced/index.md",
+  "sourceDirName": "module-1-ros2/advanced",
+  "slug": "/module-1-ros2/advanced/",
+  "permalink": "/ai_book_hack_I/docs/module-1-ros2/advanced/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-1-ros2/advanced/index.md",
+  "tags": [
+    {
+      "label": "ros2",
+      "permalink": "/ai_book_hack_I/docs/tags/ros-2"
+    },
+    {
+      "label": "advanced",
+      "permalink": "/ai_book_hack_I/docs/tags/advanced"
+    },
+    {
+      "label": "architecture",
+      "permalink": "/ai_book_hack_I/docs/tags/architecture"
+    },
+    {
+      "label": "optimization",
+      "permalink": "/ai_book_hack_I/docs/tags/optimization"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Advanced ROS 2 Topics",
+    "description": "Advanced concepts and techniques for sophisticated humanoid robotics applications",
+    "tags": [
+      "ros2",
+      "advanced",
+      "architecture",
+      "optimization"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 1: The Robotic Nervous System (ROS 2)",
+    "permalink": "/ai_book_hack_I/docs/module-1-ros2/"
+  },
+  "next": {
+    "title": "ROS 2 Middleware Concepts",
+    "permalink": "/ai_book_hack_I/docs/module-1-ros2/middleware-concepts"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "module-4-vla/humanoid-interaction",
+  "title": "Role in Humanoid Interaction",
+  "description": "Vision-Language-Action (VLA) models play a crucial role in enabling natural and intuitive interaction between humans and humanoid robots. This section explores how VLA models enhance humanoid robot capabilities.",
+  "source": "@site/docs/module-4-vla/humanoid-interaction.md",
+  "sourceDirName": "module-4-vla",
+  "slug": "/module-4-vla/humanoid-interaction",
+  "permalink": "/ai_book_hack_I/docs/module-4-vla/humanoid-interaction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-4-vla/humanoid-interaction.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Role in Humanoid Interaction"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VLA Concept Overview",
+    "permalink": "/ai_book_hack_I/docs/module-4-vla/vla-concepts"
+  },
+  "next": {
+    "title": "Real-World Applications",
+    "permalink": "/ai_book_hack_I/docs/module-4-vla/real-world-applications"
+  }
+}

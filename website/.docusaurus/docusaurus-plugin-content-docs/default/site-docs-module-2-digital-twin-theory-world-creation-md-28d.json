@@ -1,0 +1,52 @@
+{
+  "id": "module-2-digital-twin/theory/world-creation",
+  "title": "World Creation and Environment Modeling",
+  "description": "Creating realistic simulation environments for humanoid robot testing and development",
+  "source": "@site/docs/module-2-digital-twin/theory/world-creation.md",
+  "sourceDirName": "module-2-digital-twin/theory",
+  "slug": "/module-2-digital-twin/theory/world-creation",
+  "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/theory/world-creation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-2-digital-twin/theory/world-creation.md",
+  "tags": [
+    {
+      "label": "gazebo",
+      "permalink": "/ai_book_hack_I/docs/tags/gazebo"
+    },
+    {
+      "label": "simulation",
+      "permalink": "/ai_book_hack_I/docs/tags/simulation"
+    },
+    {
+      "label": "world-modeling",
+      "permalink": "/ai_book_hack_I/docs/tags/world-modeling"
+    },
+    {
+      "label": "environment",
+      "permalink": "/ai_book_hack_I/docs/tags/environment"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "World Creation and Environment Modeling",
+    "description": "Creating realistic simulation environments for humanoid robot testing and development",
+    "tags": [
+      "gazebo",
+      "simulation",
+      "world-modeling",
+      "environment"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Practical World Creation and Environment Setup",
+    "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/practical/world-creation"
+  },
+  "next": {
+    "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac)",
+    "permalink": "/ai_book_hack_I/docs/module-3-isaac/"
+  }
+}

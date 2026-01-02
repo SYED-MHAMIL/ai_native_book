@@ -1,0 +1,28 @@
+{
+  "id": "module-1-ros2/middleware-concepts",
+  "title": "ROS 2 Middleware Concepts",
+  "description": "Middleware is the software layer that enables communication between different components of a robot system. In ROS 2, this is accomplished through a publish-subscribe model and service-based communication.",
+  "source": "@site/docs/module-1-ros2/middleware-concepts.md",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/middleware-concepts",
+  "permalink": "/ai_book_hack_I/docs/module-1-ros2/middleware-concepts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-1-ros2/middleware-concepts.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "ROS 2 Middleware Concepts"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Advanced ROS 2 Topics",
+    "permalink": "/ai_book_hack_I/docs/module-1-ros2/advanced/"
+  },
+  "next": {
+    "title": "Nodes, Topics, and Services",
+    "permalink": "/ai_book_hack_I/docs/module-1-ros2/nodes-topics-services"
+  }
+}

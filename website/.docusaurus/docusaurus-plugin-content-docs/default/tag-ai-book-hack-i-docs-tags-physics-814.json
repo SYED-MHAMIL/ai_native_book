@@ -1,0 +1,15 @@
+{
+  "label": "physics",
+  "permalink": "/ai_book_hack_I/docs/tags/physics",
+  "allTagsPath": "/ai_book_hack_I/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "module-2-digital-twin/advanced/index",
+      "title": "Advanced Simulation Techniques",
+      "description": "Advanced simulation methods and optimization for complex humanoid robotics applications",
+      "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/advanced/"
+    }
+  ],
+  "unlisted": false
+}

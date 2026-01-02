@@ -1,0 +1,28 @@
+{
+  "id": "module-3-isaac/nav2-locomotion",
+  "title": "Nav2 for Humanoid Locomotion",
+  "description": "Navigation 2 (Nav2) is the ROS 2 navigation stack that provides path planning and navigation capabilities. For humanoid robots, Nav2 requires special considerations for locomotion and mobility.",
+  "source": "@site/docs/module-3-isaac/nav2-locomotion.md",
+  "sourceDirName": "module-3-isaac",
+  "slug": "/module-3-isaac/nav2-locomotion",
+  "permalink": "/ai_book_hack_I/docs/module-3-isaac/nav2-locomotion",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-3-isaac/nav2-locomotion.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Nav2 for Humanoid Locomotion"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Isaac ROS VSLAM & Navigation",
+    "permalink": "/ai_book_hack_I/docs/module-3-isaac/vslam-navigation"
+  },
+  "next": {
+    "title": "Module 3 Summary: NVIDIA Isaac - AI Robot Brain",
+    "permalink": "/ai_book_hack_I/docs/module-3-isaac/summary"
+  }
+}

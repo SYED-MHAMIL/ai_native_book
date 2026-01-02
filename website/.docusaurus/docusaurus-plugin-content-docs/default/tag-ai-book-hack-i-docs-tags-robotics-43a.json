@@ -1,0 +1,33 @@
+{
+  "label": "robotics",
+  "permalink": "/ai_book_hack_I/docs/tags/robotics",
+  "allTagsPath": "/ai_book_hack_I/docs/tags",
+  "count": 4,
+  "items": [
+    {
+      "id": "module-1-ros2/summary",
+      "title": "Module 1 Summary: ROS 2 - Robotic Nervous System",
+      "description": "Summary of ROS 2 concepts and implementation for humanoid robotics",
+      "permalink": "/ai_book_hack_I/docs/module-1-ros2/summary"
+    },
+    {
+      "id": "module-2-digital-twin/summary",
+      "title": "Module 2 Summary: Gazebo & Unity - Digital Twins",
+      "description": "Summary of simulation environments and digital twin concepts for humanoid robotics",
+      "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/summary"
+    },
+    {
+      "id": "module-3-isaac/summary",
+      "title": "Module 3 Summary: NVIDIA Isaac - AI Robot Brain",
+      "description": "Summary of AI integration and NVIDIA Isaac concepts for humanoid robotics",
+      "permalink": "/ai_book_hack_I/docs/module-3-isaac/summary"
+    },
+    {
+      "id": "module-4-vla/theory/multimodal-integration",
+      "title": "Vision-Language-Action Systems",
+      "description": "Creating integrated perception-action systems that understand and respond to human commands",
+      "permalink": "/ai_book_hack_I/docs/module-4-vla/theory/multimodal-integration"
+    }
+  ],
+  "unlisted": false
+}

@@ -1,0 +1,15 @@
+{
+  "label": "multimodal-ai",
+  "permalink": "/ai_book_hack_I/docs/tags/multimodal-ai",
+  "allTagsPath": "/ai_book_hack_I/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "module-4-vla/summary",
+      "title": "Module 4 Summary: Vision-Language-Action Systems",
+      "description": "Summary of VLA systems and multimodal AI for humanoid robotics",
+      "permalink": "/ai_book_hack_I/docs/module-4-vla/summary"
+    }
+  ],
+  "unlisted": false
+}

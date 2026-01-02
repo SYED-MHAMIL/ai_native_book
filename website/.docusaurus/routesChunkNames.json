@@ -1,334 +1,384 @@
 {
-  "/ai_book_hack_I/__docusaurus/debug-3a0": {
+  "/ai_book_hack_I/__docusaurus/debug-273": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---ai-book-hack-i-docusaurus-debugb-38-3a7"
+      "plugin": "plugin---ai-book-hack-i-docusaurus-debugc-62-996"
     }
   },
-  "/ai_book_hack_I/__docusaurus/debug/config-dba": {
+  "/ai_book_hack_I/__docusaurus/debug/config-b69": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---ai-book-hack-i-docusaurus-debugb-38-3a7"
+      "plugin": "plugin---ai-book-hack-i-docusaurus-debugc-62-996"
     }
   },
-  "/ai_book_hack_I/__docusaurus/debug/content-c5d": {
+  "/ai_book_hack_I/__docusaurus/debug/content-67b": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---ai-book-hack-i-docusaurus-debugb-38-3a7"
+      "plugin": "plugin---ai-book-hack-i-docusaurus-debugc-62-996"
     },
-    "__props": "__props---ai-book-hack-i-docusaurus-debug-contentfac-581"
+    "allContent": "allContent---ai-book-hack-i-docusaurus-debug-content-246-a1e"
   },
-  "/ai_book_hack_I/__docusaurus/debug/globalData-076": {
+  "/ai_book_hack_I/__docusaurus/debug/globalData-fa2": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---ai-book-hack-i-docusaurus-debugb-38-3a7"
+      "plugin": "plugin---ai-book-hack-i-docusaurus-debugc-62-996"
     }
   },
-  "/ai_book_hack_I/__docusaurus/debug/metadata-359": {
+  "/ai_book_hack_I/__docusaurus/debug/metadata-7ec": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---ai-book-hack-i-docusaurus-debugb-38-3a7"
+      "plugin": "plugin---ai-book-hack-i-docusaurus-debugc-62-996"
     }
   },
-  "/ai_book_hack_I/__docusaurus/debug/registry-c9d": {
+  "/ai_book_hack_I/__docusaurus/debug/registry-835": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---ai-book-hack-i-docusaurus-debugb-38-3a7"
+      "plugin": "plugin---ai-book-hack-i-docusaurus-debugc-62-996"
     }
   },
-  "/ai_book_hack_I/__docusaurus/debug/routes-5be": {
+  "/ai_book_hack_I/__docusaurus/debug/routes-21d": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---ai-book-hack-i-docusaurus-debugb-38-3a7"
+      "plugin": "plugin---ai-book-hack-i-docusaurus-debugc-62-996"
     }
   },
-  "/ai_book_hack_I/docs-ae7": {
+  "/ai_book_hack_I/modules/gazebo-unity-b45": {
+    "__comp": "__comp---site-src-pages-modules-gazebo-unity-jsxf-4-f-2be",
+    "__context": {
+      "plugin": "plugin---ai-book-hack-i-modules-gazebo-unity-392-38b"
+    },
+    "config": "config---ai-book-hack-i-modules-gazebo-unity-5-e-9-490"
+  },
+  "/ai_book_hack_I/modules/nvidia-isaac-cac": {
+    "__comp": "__comp---site-src-pages-modules-nvidia-isaac-jsxeb-1-5a4",
+    "__context": {
+      "plugin": "plugin---ai-book-hack-i-modules-gazebo-unity-392-38b"
+    },
+    "config": "config---ai-book-hack-i-modules-gazebo-unity-5-e-9-490"
+  },
+  "/ai_book_hack_I/modules/ros2-85a": {
+    "__comp": "__comp---site-src-pages-modules-ros-2-jsx-6-bc-d04",
+    "__context": {
+      "plugin": "plugin---ai-book-hack-i-modules-gazebo-unity-392-38b"
+    },
+    "config": "config---ai-book-hack-i-modules-gazebo-unity-5-e-9-490"
+  },
+  "/ai_book_hack_I/modules/vla-bba": {
+    "__comp": "__comp---site-src-pages-modules-vla-jsx-5-b-9-a5b",
+    "__context": {
+      "plugin": "plugin---ai-book-hack-i-modules-gazebo-unity-392-38b"
+    },
+    "config": "config---ai-book-hack-i-modules-gazebo-unity-5-e-9-490"
+  },
+  "/ai_book_hack_I/welcome-f9b": {
+    "__comp": "__comp---site-src-pages-welcome-jsx-04-d-ac8",
+    "__context": {
+      "plugin": "plugin---ai-book-hack-i-modules-gazebo-unity-392-38b"
+    },
+    "config": "config---ai-book-hack-i-modules-gazebo-unity-5-e-9-490"
+  },
+  "/ai_book_hack_I/docs-1f9": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---ai-book-hack-i-docsaba-f88"
+      "plugin": "plugin---ai-book-hack-i-docs-6-d-3-461"
     }
   },
-  "/ai_book_hack_I/docs-06e": {
+  "/ai_book_hack_I/docs-7b8": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---ai-book-hack-i-docse-5-f-8c3"
+    "version": "version---ai-book-hack-i-docs-935-991"
   },
-  "/ai_book_hack_I/docs/tags-b6e": {
+  "/ai_book_hack_I/docs/tags-224": {
     "__comp": "__comp---theme-doc-tags-list-page-372-89e",
-    "__props": "__props---ai-book-hack-i-docs-tagsca-7-b10"
+    "tags": "tags---ai-book-hack-i-docs-tags-559-aa8"
   },
-  "/ai_book_hack_I/docs/tags/advanced-ed4": {
+  "/ai_book_hack_I/docs/tags/advanced-4c6": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-advanced-1-c-3-d34"
+    "tag": "tag---ai-book-hack-i-docs-tags-advanced-8-c-2-a9a"
   },
-  "/ai_book_hack_I/docs/tags/ai-a9b": {
+  "/ai_book_hack_I/docs/tags/ai-b36": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-ai-1-ee-c6c"
+    "tag": "tag---ai-book-hack-i-docs-tags-aic-8-d-6f1"
   },
-  "/ai_book_hack_I/docs/tags/architecture-dff": {
+  "/ai_book_hack_I/docs/tags/architecture-e32": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-architecture-4-fa-072"
+    "tag": "tag---ai-book-hack-i-docs-tags-architecture-416-097"
   },
-  "/ai_book_hack_I/docs/tags/communication-a78": {
+  "/ai_book_hack_I/docs/tags/communication-3f7": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-communicatione-19-6ec"
+    "tag": "tag---ai-book-hack-i-docs-tags-communication-160-891"
   },
-  "/ai_book_hack_I/docs/tags/computer-vision-9b9": {
+  "/ai_book_hack_I/docs/tags/computer-vision-579": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-computer-vision-2-f-6-e96"
+    "tag": "tag---ai-book-hack-i-docs-tags-computer-vision-9-cd-299"
   },
-  "/ai_book_hack_I/docs/tags/contribution-0fb": {
+  "/ai_book_hack_I/docs/tags/digital-twin-434": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-contribution-1-bd-d54"
+    "tag": "tag---ai-book-hack-i-docs-tags-digital-twin-7-ec-bb8"
   },
-  "/ai_book_hack_I/docs/tags/digital-twin-e6a": {
+  "/ai_book_hack_I/docs/tags/environment-bae": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-digital-twinbbc-ab1"
+    "tag": "tag---ai-book-hack-i-docs-tags-environment-821-1ae"
   },
-  "/ai_book_hack_I/docs/tags/environment-330": {
+  "/ai_book_hack_I/docs/tags/gazebo-6da": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-environment-430-5c9"
+    "tag": "tag---ai-book-hack-i-docs-tags-gazebo-0-f-0-9fd"
   },
-  "/ai_book_hack_I/docs/tags/frameworks-e5d": {
+  "/ai_book_hack_I/docs/tags/gpu-acceleration-9e9": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-frameworksc-50-a91"
+    "tag": "tag---ai-book-hack-i-docs-tags-gpu-acceleration-6-c-2-875"
   },
-  "/ai_book_hack_I/docs/tags/gazebo-33a": {
+  "/ai_book_hack_I/docs/tags/implementation-56b": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-gazebo-33-e-5f7"
+    "tag": "tag---ai-book-hack-i-docs-tags-implementationa-2-d-e98"
   },
-  "/ai_book_hack_I/docs/tags/gpu-acceleration-78f": {
+  "/ai_book_hack_I/docs/tags/multimodal-7fe": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-gpu-accelerationbb-2-e3a"
+    "tag": "tag---ai-book-hack-i-docs-tags-multimodalea-5-88c"
   },
-  "/ai_book_hack_I/docs/tags/guidelines-168": {
+  "/ai_book_hack_I/docs/tags/multimodal-ai-2d7": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-guidelines-06-f-c15"
+    "tag": "tag---ai-book-hack-i-docs-tags-multimodal-ai-1-cc-f10"
   },
-  "/ai_book_hack_I/docs/tags/humanoid-126": {
+  "/ai_book_hack_I/docs/tags/nodes-2e0": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-humanoid-10-f-444"
+    "tag": "tag---ai-book-hack-i-docs-tags-nodescbe-8c8"
   },
-  "/ai_book_hack_I/docs/tags/implementation-19a": {
+  "/ai_book_hack_I/docs/tags/nvidia-isaac-312": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-implementation-524-658"
+    "tag": "tag---ai-book-hack-i-docs-tags-nvidia-isaac-7-fd-a69"
   },
-  "/ai_book_hack_I/docs/tags/installation-1c7": {
+  "/ai_book_hack_I/docs/tags/optimization-944": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-installation-257-9be"
+    "tag": "tag---ai-book-hack-i-docs-tags-optimization-98-b-1cd"
   },
-  "/ai_book_hack_I/docs/tags/markdown-bfa": {
+  "/ai_book_hack_I/docs/tags/perception-3b5": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-markdown-21-a-bbf"
+    "tag": "tag---ai-book-hack-i-docs-tags-perception-2-ef-741"
   },
-  "/ai_book_hack_I/docs/tags/middleware-0d6": {
+  "/ai_book_hack_I/docs/tags/physics-707": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-middleware-681-6b1"
+    "tag": "tag---ai-book-hack-i-docs-tags-physics-6-b-2-308"
   },
-  "/ai_book_hack_I/docs/tags/multimodal-674": {
+  "/ai_book_hack_I/docs/tags/planning-f62": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-multimodal-316-675"
+    "tag": "tag---ai-book-hack-i-docs-tags-planning-708-bc5"
   },
-  "/ai_book_hack_I/docs/tags/multimodal-ai-088": {
+  "/ai_book_hack_I/docs/tags/practical-9e0": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-multimodal-ai-9-fe-0eb"
+    "tag": "tag---ai-book-hack-i-docs-tags-practical-357-d88"
   },
-  "/ai_book_hack_I/docs/tags/nodes-1ca": {
+  "/ai_book_hack_I/docs/tags/robotics-252": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-nodes-41-b-f39"
+    "tag": "tag---ai-book-hack-i-docs-tags-roboticsd-45-c64"
   },
-  "/ai_book_hack_I/docs/tags/nvidia-isaac-dbc": {
+  "/ai_book_hack_I/docs/tags/ros-2-e89": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-nvidia-isaac-529-b60"
+    "tag": "tag---ai-book-hack-i-docs-tags-ros-2-d-36-b49"
   },
-  "/ai_book_hack_I/docs/tags/optimization-edc": {
+  "/ai_book_hack_I/docs/tags/services-d1a": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-optimization-27-f-186"
+    "tag": "tag---ai-book-hack-i-docs-tags-services-0-da-972"
   },
-  "/ai_book_hack_I/docs/tags/perception-ae2": {
+  "/ai_book_hack_I/docs/tags/setup-6e0": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-perceptioncd-6-3cb"
+    "tag": "tag---ai-book-hack-i-docs-tags-setup-090-f83"
   },
-  "/ai_book_hack_I/docs/tags/physics-7a3": {
+  "/ai_book_hack_I/docs/tags/simulation-ea6": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-physicsd-51-6da"
+    "tag": "tag---ai-book-hack-i-docs-tags-simulation-660-219"
   },
-  "/ai_book_hack_I/docs/tags/planning-e5b": {
+  "/ai_book_hack_I/docs/tags/summary-d61": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-planning-3-b-8-1a6"
+    "tag": "tag---ai-book-hack-i-docs-tags-summaryae-8-2ff"
   },
-  "/ai_book_hack_I/docs/tags/practical-fdb": {
+  "/ai_book_hack_I/docs/tags/topics-dee": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-practicalfe-8-61e"
+    "tag": "tag---ai-book-hack-i-docs-tags-topicse-8-a-40c"
   },
-  "/ai_book_hack_I/docs/tags/prerequisites-ae9": {
+  "/ai_book_hack_I/docs/tags/unity-ef5": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-prerequisites-067-66b"
+    "tag": "tag---ai-book-hack-i-docs-tags-unity-5-ce-587"
   },
-  "/ai_book_hack_I/docs/tags/robotics-7c0": {
+  "/ai_book_hack_I/docs/tags/vision-language-action-850": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-robotics-0-ea-83d"
+    "tag": "tag---ai-book-hack-i-docs-tags-vision-language-action-49-b-560"
   },
-  "/ai_book_hack_I/docs/tags/ros-2-671": {
+  "/ai_book_hack_I/docs/tags/vla-63c": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-ros-27-f-5-a69"
+    "tag": "tag---ai-book-hack-i-docs-tags-vla-076-9f0"
   },
-  "/ai_book_hack_I/docs/tags/services-fdb": {
+  "/ai_book_hack_I/docs/tags/world-creation-5c5": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-servicesaf-1-667"
+    "tag": "tag---ai-book-hack-i-docs-tags-world-creationbf-3-b24"
   },
-  "/ai_book_hack_I/docs/tags/setup-eaa": {
+  "/ai_book_hack_I/docs/tags/world-modeling-bc7": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-setup-18-e-d2d"
+    "tag": "tag---ai-book-hack-i-docs-tags-world-modeling-63-b-42e"
   },
-  "/ai_book_hack_I/docs/tags/simulation-991": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-simulatione-6-c-1df"
-  },
-  "/ai_book_hack_I/docs/tags/style-guide-874": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-style-guide-457-c6e"
-  },
-  "/ai_book_hack_I/docs/tags/summary-78d": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-summary-663-386"
-  },
-  "/ai_book_hack_I/docs/tags/tech-stack-ade": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-tech-stack-3-b-7-1ef"
-  },
-  "/ai_book_hack_I/docs/tags/testing-fa2": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-testing-0-cd-a61"
-  },
-  "/ai_book_hack_I/docs/tags/tools-56b": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-tools-284-6f9"
-  },
-  "/ai_book_hack_I/docs/tags/topics-d1d": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-topics-973-858"
-  },
-  "/ai_book_hack_I/docs/tags/unity-02d": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-unity-18-a-647"
-  },
-  "/ai_book_hack_I/docs/tags/verification-7c4": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-verification-31-d-541"
-  },
-  "/ai_book_hack_I/docs/tags/vision-language-action-72c": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-vision-language-action-8-db-cff"
-  },
-  "/ai_book_hack_I/docs/tags/vla-533": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-vla-62-b-337"
-  },
-  "/ai_book_hack_I/docs/tags/world-creation-6f4": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-world-creationda-7-44b"
-  },
-  "/ai_book_hack_I/docs/tags/world-modeling-890": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ai-book-hack-i-docs-tags-world-modeling-073-919"
-  },
-  "/ai_book_hack_I/docs-002": {
+  "/ai_book_hack_I/docs-b92": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/ai_book_hack_I/docs/-38e": {
+  "/ai_book_hack_I/docs/intro-4ad": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-book-hack-i-docs-0-e-3-e7a"
+    "content": "content---ai-book-hack-i-docs-intro-0-e-3-c6e"
   },
-  "/ai_book_hack_I/docs/getting-started/environment-verification-d14": {
+  "/ai_book_hack_I/docs/module-1-ros2/-6c5": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-book-hack-i-docs-getting-started-environment-verification-4-f-5-6d2"
+    "content": "content---ai-book-hack-i-docs-module-1-ros-2-4-dd-296"
   },
-  "/ai_book_hack_I/docs/getting-started/installation-5fe": {
+  "/ai_book_hack_I/docs/module-1-ros2/advanced/-d4c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-book-hack-i-docs-getting-started-installation-54-f-d05"
+    "content": "content---ai-book-hack-i-docs-module-1-ros-2-advanced-873-3dd"
   },
-  "/ai_book_hack_I/docs/guidelines/style-guide-9c2": {
+  "/ai_book_hack_I/docs/module-1-ros2/intro-be8": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-book-hack-i-docs-guidelines-style-guideb-82-7f6"
+    "content": "content---ai-book-hack-i-docs-module-1-ros-2-intro-370-bfa"
   },
-  "/ai_book_hack_I/docs/modules/gazebo-unity/advanced/-af0": {
+  "/ai_book_hack_I/docs/module-1-ros2/middleware-concepts-5a5": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-book-hack-i-docs-modules-gazebo-unity-advanced-bdc-93f"
+    "content": "content---ai-book-hack-i-docs-module-1-ros-2-middleware-conceptsdb-7-724"
   },
-  "/ai_book_hack_I/docs/modules/gazebo-unity/intro-940": {
+  "/ai_book_hack_I/docs/module-1-ros2/nodes-topics-services-1e3": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-book-hack-i-docs-modules-gazebo-unity-introb-85-957"
+    "content": "content---ai-book-hack-i-docs-module-1-ros-2-nodes-topics-servicesd-40-de1"
   },
-  "/ai_book_hack_I/docs/modules/gazebo-unity/practical/world-creation-b48": {
+  "/ai_book_hack_I/docs/module-1-ros2/practical/setup-cd9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-book-hack-i-docs-modules-gazebo-unity-practical-world-creation-585-7f0"
+    "content": "content---ai-book-hack-i-docs-module-1-ros-2-practical-setup-309-c82"
   },
-  "/ai_book_hack_I/docs/modules/gazebo-unity/summary-9cc": {
+  "/ai_book_hack_I/docs/module-1-ros2/rclpy-bridge-62e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-book-hack-i-docs-modules-gazebo-unity-summarya-49-edf"
+    "content": "content---ai-book-hack-i-docs-module-1-ros-2-rclpy-bridgef-3-d-2fd"
   },
-  "/ai_book_hack_I/docs/modules/gazebo-unity/theory/world-creation-f6e": {
+  "/ai_book_hack_I/docs/module-1-ros2/summary-b76": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-book-hack-i-docs-modules-gazebo-unity-theory-world-creationd-60-09a"
+    "content": "content---ai-book-hack-i-docs-module-1-ros-2-summaryc-1-b-8aa"
   },
-  "/ai_book_hack_I/docs/modules/nvidia-isaac/advanced/-bf7": {
+  "/ai_book_hack_I/docs/module-1-ros2/theory/core-concepts-9ee": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-book-hack-i-docs-modules-nvidia-isaac-advanced-751-640"
+    "content": "content---ai-book-hack-i-docs-module-1-ros-2-theory-core-concepts-03-b-b2a"
   },
-  "/ai_book_hack_I/docs/modules/nvidia-isaac/intro-da0": {
+  "/ai_book_hack_I/docs/module-1-ros2/urdf-humanoids-295": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-book-hack-i-docs-modules-nvidia-isaac-introbc-0-f32"
+    "content": "content---ai-book-hack-i-docs-module-1-ros-2-urdf-humanoidsb-6-f-533"
   },
-  "/ai_book_hack_I/docs/modules/nvidia-isaac/practical/gpu-acceleration-546": {
+  "/ai_book_hack_I/docs/module-2-digital-twin/-9e0": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-book-hack-i-docs-modules-nvidia-isaac-practical-gpu-acceleration-0-dc-e81"
+    "content": "content---ai-book-hack-i-docs-module-2-digital-twin-811-65b"
   },
-  "/ai_book_hack_I/docs/modules/nvidia-isaac/summary-91f": {
+  "/ai_book_hack_I/docs/module-2-digital-twin/advanced/-16c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-book-hack-i-docs-modules-nvidia-isaac-summarye-93-740"
+    "content": "content---ai-book-hack-i-docs-module-2-digital-twin-advanced-b-8-c-ae1"
   },
-  "/ai_book_hack_I/docs/modules/nvidia-isaac/theory/gpu-accelerated-perception-f6e": {
+  "/ai_book_hack_I/docs/module-2-digital-twin/environment-design-8a1": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-book-hack-i-docs-modules-nvidia-isaac-theory-gpu-accelerated-perception-542-6f4"
+    "content": "content---ai-book-hack-i-docs-module-2-digital-twin-environment-design-74-e-92c"
   },
-  "/ai_book_hack_I/docs/modules/ros2/advanced/-4f5": {
+  "/ai_book_hack_I/docs/module-2-digital-twin/intro-9a3": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-book-hack-i-docs-modules-ros-2-advanced-ad-9-899"
+    "content": "content---ai-book-hack-i-docs-module-2-digital-twin-intro-57-d-007"
   },
-  "/ai_book_hack_I/docs/modules/ros2/intro-c34": {
+  "/ai_book_hack_I/docs/module-2-digital-twin/physics-simulation-b54": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-book-hack-i-docs-modules-ros-2-intro-999-0e6"
+    "content": "content---ai-book-hack-i-docs-module-2-digital-twin-physics-simulationa-8-c-18b"
   },
-  "/ai_book_hack_I/docs/modules/ros2/practical/setup-709": {
+  "/ai_book_hack_I/docs/module-2-digital-twin/practical/world-creation-6cd": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-book-hack-i-docs-modules-ros-2-practical-setup-8-a-7-ae7"
+    "content": "content---ai-book-hack-i-docs-module-2-digital-twin-practical-world-creation-48-d-eaf"
   },
-  "/ai_book_hack_I/docs/modules/ros2/summary-999": {
+  "/ai_book_hack_I/docs/module-2-digital-twin/sensor-simulation-02a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-book-hack-i-docs-modules-ros-2-summary-461-701"
+    "content": "content---ai-book-hack-i-docs-module-2-digital-twin-sensor-simulation-3-a-7-355"
   },
-  "/ai_book_hack_I/docs/modules/ros2/theory/core-concepts-383": {
+  "/ai_book_hack_I/docs/module-2-digital-twin/summary-78b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-book-hack-i-docs-modules-ros-2-theory-core-concepts-384-fa5"
+    "content": "content---ai-book-hack-i-docs-module-2-digital-twin-summary-083-a08"
   },
-  "/ai_book_hack_I/docs/modules/vla/advanced/-b53": {
+  "/ai_book_hack_I/docs/module-2-digital-twin/theory/world-creation-ff5": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-book-hack-i-docs-modules-vla-advanced-9-a-7-acb"
+    "content": "content---ai-book-hack-i-docs-module-2-digital-twin-theory-world-creation-28-d-f4d"
   },
-  "/ai_book_hack_I/docs/modules/vla/intro-801": {
+  "/ai_book_hack_I/docs/module-2-digital-twin/unity-rendering-b40": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-book-hack-i-docs-modules-vla-intro-6-ba-3f7"
+    "content": "content---ai-book-hack-i-docs-module-2-digital-twin-unity-rendering-8-fd-4ca"
   },
-  "/ai_book_hack_I/docs/modules/vla/summary-f67": {
+  "/ai_book_hack_I/docs/module-3-isaac/-649": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-book-hack-i-docs-modules-vla-summaryaf-0-64a"
+    "content": "content---ai-book-hack-i-docs-module-3-isaac-0-c-0-ed0"
   },
-  "/ai_book_hack_I/docs/modules/vla/theory/multimodal-integration-a95": {
+  "/ai_book_hack_I/docs/module-3-isaac/advanced/-943": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-book-hack-i-docs-modules-vla-theory-multimodal-integration-164-8c7"
+    "content": "content---ai-book-hack-i-docs-module-3-isaac-advanced-41-a-add"
   },
-  "/ai_book_hack_I/docs/tech-stack/overview-64a": {
+  "/ai_book_hack_I/docs/module-3-isaac/intro-fff": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-book-hack-i-docs-tech-stack-overview-472-155"
+    "content": "content---ai-book-hack-i-docs-module-3-isaac-intro-4-f-5-236"
+  },
+  "/ai_book_hack_I/docs/module-3-isaac/nav2-locomotion-8f9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-hack-i-docs-module-3-isaac-nav-2-locomotion-8-b-2-d3b"
+  },
+  "/ai_book_hack_I/docs/module-3-isaac/practical/gpu-acceleration-64f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-hack-i-docs-module-3-isaac-practical-gpu-acceleration-061-c4f"
+  },
+  "/ai_book_hack_I/docs/module-3-isaac/summary-2ce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-hack-i-docs-module-3-isaac-summary-90-d-d83"
+  },
+  "/ai_book_hack_I/docs/module-3-isaac/synthetic-data-575": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-hack-i-docs-module-3-isaac-synthetic-data-756-975"
+  },
+  "/ai_book_hack_I/docs/module-3-isaac/theory/gpu-accelerated-perception-945": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-hack-i-docs-module-3-isaac-theory-gpu-accelerated-perception-44-c-ae8"
+  },
+  "/ai_book_hack_I/docs/module-3-isaac/vslam-navigation-1fc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-hack-i-docs-module-3-isaac-vslam-navigation-6-d-9-891"
+  },
+  "/ai_book_hack_I/docs/module-4-vla/-3f5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-hack-i-docs-module-4-vla-4-a-9-fbb"
+  },
+  "/ai_book_hack_I/docs/module-4-vla/advanced/-295": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-hack-i-docs-module-4-vla-advanced-9-c-2-b6d"
+  },
+  "/ai_book_hack_I/docs/module-4-vla/humanoid-interaction-088": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-hack-i-docs-module-4-vla-humanoid-interaction-623-04b"
+  },
+  "/ai_book_hack_I/docs/module-4-vla/intro-c4d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-hack-i-docs-module-4-vla-intro-361-d8d"
+  },
+  "/ai_book_hack_I/docs/module-4-vla/real-world-applications-3f8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-hack-i-docs-module-4-vla-real-world-applications-0-ae-239"
+  },
+  "/ai_book_hack_I/docs/module-4-vla/summary-eb5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-hack-i-docs-module-4-vla-summaryc-0-a-e3b"
+  },
+  "/ai_book_hack_I/docs/module-4-vla/theory/multimodal-integration-0e1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-hack-i-docs-module-4-vla-theory-multimodal-integration-663-d28"
+  },
+  "/ai_book_hack_I/docs/module-4-vla/vla-concepts-5b0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-hack-i-docs-module-4-vla-vla-concepts-18-a-cbf"
+  },
+  "/ai_book_hack_I/docs/overview/welcome-5b4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-book-hack-i-docs-overview-welcome-74-d-a6c"
+  },
+  "/ai_book_hack_I/-8fd": {
+    "__comp": "__comp---site-src-pages-index-jsx-9-dd-cb1",
+    "__context": {
+      "plugin": "plugin---ai-book-hack-i-modules-gazebo-unity-392-38b"
+    },
+    "config": "config---ai-book-hack-i-modules-gazebo-unity-5-e-9-490"
   }
 }

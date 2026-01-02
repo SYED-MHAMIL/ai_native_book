@@ -1,0 +1,28 @@
+{
+  "id": "module-2-digital-twin/unity-rendering",
+  "title": "Unity High-Fidelity Rendering",
+  "description": "Unity provides advanced rendering capabilities that enable high-fidelity visualization for robotics simulation. This section explores Unity's rendering features relevant to digital twin applications.",
+  "source": "@site/docs/module-2-digital-twin/unity-rendering.md",
+  "sourceDirName": "module-2-digital-twin",
+  "slug": "/module-2-digital-twin/unity-rendering",
+  "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/unity-rendering",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-2-digital-twin/unity-rendering.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Unity High-Fidelity Rendering"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Environment Design",
+    "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/environment-design"
+  },
+  "next": {
+    "title": "Sensor Simulation (LiDAR, Depth, IMU)",
+    "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/sensor-simulation"
+  }
+}

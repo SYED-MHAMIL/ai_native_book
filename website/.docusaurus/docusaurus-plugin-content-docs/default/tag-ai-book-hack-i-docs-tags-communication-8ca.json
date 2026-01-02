@@ -1,0 +1,15 @@
+{
+  "label": "communication",
+  "permalink": "/ai_book_hack_I/docs/tags/communication",
+  "allTagsPath": "/ai_book_hack_I/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "module-1-ros2/summary",
+      "title": "Module 1 Summary: ROS 2 - Robotic Nervous System",
+      "description": "Summary of ROS 2 concepts and implementation for humanoid robotics",
+      "permalink": "/ai_book_hack_I/docs/module-1-ros2/summary"
+    }
+  ],
+  "unlisted": false
+}

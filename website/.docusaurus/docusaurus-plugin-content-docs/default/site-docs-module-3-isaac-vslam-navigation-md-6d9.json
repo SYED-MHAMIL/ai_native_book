@@ -1,0 +1,28 @@
+{
+  "id": "module-3-isaac/vslam-navigation",
+  "title": "Isaac ROS VSLAM & Navigation",
+  "description": "NVIDIA Isaac ROS provides GPU-accelerated perception and navigation capabilities for robotics applications. This section covers Visual Simultaneous Localization and Mapping (VSLAM) and navigation systems.",
+  "source": "@site/docs/module-3-isaac/vslam-navigation.md",
+  "sourceDirName": "module-3-isaac",
+  "slug": "/module-3-isaac/vslam-navigation",
+  "permalink": "/ai_book_hack_I/docs/module-3-isaac/vslam-navigation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-3-isaac/vslam-navigation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Isaac ROS VSLAM & Navigation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Isaac Sim Synthetic Data",
+    "permalink": "/ai_book_hack_I/docs/module-3-isaac/synthetic-data"
+  },
+  "next": {
+    "title": "Nav2 for Humanoid Locomotion",
+    "permalink": "/ai_book_hack_I/docs/module-3-isaac/nav2-locomotion"
+  }
+}

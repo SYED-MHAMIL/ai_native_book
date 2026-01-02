@@ -1,0 +1,57 @@
+{
+  "id": "module-3-isaac/advanced/index",
+  "title": "Advanced GPU Acceleration and AI Integration",
+  "description": "Advanced techniques for GPU acceleration and AI integration in humanoid robotics",
+  "source": "@site/docs/module-3-isaac/advanced/index.md",
+  "sourceDirName": "module-3-isaac/advanced",
+  "slug": "/module-3-isaac/advanced/",
+  "permalink": "/ai_book_hack_I/docs/module-3-isaac/advanced/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-3-isaac/advanced/index.md",
+  "tags": [
+    {
+      "label": "nvidia-isaac",
+      "permalink": "/ai_book_hack_I/docs/tags/nvidia-isaac"
+    },
+    {
+      "label": "gpu-acceleration",
+      "permalink": "/ai_book_hack_I/docs/tags/gpu-acceleration"
+    },
+    {
+      "label": "ai",
+      "permalink": "/ai_book_hack_I/docs/tags/ai"
+    },
+    {
+      "label": "advanced",
+      "permalink": "/ai_book_hack_I/docs/tags/advanced"
+    },
+    {
+      "label": "optimization",
+      "permalink": "/ai_book_hack_I/docs/tags/optimization"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Advanced GPU Acceleration and AI Integration",
+    "description": "Advanced techniques for GPU acceleration and AI integration in humanoid robotics",
+    "tags": [
+      "nvidia-isaac",
+      "gpu-acceleration",
+      "ai",
+      "advanced",
+      "optimization"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac)",
+    "permalink": "/ai_book_hack_I/docs/module-3-isaac/"
+  },
+  "next": {
+    "title": "Isaac Sim Synthetic Data",
+    "permalink": "/ai_book_hack_I/docs/module-3-isaac/synthetic-data"
+  }
+}

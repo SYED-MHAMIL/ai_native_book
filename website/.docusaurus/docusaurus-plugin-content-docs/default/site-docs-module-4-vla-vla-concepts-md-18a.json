@@ -1,0 +1,28 @@
+{
+  "id": "module-4-vla/vla-concepts",
+  "title": "VLA Concept Overview",
+  "description": "Vision-Language-Action (VLA) models represent a paradigm shift in robotics, where perception, language understanding, and action execution are unified in a single model architecture.",
+  "source": "@site/docs/module-4-vla/vla-concepts.md",
+  "sourceDirName": "module-4-vla",
+  "slug": "/module-4-vla/vla-concepts",
+  "permalink": "/ai_book_hack_I/docs/module-4-vla/vla-concepts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-4-vla/vla-concepts.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "VLA Concept Overview"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Advanced Vision-Language-Action Systems",
+    "permalink": "/ai_book_hack_I/docs/module-4-vla/advanced/"
+  },
+  "next": {
+    "title": "Role in Humanoid Interaction",
+    "permalink": "/ai_book_hack_I/docs/module-4-vla/humanoid-interaction"
+  }
+}

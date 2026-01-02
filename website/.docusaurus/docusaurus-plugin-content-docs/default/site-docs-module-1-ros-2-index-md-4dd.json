@@ -1,0 +1,28 @@
+{
+  "id": "module-1-ros2/index",
+  "title": "Module 1: The Robotic Nervous System (ROS 2)",
+  "description": "Welcome to the first module of your robotics learning journey. In this module, you'll explore ROS 2, the middleware that serves as the nervous system for robot control.",
+  "source": "@site/docs/module-1-ros2/index.md",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/",
+  "permalink": "/ai_book_hack_I/docs/module-1-ros2/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-1-ros2/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Module 1: The Robotic Nervous System (ROS 2)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Documentation Overview",
+    "permalink": "/ai_book_hack_I/docs/intro"
+  },
+  "next": {
+    "title": "Advanced ROS 2 Topics",
+    "permalink": "/ai_book_hack_I/docs/module-1-ros2/advanced/"
+  }
+}

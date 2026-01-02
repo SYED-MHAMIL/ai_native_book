@@ -1,0 +1,15 @@
+{
+  "label": "setup",
+  "permalink": "/ai_book_hack_I/docs/tags/setup",
+  "allTagsPath": "/ai_book_hack_I/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "module-1-ros2/practical/setup",
+      "title": "ROS 2 Practical Setup and Implementation",
+      "description": "Hands-on guide to implementing ROS 2 systems for humanoid robotics",
+      "permalink": "/ai_book_hack_I/docs/module-1-ros2/practical/setup"
+    }
+  ],
+  "unlisted": false
+}

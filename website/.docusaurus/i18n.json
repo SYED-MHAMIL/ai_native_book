@@ -11,10 +11,7 @@
       "direction": "ltr",
       "htmlLang": "en",
       "calendar": "gregory",
-      "path": "en",
-      "translate": false,
-      "url": "https://your-username.github.io",
-      "baseUrl": "/ai_book_hack_I/"
+      "path": "en"
     }
   }
 }

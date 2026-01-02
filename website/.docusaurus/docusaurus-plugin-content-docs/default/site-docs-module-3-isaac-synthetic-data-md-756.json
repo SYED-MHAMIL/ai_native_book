@@ -1,0 +1,28 @@
+{
+  "id": "module-3-isaac/synthetic-data",
+  "title": "Isaac Sim Synthetic Data",
+  "description": "NVIDIA Isaac Sim is a robotics simulation application that provides photorealistic simulation capabilities and synthetic data generation for training AI models.",
+  "source": "@site/docs/module-3-isaac/synthetic-data.md",
+  "sourceDirName": "module-3-isaac",
+  "slug": "/module-3-isaac/synthetic-data",
+  "permalink": "/ai_book_hack_I/docs/module-3-isaac/synthetic-data",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-3-isaac/synthetic-data.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Isaac Sim Synthetic Data"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Advanced GPU Acceleration and AI Integration",
+    "permalink": "/ai_book_hack_I/docs/module-3-isaac/advanced/"
+  },
+  "next": {
+    "title": "Isaac ROS VSLAM & Navigation",
+    "permalink": "/ai_book_hack_I/docs/module-3-isaac/vslam-navigation"
+  }
+}

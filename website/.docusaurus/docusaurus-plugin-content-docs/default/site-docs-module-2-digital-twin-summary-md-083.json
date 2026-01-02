@@ -1,0 +1,57 @@
+{
+  "id": "module-2-digital-twin/summary",
+  "title": "Module 2 Summary: Gazebo & Unity - Digital Twins",
+  "description": "Summary of simulation environments and digital twin concepts for humanoid robotics",
+  "source": "@site/docs/module-2-digital-twin/summary.md",
+  "sourceDirName": "module-2-digital-twin",
+  "slug": "/module-2-digital-twin/summary",
+  "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/summary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-2-digital-twin/summary.md",
+  "tags": [
+    {
+      "label": "gazebo",
+      "permalink": "/ai_book_hack_I/docs/tags/gazebo"
+    },
+    {
+      "label": "unity",
+      "permalink": "/ai_book_hack_I/docs/tags/unity"
+    },
+    {
+      "label": "simulation",
+      "permalink": "/ai_book_hack_I/docs/tags/simulation"
+    },
+    {
+      "label": "digital-twin",
+      "permalink": "/ai_book_hack_I/docs/tags/digital-twin"
+    },
+    {
+      "label": "robotics",
+      "permalink": "/ai_book_hack_I/docs/tags/robotics"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 100,
+  "frontMatter": {
+    "sidebar_position": 100,
+    "title": "Module 2 Summary: Gazebo & Unity - Digital Twins",
+    "description": "Summary of simulation environments and digital twin concepts for humanoid robotics",
+    "tags": [
+      "gazebo",
+      "unity",
+      "simulation",
+      "digital-twin",
+      "robotics"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sensor Simulation (LiDAR, Depth, IMU)",
+    "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/sensor-simulation"
+  },
+  "next": {
+    "title": "Module 2: The Digital Twin (Gazebo & Unity)",
+    "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/intro"
+  }
+}

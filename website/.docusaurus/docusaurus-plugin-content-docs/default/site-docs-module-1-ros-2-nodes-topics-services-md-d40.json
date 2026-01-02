@@ -1,0 +1,28 @@
+{
+  "id": "module-1-ros2/nodes-topics-services",
+  "title": "Nodes, Topics, and Services",
+  "description": "In this section, we'll explore the core communication mechanisms in ROS 2: nodes, topics, and services.",
+  "source": "@site/docs/module-1-ros2/nodes-topics-services.md",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/nodes-topics-services",
+  "permalink": "/ai_book_hack_I/docs/module-1-ros2/nodes-topics-services",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-1-ros2/nodes-topics-services.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Nodes, Topics, and Services"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS 2 Middleware Concepts",
+    "permalink": "/ai_book_hack_I/docs/module-1-ros2/middleware-concepts"
+  },
+  "next": {
+    "title": "rclpy Python Agent Bridge",
+    "permalink": "/ai_book_hack_I/docs/module-1-ros2/rclpy-bridge"
+  }
+}

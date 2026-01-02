@@ -1,0 +1,28 @@
+{
+  "id": "module-2-digital-twin/index",
+  "title": "Module 2: The Digital Twin (Gazebo & Unity)",
+  "description": "Welcome to the second module of your robotics learning journey. In this module, you'll explore digital twins through physics simulation and environments using Gazebo and Unity.",
+  "source": "@site/docs/module-2-digital-twin/index.md",
+  "sourceDirName": "module-2-digital-twin",
+  "slug": "/module-2-digital-twin/",
+  "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-2-digital-twin/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Module 2: The Digital Twin (Gazebo & Unity)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS 2 Core Concepts and Architecture",
+    "permalink": "/ai_book_hack_I/docs/module-1-ros2/theory/core-concepts"
+  },
+  "next": {
+    "title": "Advanced Simulation Techniques",
+    "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/advanced/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "module-4-vla/intro",
+  "title": "Module 4: Vision-Language-Action (VLA)",
+  "description": "Introduction to multimodal reasoning and behavior for humanoid robotics",
+  "source": "@site/docs/module-4-vla/intro.md",
+  "sourceDirName": "module-4-vla",
+  "slug": "/module-4-vla/intro",
+  "permalink": "/ai_book_hack_I/docs/module-4-vla/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-4-vla/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Module 4: Vision-Language-Action (VLA)",
+    "title": "Module 4: Vision-Language-Action (VLA)",
+    "description": "Introduction to multimodal reasoning and behavior for humanoid robotics"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 4 Summary: Vision-Language-Action Systems",
+    "permalink": "/ai_book_hack_I/docs/module-4-vla/summary"
+  },
+  "next": {
+    "title": "Vision-Language-Action Systems",
+    "permalink": "/ai_book_hack_I/docs/module-4-vla/theory/multimodal-integration"
+  }
+}

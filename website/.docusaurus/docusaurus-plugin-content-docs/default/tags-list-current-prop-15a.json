@@ -1,0 +1,157 @@
+[
+  {
+    "label": "ros2",
+    "permalink": "/ai_book_hack_I/docs/tags/ros-2",
+    "count": 4
+  },
+  {
+    "label": "advanced",
+    "permalink": "/ai_book_hack_I/docs/tags/advanced",
+    "count": 4
+  },
+  {
+    "label": "architecture",
+    "permalink": "/ai_book_hack_I/docs/tags/architecture",
+    "count": 2
+  },
+  {
+    "label": "optimization",
+    "permalink": "/ai_book_hack_I/docs/tags/optimization",
+    "count": 3
+  },
+  {
+    "label": "practical",
+    "permalink": "/ai_book_hack_I/docs/tags/practical",
+    "count": 3
+  },
+  {
+    "label": "setup",
+    "permalink": "/ai_book_hack_I/docs/tags/setup",
+    "count": 1
+  },
+  {
+    "label": "implementation",
+    "permalink": "/ai_book_hack_I/docs/tags/implementation",
+    "count": 1
+  },
+  {
+    "label": "summary",
+    "permalink": "/ai_book_hack_I/docs/tags/summary",
+    "count": 2
+  },
+  {
+    "label": "robotics",
+    "permalink": "/ai_book_hack_I/docs/tags/robotics",
+    "count": 4
+  },
+  {
+    "label": "communication",
+    "permalink": "/ai_book_hack_I/docs/tags/communication",
+    "count": 1
+  },
+  {
+    "label": "nodes",
+    "permalink": "/ai_book_hack_I/docs/tags/nodes",
+    "count": 1
+  },
+  {
+    "label": "topics",
+    "permalink": "/ai_book_hack_I/docs/tags/topics",
+    "count": 1
+  },
+  {
+    "label": "services",
+    "permalink": "/ai_book_hack_I/docs/tags/services",
+    "count": 1
+  },
+  {
+    "label": "gazebo",
+    "permalink": "/ai_book_hack_I/docs/tags/gazebo",
+    "count": 4
+  },
+  {
+    "label": "simulation",
+    "permalink": "/ai_book_hack_I/docs/tags/simulation",
+    "count": 4
+  },
+  {
+    "label": "physics",
+    "permalink": "/ai_book_hack_I/docs/tags/physics",
+    "count": 1
+  },
+  {
+    "label": "world-creation",
+    "permalink": "/ai_book_hack_I/docs/tags/world-creation",
+    "count": 1
+  },
+  {
+    "label": "unity",
+    "permalink": "/ai_book_hack_I/docs/tags/unity",
+    "count": 1
+  },
+  {
+    "label": "digital-twin",
+    "permalink": "/ai_book_hack_I/docs/tags/digital-twin",
+    "count": 1
+  },
+  {
+    "label": "world-modeling",
+    "permalink": "/ai_book_hack_I/docs/tags/world-modeling",
+    "count": 1
+  },
+  {
+    "label": "environment",
+    "permalink": "/ai_book_hack_I/docs/tags/environment",
+    "count": 1
+  },
+  {
+    "label": "nvidia-isaac",
+    "permalink": "/ai_book_hack_I/docs/tags/nvidia-isaac",
+    "count": 4
+  },
+  {
+    "label": "gpu-acceleration",
+    "permalink": "/ai_book_hack_I/docs/tags/gpu-acceleration",
+    "count": 3
+  },
+  {
+    "label": "ai",
+    "permalink": "/ai_book_hack_I/docs/tags/ai",
+    "count": 4
+  },
+  {
+    "label": "perception",
+    "permalink": "/ai_book_hack_I/docs/tags/perception",
+    "count": 3
+  },
+  {
+    "label": "planning",
+    "permalink": "/ai_book_hack_I/docs/tags/planning",
+    "count": 1
+  },
+  {
+    "label": "computer-vision",
+    "permalink": "/ai_book_hack_I/docs/tags/computer-vision",
+    "count": 1
+  },
+  {
+    "label": "vla",
+    "permalink": "/ai_book_hack_I/docs/tags/vla",
+    "count": 3
+  },
+  {
+    "label": "vision-language-action",
+    "permalink": "/ai_book_hack_I/docs/tags/vision-language-action",
+    "count": 3
+  },
+  {
+    "label": "multimodal",
+    "permalink": "/ai_book_hack_I/docs/tags/multimodal",
+    "count": 2
+  },
+  {
+    "label": "multimodal-ai",
+    "permalink": "/ai_book_hack_I/docs/tags/multimodal-ai",
+    "count": 1
+  }
+]

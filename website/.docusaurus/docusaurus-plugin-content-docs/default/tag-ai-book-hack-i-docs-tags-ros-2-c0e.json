@@ -1,0 +1,33 @@
+{
+  "label": "ros2",
+  "permalink": "/ai_book_hack_I/docs/tags/ros-2",
+  "allTagsPath": "/ai_book_hack_I/docs/tags",
+  "count": 4,
+  "items": [
+    {
+      "id": "module-1-ros2/advanced/index",
+      "title": "Advanced ROS 2 Topics",
+      "description": "Advanced concepts and techniques for sophisticated humanoid robotics applications",
+      "permalink": "/ai_book_hack_I/docs/module-1-ros2/advanced/"
+    },
+    {
+      "id": "module-1-ros2/summary",
+      "title": "Module 1 Summary: ROS 2 - Robotic Nervous System",
+      "description": "Summary of ROS 2 concepts and implementation for humanoid robotics",
+      "permalink": "/ai_book_hack_I/docs/module-1-ros2/summary"
+    },
+    {
+      "id": "module-1-ros2/theory/core-concepts",
+      "title": "ROS 2 Core Concepts and Architecture",
+      "description": "Fundamental building blocks of ROS 2 systems for humanoid robotics",
+      "permalink": "/ai_book_hack_I/docs/module-1-ros2/theory/core-concepts"
+    },
+    {
+      "id": "module-1-ros2/practical/setup",
+      "title": "ROS 2 Practical Setup and Implementation",
+      "description": "Hands-on guide to implementing ROS 2 systems for humanoid robotics",
+      "permalink": "/ai_book_hack_I/docs/module-1-ros2/practical/setup"
+    }
+  ],
+  "unlisted": false
+}

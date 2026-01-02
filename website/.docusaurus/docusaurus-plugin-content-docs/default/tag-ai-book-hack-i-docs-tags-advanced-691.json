@@ -1,0 +1,33 @@
+{
+  "label": "advanced",
+  "permalink": "/ai_book_hack_I/docs/tags/advanced",
+  "allTagsPath": "/ai_book_hack_I/docs/tags",
+  "count": 4,
+  "items": [
+    {
+      "id": "module-3-isaac/advanced/index",
+      "title": "Advanced GPU Acceleration and AI Integration",
+      "description": "Advanced techniques for GPU acceleration and AI integration in humanoid robotics",
+      "permalink": "/ai_book_hack_I/docs/module-3-isaac/advanced/"
+    },
+    {
+      "id": "module-1-ros2/advanced/index",
+      "title": "Advanced ROS 2 Topics",
+      "description": "Advanced concepts and techniques for sophisticated humanoid robotics applications",
+      "permalink": "/ai_book_hack_I/docs/module-1-ros2/advanced/"
+    },
+    {
+      "id": "module-2-digital-twin/advanced/index",
+      "title": "Advanced Simulation Techniques",
+      "description": "Advanced simulation methods and optimization for complex humanoid robotics applications",
+      "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/advanced/"
+    },
+    {
+      "id": "module-4-vla/advanced/index",
+      "title": "Advanced Vision-Language-Action Systems",
+      "description": "Advanced techniques for multimodal AI systems in humanoid robotics",
+      "permalink": "/ai_book_hack_I/docs/module-4-vla/advanced/"
+    }
+  ],
+  "unlisted": false
+}

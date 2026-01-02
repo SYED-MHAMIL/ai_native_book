@@ -1,0 +1,28 @@
+{
+  "id": "module-2-digital-twin/physics-simulation",
+  "title": "Physics & Collision Simulation",
+  "description": "Physics simulation is the foundation of digital twins, enabling realistic modeling of robot interactions with the environment. In this section, we'll explore physics simulation in Gazebo.",
+  "source": "@site/docs/module-2-digital-twin/physics-simulation.md",
+  "sourceDirName": "module-2-digital-twin",
+  "slug": "/module-2-digital-twin/physics-simulation",
+  "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/physics-simulation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-2-digital-twin/physics-simulation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Physics & Collision Simulation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Advanced Simulation Techniques",
+    "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/advanced/"
+  },
+  "next": {
+    "title": "Environment Design",
+    "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/environment-design"
+  }
+}

@@ -1,0 +1,1810 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/ai_book_hack_I/docs",
+          "tagsPath": "/ai_book_hack_I/docs/tags",
+          "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs",
+          "editUrlLocalized": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\mohamil\\Desktop\\MHAMIL\\SPECIFY\\ai_book_hack_I\\website\\sidebars.js",
+          "contentPath": "C:\\Users\\mohamil\\Desktop\\MHAMIL\\SPECIFY\\ai_book_hack_I\\website\\docs",
+          "contentPathLocalized": "C:\\Users\\mohamil\\Desktop\\MHAMIL\\SPECIFY\\ai_book_hack_I\\website\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "id": "intro",
+              "title": "Documentation Overview",
+              "description": "Documentation overview for robot.ai platform",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/ai_book_hack_I/docs/intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Documentation Overview",
+                "description": "Documentation overview for robot.ai platform"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Module 1: The Robotic Nervous System (ROS 2)",
+                "permalink": "/ai_book_hack_I/docs/module-1-ros2/"
+              }
+            },
+            {
+              "id": "module-1-ros2/advanced/index",
+              "title": "Advanced ROS 2 Topics",
+              "description": "Advanced concepts and techniques for sophisticated humanoid robotics applications",
+              "source": "@site/docs/module-1-ros2/advanced/index.md",
+              "sourceDirName": "module-1-ros2/advanced",
+              "slug": "/module-1-ros2/advanced/",
+              "permalink": "/ai_book_hack_I/docs/module-1-ros2/advanced/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-1-ros2/advanced/index.md",
+              "tags": [
+                {
+                  "label": "ros2",
+                  "permalink": "/ai_book_hack_I/docs/tags/ros-2"
+                },
+                {
+                  "label": "advanced",
+                  "permalink": "/ai_book_hack_I/docs/tags/advanced"
+                },
+                {
+                  "label": "architecture",
+                  "permalink": "/ai_book_hack_I/docs/tags/architecture"
+                },
+                {
+                  "label": "optimization",
+                  "permalink": "/ai_book_hack_I/docs/tags/optimization"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Advanced ROS 2 Topics",
+                "description": "Advanced concepts and techniques for sophisticated humanoid robotics applications",
+                "tags": [
+                  "ros2",
+                  "advanced",
+                  "architecture",
+                  "optimization"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 1: The Robotic Nervous System (ROS 2)",
+                "permalink": "/ai_book_hack_I/docs/module-1-ros2/"
+              },
+              "next": {
+                "title": "ROS 2 Middleware Concepts",
+                "permalink": "/ai_book_hack_I/docs/module-1-ros2/middleware-concepts"
+              }
+            },
+            {
+              "id": "module-1-ros2/index",
+              "title": "Module 1: The Robotic Nervous System (ROS 2)",
+              "description": "Welcome to the first module of your robotics learning journey. In this module, you'll explore ROS 2, the middleware that serves as the nervous system for robot control.",
+              "source": "@site/docs/module-1-ros2/index.md",
+              "sourceDirName": "module-1-ros2",
+              "slug": "/module-1-ros2/",
+              "permalink": "/ai_book_hack_I/docs/module-1-ros2/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-1-ros2/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Module 1: The Robotic Nervous System (ROS 2)"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Documentation Overview",
+                "permalink": "/ai_book_hack_I/docs/intro"
+              },
+              "next": {
+                "title": "Advanced ROS 2 Topics",
+                "permalink": "/ai_book_hack_I/docs/module-1-ros2/advanced/"
+              }
+            },
+            {
+              "id": "module-1-ros2/intro",
+              "title": "Module 1: The Robotic Nervous System (ROS 2)",
+              "description": "Introduction to ROS 2 as the communication middleware for humanoid robots",
+              "source": "@site/docs/module-1-ros2/intro.md",
+              "sourceDirName": "module-1-ros2",
+              "slug": "/module-1-ros2/intro",
+              "permalink": "/ai_book_hack_I/docs/module-1-ros2/intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-1-ros2/intro.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "sidebar_label": "Module 1: The Robotic Nervous System (ROS 2)",
+                "title": "Module 1: The Robotic Nervous System (ROS 2)",
+                "description": "Introduction to ROS 2 as the communication middleware for humanoid robots"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 1 Summary: ROS 2 - Robotic Nervous System",
+                "permalink": "/ai_book_hack_I/docs/module-1-ros2/summary"
+              },
+              "next": {
+                "title": "ROS 2 Practical Setup and Implementation",
+                "permalink": "/ai_book_hack_I/docs/module-1-ros2/practical/setup"
+              }
+            },
+            {
+              "id": "module-1-ros2/middleware-concepts",
+              "title": "ROS 2 Middleware Concepts",
+              "description": "Middleware is the software layer that enables communication between different components of a robot system. In ROS 2, this is accomplished through a publish-subscribe model and service-based communication.",
+              "source": "@site/docs/module-1-ros2/middleware-concepts.md",
+              "sourceDirName": "module-1-ros2",
+              "slug": "/module-1-ros2/middleware-concepts",
+              "permalink": "/ai_book_hack_I/docs/module-1-ros2/middleware-concepts",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-1-ros2/middleware-concepts.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "ROS 2 Middleware Concepts"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Advanced ROS 2 Topics",
+                "permalink": "/ai_book_hack_I/docs/module-1-ros2/advanced/"
+              },
+              "next": {
+                "title": "Nodes, Topics, and Services",
+                "permalink": "/ai_book_hack_I/docs/module-1-ros2/nodes-topics-services"
+              }
+            },
+            {
+              "id": "module-1-ros2/nodes-topics-services",
+              "title": "Nodes, Topics, and Services",
+              "description": "In this section, we'll explore the core communication mechanisms in ROS 2: nodes, topics, and services.",
+              "source": "@site/docs/module-1-ros2/nodes-topics-services.md",
+              "sourceDirName": "module-1-ros2",
+              "slug": "/module-1-ros2/nodes-topics-services",
+              "permalink": "/ai_book_hack_I/docs/module-1-ros2/nodes-topics-services",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-1-ros2/nodes-topics-services.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "Nodes, Topics, and Services"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ROS 2 Middleware Concepts",
+                "permalink": "/ai_book_hack_I/docs/module-1-ros2/middleware-concepts"
+              },
+              "next": {
+                "title": "rclpy Python Agent Bridge",
+                "permalink": "/ai_book_hack_I/docs/module-1-ros2/rclpy-bridge"
+              }
+            },
+            {
+              "id": "module-1-ros2/practical/setup",
+              "title": "ROS 2 Practical Setup and Implementation",
+              "description": "Hands-on guide to implementing ROS 2 systems for humanoid robotics",
+              "source": "@site/docs/module-1-ros2/practical/setup.md",
+              "sourceDirName": "module-1-ros2/practical",
+              "slug": "/module-1-ros2/practical/setup",
+              "permalink": "/ai_book_hack_I/docs/module-1-ros2/practical/setup",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-1-ros2/practical/setup.md",
+              "tags": [
+                {
+                  "label": "ros2",
+                  "permalink": "/ai_book_hack_I/docs/tags/ros-2"
+                },
+                {
+                  "label": "practical",
+                  "permalink": "/ai_book_hack_I/docs/tags/practical"
+                },
+                {
+                  "label": "setup",
+                  "permalink": "/ai_book_hack_I/docs/tags/setup"
+                },
+                {
+                  "label": "implementation",
+                  "permalink": "/ai_book_hack_I/docs/tags/implementation"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "ROS 2 Practical Setup and Implementation",
+                "description": "Hands-on guide to implementing ROS 2 systems for humanoid robotics",
+                "tags": [
+                  "ros2",
+                  "practical",
+                  "setup",
+                  "implementation"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 1: The Robotic Nervous System (ROS 2)",
+                "permalink": "/ai_book_hack_I/docs/module-1-ros2/intro"
+              },
+              "next": {
+                "title": "ROS 2 Core Concepts and Architecture",
+                "permalink": "/ai_book_hack_I/docs/module-1-ros2/theory/core-concepts"
+              }
+            },
+            {
+              "id": "module-1-ros2/rclpy-bridge",
+              "title": "rclpy Python Agent Bridge",
+              "description": "rclpy is the Python client library for ROS 2. It provides Python bindings for ROS 2, allowing Python developers to create ROS 2 nodes and interact with the ROS 2 ecosystem.",
+              "source": "@site/docs/module-1-ros2/rclpy-bridge.md",
+              "sourceDirName": "module-1-ros2",
+              "slug": "/module-1-ros2/rclpy-bridge",
+              "permalink": "/ai_book_hack_I/docs/module-1-ros2/rclpy-bridge",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-1-ros2/rclpy-bridge.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "title": "rclpy Python Agent Bridge"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Nodes, Topics, and Services",
+                "permalink": "/ai_book_hack_I/docs/module-1-ros2/nodes-topics-services"
+              },
+              "next": {
+                "title": "URDF for Humanoid Robots",
+                "permalink": "/ai_book_hack_I/docs/module-1-ros2/urdf-humanoids"
+              }
+            },
+            {
+              "id": "module-1-ros2/summary",
+              "title": "Module 1 Summary: ROS 2 - Robotic Nervous System",
+              "description": "Summary of ROS 2 concepts and implementation for humanoid robotics",
+              "source": "@site/docs/module-1-ros2/summary.md",
+              "sourceDirName": "module-1-ros2",
+              "slug": "/module-1-ros2/summary",
+              "permalink": "/ai_book_hack_I/docs/module-1-ros2/summary",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-1-ros2/summary.md",
+              "tags": [
+                {
+                  "label": "ros2",
+                  "permalink": "/ai_book_hack_I/docs/tags/ros-2"
+                },
+                {
+                  "label": "summary",
+                  "permalink": "/ai_book_hack_I/docs/tags/summary"
+                },
+                {
+                  "label": "robotics",
+                  "permalink": "/ai_book_hack_I/docs/tags/robotics"
+                },
+                {
+                  "label": "communication",
+                  "permalink": "/ai_book_hack_I/docs/tags/communication"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 100,
+              "frontMatter": {
+                "sidebar_position": 100,
+                "title": "Module 1 Summary: ROS 2 - Robotic Nervous System",
+                "description": "Summary of ROS 2 concepts and implementation for humanoid robotics",
+                "tags": [
+                  "ros2",
+                  "summary",
+                  "robotics",
+                  "communication"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "URDF for Humanoid Robots",
+                "permalink": "/ai_book_hack_I/docs/module-1-ros2/urdf-humanoids"
+              },
+              "next": {
+                "title": "Module 1: The Robotic Nervous System (ROS 2)",
+                "permalink": "/ai_book_hack_I/docs/module-1-ros2/intro"
+              }
+            },
+            {
+              "id": "module-1-ros2/theory/core-concepts",
+              "title": "ROS 2 Core Concepts and Architecture",
+              "description": "Fundamental building blocks of ROS 2 systems for humanoid robotics",
+              "source": "@site/docs/module-1-ros2/theory/core-concepts.md",
+              "sourceDirName": "module-1-ros2/theory",
+              "slug": "/module-1-ros2/theory/core-concepts",
+              "permalink": "/ai_book_hack_I/docs/module-1-ros2/theory/core-concepts",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-1-ros2/theory/core-concepts.md",
+              "tags": [
+                {
+                  "label": "ros2",
+                  "permalink": "/ai_book_hack_I/docs/tags/ros-2"
+                },
+                {
+                  "label": "architecture",
+                  "permalink": "/ai_book_hack_I/docs/tags/architecture"
+                },
+                {
+                  "label": "nodes",
+                  "permalink": "/ai_book_hack_I/docs/tags/nodes"
+                },
+                {
+                  "label": "topics",
+                  "permalink": "/ai_book_hack_I/docs/tags/topics"
+                },
+                {
+                  "label": "services",
+                  "permalink": "/ai_book_hack_I/docs/tags/services"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "ROS 2 Core Concepts and Architecture",
+                "description": "Fundamental building blocks of ROS 2 systems for humanoid robotics",
+                "tags": [
+                  "ros2",
+                  "architecture",
+                  "nodes",
+                  "topics",
+                  "services"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ROS 2 Practical Setup and Implementation",
+                "permalink": "/ai_book_hack_I/docs/module-1-ros2/practical/setup"
+              },
+              "next": {
+                "title": "Module 2: The Digital Twin (Gazebo & Unity)",
+                "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/"
+              }
+            },
+            {
+              "id": "module-1-ros2/urdf-humanoids",
+              "title": "URDF for Humanoid Robots",
+              "description": "URDF (Unified Robot Description Format) is an XML format for representing a robot model. For humanoid robots, URDF describes the physical structure, joints, and kinematic properties.",
+              "source": "@site/docs/module-1-ros2/urdf-humanoids.md",
+              "sourceDirName": "module-1-ros2",
+              "slug": "/module-1-ros2/urdf-humanoids",
+              "permalink": "/ai_book_hack_I/docs/module-1-ros2/urdf-humanoids",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-1-ros2/urdf-humanoids.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5,
+                "title": "URDF for Humanoid Robots"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "rclpy Python Agent Bridge",
+                "permalink": "/ai_book_hack_I/docs/module-1-ros2/rclpy-bridge"
+              },
+              "next": {
+                "title": "Module 1 Summary: ROS 2 - Robotic Nervous System",
+                "permalink": "/ai_book_hack_I/docs/module-1-ros2/summary"
+              }
+            },
+            {
+              "id": "module-2-digital-twin/advanced/index",
+              "title": "Advanced Simulation Techniques",
+              "description": "Advanced simulation methods and optimization for complex humanoid robotics applications",
+              "source": "@site/docs/module-2-digital-twin/advanced/index.md",
+              "sourceDirName": "module-2-digital-twin/advanced",
+              "slug": "/module-2-digital-twin/advanced/",
+              "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/advanced/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-2-digital-twin/advanced/index.md",
+              "tags": [
+                {
+                  "label": "gazebo",
+                  "permalink": "/ai_book_hack_I/docs/tags/gazebo"
+                },
+                {
+                  "label": "simulation",
+                  "permalink": "/ai_book_hack_I/docs/tags/simulation"
+                },
+                {
+                  "label": "advanced",
+                  "permalink": "/ai_book_hack_I/docs/tags/advanced"
+                },
+                {
+                  "label": "optimization",
+                  "permalink": "/ai_book_hack_I/docs/tags/optimization"
+                },
+                {
+                  "label": "physics",
+                  "permalink": "/ai_book_hack_I/docs/tags/physics"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Advanced Simulation Techniques",
+                "description": "Advanced simulation methods and optimization for complex humanoid robotics applications",
+                "tags": [
+                  "gazebo",
+                  "simulation",
+                  "advanced",
+                  "optimization",
+                  "physics"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 2: The Digital Twin (Gazebo & Unity)",
+                "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/"
+              },
+              "next": {
+                "title": "Physics & Collision Simulation",
+                "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/physics-simulation"
+              }
+            },
+            {
+              "id": "module-2-digital-twin/environment-design",
+              "title": "Environment Design",
+              "description": "Creating realistic environments is crucial for effective simulation and digital twin applications. In this section, we'll explore environment design principles for robotics simulation.",
+              "source": "@site/docs/module-2-digital-twin/environment-design.md",
+              "sourceDirName": "module-2-digital-twin",
+              "slug": "/module-2-digital-twin/environment-design",
+              "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/environment-design",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-2-digital-twin/environment-design.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "Environment Design"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Physics & Collision Simulation",
+                "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/physics-simulation"
+              },
+              "next": {
+                "title": "Unity High-Fidelity Rendering",
+                "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/unity-rendering"
+              }
+            },
+            {
+              "id": "module-2-digital-twin/index",
+              "title": "Module 2: The Digital Twin (Gazebo & Unity)",
+              "description": "Welcome to the second module of your robotics learning journey. In this module, you'll explore digital twins through physics simulation and environments using Gazebo and Unity.",
+              "source": "@site/docs/module-2-digital-twin/index.md",
+              "sourceDirName": "module-2-digital-twin",
+              "slug": "/module-2-digital-twin/",
+              "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-2-digital-twin/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Module 2: The Digital Twin (Gazebo & Unity)"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ROS 2 Core Concepts and Architecture",
+                "permalink": "/ai_book_hack_I/docs/module-1-ros2/theory/core-concepts"
+              },
+              "next": {
+                "title": "Advanced Simulation Techniques",
+                "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/advanced/"
+              }
+            },
+            {
+              "id": "module-2-digital-twin/intro",
+              "title": "Module 2: The Digital Twin (Gazebo & Unity)",
+              "description": "Introduction to digital twins and simulation environments for humanoid robotics",
+              "source": "@site/docs/module-2-digital-twin/intro.md",
+              "sourceDirName": "module-2-digital-twin",
+              "slug": "/module-2-digital-twin/intro",
+              "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-2-digital-twin/intro.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "sidebar_label": "Module 2: The Digital Twin (Gazebo & Unity)",
+                "title": "Module 2: The Digital Twin (Gazebo & Unity)",
+                "description": "Introduction to digital twins and simulation environments for humanoid robotics"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 2 Summary: Gazebo & Unity - Digital Twins",
+                "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/summary"
+              },
+              "next": {
+                "title": "Practical World Creation and Environment Setup",
+                "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/practical/world-creation"
+              }
+            },
+            {
+              "id": "module-2-digital-twin/physics-simulation",
+              "title": "Physics & Collision Simulation",
+              "description": "Physics simulation is the foundation of digital twins, enabling realistic modeling of robot interactions with the environment. In this section, we'll explore physics simulation in Gazebo.",
+              "source": "@site/docs/module-2-digital-twin/physics-simulation.md",
+              "sourceDirName": "module-2-digital-twin",
+              "slug": "/module-2-digital-twin/physics-simulation",
+              "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/physics-simulation",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-2-digital-twin/physics-simulation.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "Physics & Collision Simulation"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Advanced Simulation Techniques",
+                "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/advanced/"
+              },
+              "next": {
+                "title": "Environment Design",
+                "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/environment-design"
+              }
+            },
+            {
+              "id": "module-2-digital-twin/practical/world-creation",
+              "title": "Practical World Creation and Environment Setup",
+              "description": "Hands-on guide to creating and testing simulation environments for humanoid robots",
+              "source": "@site/docs/module-2-digital-twin/practical/world-creation.md",
+              "sourceDirName": "module-2-digital-twin/practical",
+              "slug": "/module-2-digital-twin/practical/world-creation",
+              "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/practical/world-creation",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-2-digital-twin/practical/world-creation.md",
+              "tags": [
+                {
+                  "label": "gazebo",
+                  "permalink": "/ai_book_hack_I/docs/tags/gazebo"
+                },
+                {
+                  "label": "simulation",
+                  "permalink": "/ai_book_hack_I/docs/tags/simulation"
+                },
+                {
+                  "label": "practical",
+                  "permalink": "/ai_book_hack_I/docs/tags/practical"
+                },
+                {
+                  "label": "world-creation",
+                  "permalink": "/ai_book_hack_I/docs/tags/world-creation"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Practical World Creation and Environment Setup",
+                "description": "Hands-on guide to creating and testing simulation environments for humanoid robots",
+                "tags": [
+                  "gazebo",
+                  "simulation",
+                  "practical",
+                  "world-creation"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 2: The Digital Twin (Gazebo & Unity)",
+                "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/intro"
+              },
+              "next": {
+                "title": "World Creation and Environment Modeling",
+                "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/theory/world-creation"
+              }
+            },
+            {
+              "id": "module-2-digital-twin/sensor-simulation",
+              "title": "Sensor Simulation (LiDAR, Depth, IMU)",
+              "description": "Sensor simulation is critical for robotics development, allowing algorithms to be tested with realistic sensor data before deployment on physical robots.",
+              "source": "@site/docs/module-2-digital-twin/sensor-simulation.md",
+              "sourceDirName": "module-2-digital-twin",
+              "slug": "/module-2-digital-twin/sensor-simulation",
+              "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/sensor-simulation",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-2-digital-twin/sensor-simulation.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5,
+                "title": "Sensor Simulation (LiDAR, Depth, IMU)"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Unity High-Fidelity Rendering",
+                "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/unity-rendering"
+              },
+              "next": {
+                "title": "Module 2 Summary: Gazebo & Unity - Digital Twins",
+                "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/summary"
+              }
+            },
+            {
+              "id": "module-2-digital-twin/summary",
+              "title": "Module 2 Summary: Gazebo & Unity - Digital Twins",
+              "description": "Summary of simulation environments and digital twin concepts for humanoid robotics",
+              "source": "@site/docs/module-2-digital-twin/summary.md",
+              "sourceDirName": "module-2-digital-twin",
+              "slug": "/module-2-digital-twin/summary",
+              "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/summary",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-2-digital-twin/summary.md",
+              "tags": [
+                {
+                  "label": "gazebo",
+                  "permalink": "/ai_book_hack_I/docs/tags/gazebo"
+                },
+                {
+                  "label": "unity",
+                  "permalink": "/ai_book_hack_I/docs/tags/unity"
+                },
+                {
+                  "label": "simulation",
+                  "permalink": "/ai_book_hack_I/docs/tags/simulation"
+                },
+                {
+                  "label": "digital-twin",
+                  "permalink": "/ai_book_hack_I/docs/tags/digital-twin"
+                },
+                {
+                  "label": "robotics",
+                  "permalink": "/ai_book_hack_I/docs/tags/robotics"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 100,
+              "frontMatter": {
+                "sidebar_position": 100,
+                "title": "Module 2 Summary: Gazebo & Unity - Digital Twins",
+                "description": "Summary of simulation environments and digital twin concepts for humanoid robotics",
+                "tags": [
+                  "gazebo",
+                  "unity",
+                  "simulation",
+                  "digital-twin",
+                  "robotics"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sensor Simulation (LiDAR, Depth, IMU)",
+                "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/sensor-simulation"
+              },
+              "next": {
+                "title": "Module 2: The Digital Twin (Gazebo & Unity)",
+                "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/intro"
+              }
+            },
+            {
+              "id": "module-2-digital-twin/theory/world-creation",
+              "title": "World Creation and Environment Modeling",
+              "description": "Creating realistic simulation environments for humanoid robot testing and development",
+              "source": "@site/docs/module-2-digital-twin/theory/world-creation.md",
+              "sourceDirName": "module-2-digital-twin/theory",
+              "slug": "/module-2-digital-twin/theory/world-creation",
+              "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/theory/world-creation",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-2-digital-twin/theory/world-creation.md",
+              "tags": [
+                {
+                  "label": "gazebo",
+                  "permalink": "/ai_book_hack_I/docs/tags/gazebo"
+                },
+                {
+                  "label": "simulation",
+                  "permalink": "/ai_book_hack_I/docs/tags/simulation"
+                },
+                {
+                  "label": "world-modeling",
+                  "permalink": "/ai_book_hack_I/docs/tags/world-modeling"
+                },
+                {
+                  "label": "environment",
+                  "permalink": "/ai_book_hack_I/docs/tags/environment"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "World Creation and Environment Modeling",
+                "description": "Creating realistic simulation environments for humanoid robot testing and development",
+                "tags": [
+                  "gazebo",
+                  "simulation",
+                  "world-modeling",
+                  "environment"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Practical World Creation and Environment Setup",
+                "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/practical/world-creation"
+              },
+              "next": {
+                "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac)",
+                "permalink": "/ai_book_hack_I/docs/module-3-isaac/"
+              }
+            },
+            {
+              "id": "module-2-digital-twin/unity-rendering",
+              "title": "Unity High-Fidelity Rendering",
+              "description": "Unity provides advanced rendering capabilities that enable high-fidelity visualization for robotics simulation. This section explores Unity's rendering features relevant to digital twin applications.",
+              "source": "@site/docs/module-2-digital-twin/unity-rendering.md",
+              "sourceDirName": "module-2-digital-twin",
+              "slug": "/module-2-digital-twin/unity-rendering",
+              "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/unity-rendering",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-2-digital-twin/unity-rendering.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "title": "Unity High-Fidelity Rendering"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Environment Design",
+                "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/environment-design"
+              },
+              "next": {
+                "title": "Sensor Simulation (LiDAR, Depth, IMU)",
+                "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/sensor-simulation"
+              }
+            },
+            {
+              "id": "module-3-isaac/advanced/index",
+              "title": "Advanced GPU Acceleration and AI Integration",
+              "description": "Advanced techniques for GPU acceleration and AI integration in humanoid robotics",
+              "source": "@site/docs/module-3-isaac/advanced/index.md",
+              "sourceDirName": "module-3-isaac/advanced",
+              "slug": "/module-3-isaac/advanced/",
+              "permalink": "/ai_book_hack_I/docs/module-3-isaac/advanced/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-3-isaac/advanced/index.md",
+              "tags": [
+                {
+                  "label": "nvidia-isaac",
+                  "permalink": "/ai_book_hack_I/docs/tags/nvidia-isaac"
+                },
+                {
+                  "label": "gpu-acceleration",
+                  "permalink": "/ai_book_hack_I/docs/tags/gpu-acceleration"
+                },
+                {
+                  "label": "ai",
+                  "permalink": "/ai_book_hack_I/docs/tags/ai"
+                },
+                {
+                  "label": "advanced",
+                  "permalink": "/ai_book_hack_I/docs/tags/advanced"
+                },
+                {
+                  "label": "optimization",
+                  "permalink": "/ai_book_hack_I/docs/tags/optimization"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Advanced GPU Acceleration and AI Integration",
+                "description": "Advanced techniques for GPU acceleration and AI integration in humanoid robotics",
+                "tags": [
+                  "nvidia-isaac",
+                  "gpu-acceleration",
+                  "ai",
+                  "advanced",
+                  "optimization"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac)",
+                "permalink": "/ai_book_hack_I/docs/module-3-isaac/"
+              },
+              "next": {
+                "title": "Isaac Sim Synthetic Data",
+                "permalink": "/ai_book_hack_I/docs/module-3-isaac/synthetic-data"
+              }
+            },
+            {
+              "id": "module-3-isaac/index",
+              "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac)",
+              "description": "Welcome to the third module of your robotics learning journey. In this module, you'll explore NVIDIA Isaac, which provides perception and motion intelligence for robots.",
+              "source": "@site/docs/module-3-isaac/index.md",
+              "sourceDirName": "module-3-isaac",
+              "slug": "/module-3-isaac/",
+              "permalink": "/ai_book_hack_I/docs/module-3-isaac/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-3-isaac/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac)"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "World Creation and Environment Modeling",
+                "permalink": "/ai_book_hack_I/docs/module-2-digital-twin/theory/world-creation"
+              },
+              "next": {
+                "title": "Advanced GPU Acceleration and AI Integration",
+                "permalink": "/ai_book_hack_I/docs/module-3-isaac/advanced/"
+              }
+            },
+            {
+              "id": "module-3-isaac/intro",
+              "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac)",
+              "description": "Introduction to NVIDIA Isaac for perception and motion intelligence in humanoid robots",
+              "source": "@site/docs/module-3-isaac/intro.md",
+              "sourceDirName": "module-3-isaac",
+              "slug": "/module-3-isaac/intro",
+              "permalink": "/ai_book_hack_I/docs/module-3-isaac/intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-3-isaac/intro.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "sidebar_label": "Module 3: The AI-Robot Brain (NVIDIA Isaac)",
+                "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac)",
+                "description": "Introduction to NVIDIA Isaac for perception and motion intelligence in humanoid robots"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 3 Summary: NVIDIA Isaac - AI Robot Brain",
+                "permalink": "/ai_book_hack_I/docs/module-3-isaac/summary"
+              },
+              "next": {
+                "title": "Practical GPU Acceleration for Robotics",
+                "permalink": "/ai_book_hack_I/docs/module-3-isaac/practical/gpu-acceleration"
+              }
+            },
+            {
+              "id": "module-3-isaac/nav2-locomotion",
+              "title": "Nav2 for Humanoid Locomotion",
+              "description": "Navigation 2 (Nav2) is the ROS 2 navigation stack that provides path planning and navigation capabilities. For humanoid robots, Nav2 requires special considerations for locomotion and mobility.",
+              "source": "@site/docs/module-3-isaac/nav2-locomotion.md",
+              "sourceDirName": "module-3-isaac",
+              "slug": "/module-3-isaac/nav2-locomotion",
+              "permalink": "/ai_book_hack_I/docs/module-3-isaac/nav2-locomotion",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-3-isaac/nav2-locomotion.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "title": "Nav2 for Humanoid Locomotion"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Isaac ROS VSLAM & Navigation",
+                "permalink": "/ai_book_hack_I/docs/module-3-isaac/vslam-navigation"
+              },
+              "next": {
+                "title": "Module 3 Summary: NVIDIA Isaac - AI Robot Brain",
+                "permalink": "/ai_book_hack_I/docs/module-3-isaac/summary"
+              }
+            },
+            {
+              "id": "module-3-isaac/practical/gpu-acceleration",
+              "title": "Practical GPU Acceleration for Robotics",
+              "description": "Hands-on guide to implementing GPU-accelerated perception and AI systems using NVIDIA Isaac",
+              "source": "@site/docs/module-3-isaac/practical/gpu-acceleration.md",
+              "sourceDirName": "module-3-isaac/practical",
+              "slug": "/module-3-isaac/practical/gpu-acceleration",
+              "permalink": "/ai_book_hack_I/docs/module-3-isaac/practical/gpu-acceleration",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-3-isaac/practical/gpu-acceleration.md",
+              "tags": [
+                {
+                  "label": "nvidia-isaac",
+                  "permalink": "/ai_book_hack_I/docs/tags/nvidia-isaac"
+                },
+                {
+                  "label": "gpu-acceleration",
+                  "permalink": "/ai_book_hack_I/docs/tags/gpu-acceleration"
+                },
+                {
+                  "label": "practical",
+                  "permalink": "/ai_book_hack_I/docs/tags/practical"
+                },
+                {
+                  "label": "perception",
+                  "permalink": "/ai_book_hack_I/docs/tags/perception"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Practical GPU Acceleration for Robotics",
+                "description": "Hands-on guide to implementing GPU-accelerated perception and AI systems using NVIDIA Isaac",
+                "tags": [
+                  "nvidia-isaac",
+                  "gpu-acceleration",
+                  "practical",
+                  "perception"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac)",
+                "permalink": "/ai_book_hack_I/docs/module-3-isaac/intro"
+              },
+              "next": {
+                "title": "GPU-Accelerated Perception Systems",
+                "permalink": "/ai_book_hack_I/docs/module-3-isaac/theory/gpu-accelerated-perception"
+              }
+            },
+            {
+              "id": "module-3-isaac/summary",
+              "title": "Module 3 Summary: NVIDIA Isaac - AI Robot Brain",
+              "description": "Summary of AI integration and NVIDIA Isaac concepts for humanoid robotics",
+              "source": "@site/docs/module-3-isaac/summary.md",
+              "sourceDirName": "module-3-isaac",
+              "slug": "/module-3-isaac/summary",
+              "permalink": "/ai_book_hack_I/docs/module-3-isaac/summary",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-3-isaac/summary.md",
+              "tags": [
+                {
+                  "label": "nvidia-isaac",
+                  "permalink": "/ai_book_hack_I/docs/tags/nvidia-isaac"
+                },
+                {
+                  "label": "ai",
+                  "permalink": "/ai_book_hack_I/docs/tags/ai"
+                },
+                {
+                  "label": "robotics",
+                  "permalink": "/ai_book_hack_I/docs/tags/robotics"
+                },
+                {
+                  "label": "perception",
+                  "permalink": "/ai_book_hack_I/docs/tags/perception"
+                },
+                {
+                  "label": "planning",
+                  "permalink": "/ai_book_hack_I/docs/tags/planning"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 100,
+              "frontMatter": {
+                "sidebar_position": 100,
+                "title": "Module 3 Summary: NVIDIA Isaac - AI Robot Brain",
+                "description": "Summary of AI integration and NVIDIA Isaac concepts for humanoid robotics",
+                "tags": [
+                  "nvidia-isaac",
+                  "ai",
+                  "robotics",
+                  "perception",
+                  "planning"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Nav2 for Humanoid Locomotion",
+                "permalink": "/ai_book_hack_I/docs/module-3-isaac/nav2-locomotion"
+              },
+              "next": {
+                "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac)",
+                "permalink": "/ai_book_hack_I/docs/module-3-isaac/intro"
+              }
+            },
+            {
+              "id": "module-3-isaac/synthetic-data",
+              "title": "Isaac Sim Synthetic Data",
+              "description": "NVIDIA Isaac Sim is a robotics simulation application that provides photorealistic simulation capabilities and synthetic data generation for training AI models.",
+              "source": "@site/docs/module-3-isaac/synthetic-data.md",
+              "sourceDirName": "module-3-isaac",
+              "slug": "/module-3-isaac/synthetic-data",
+              "permalink": "/ai_book_hack_I/docs/module-3-isaac/synthetic-data",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-3-isaac/synthetic-data.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "Isaac Sim Synthetic Data"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Advanced GPU Acceleration and AI Integration",
+                "permalink": "/ai_book_hack_I/docs/module-3-isaac/advanced/"
+              },
+              "next": {
+                "title": "Isaac ROS VSLAM & Navigation",
+                "permalink": "/ai_book_hack_I/docs/module-3-isaac/vslam-navigation"
+              }
+            },
+            {
+              "id": "module-3-isaac/theory/gpu-accelerated-perception",
+              "title": "GPU-Accelerated Perception Systems",
+              "description": "Implementing high-performance computer vision and sensor processing using NVIDIA Isaac and GPU acceleration",
+              "source": "@site/docs/module-3-isaac/theory/gpu-accelerated-perception.md",
+              "sourceDirName": "module-3-isaac/theory",
+              "slug": "/module-3-isaac/theory/gpu-accelerated-perception",
+              "permalink": "/ai_book_hack_I/docs/module-3-isaac/theory/gpu-accelerated-perception",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-3-isaac/theory/gpu-accelerated-perception.md",
+              "tags": [
+                {
+                  "label": "nvidia-isaac",
+                  "permalink": "/ai_book_hack_I/docs/tags/nvidia-isaac"
+                },
+                {
+                  "label": "gpu-acceleration",
+                  "permalink": "/ai_book_hack_I/docs/tags/gpu-acceleration"
+                },
+                {
+                  "label": "computer-vision",
+                  "permalink": "/ai_book_hack_I/docs/tags/computer-vision"
+                },
+                {
+                  "label": "perception",
+                  "permalink": "/ai_book_hack_I/docs/tags/perception"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "GPU-Accelerated Perception Systems",
+                "description": "Implementing high-performance computer vision and sensor processing using NVIDIA Isaac and GPU acceleration",
+                "tags": [
+                  "nvidia-isaac",
+                  "gpu-acceleration",
+                  "computer-vision",
+                  "perception"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Practical GPU Acceleration for Robotics",
+                "permalink": "/ai_book_hack_I/docs/module-3-isaac/practical/gpu-acceleration"
+              },
+              "next": {
+                "title": "Module 4: Vision-Language-Action (VLA)",
+                "permalink": "/ai_book_hack_I/docs/module-4-vla/"
+              }
+            },
+            {
+              "id": "module-3-isaac/vslam-navigation",
+              "title": "Isaac ROS VSLAM & Navigation",
+              "description": "NVIDIA Isaac ROS provides GPU-accelerated perception and navigation capabilities for robotics applications. This section covers Visual Simultaneous Localization and Mapping (VSLAM) and navigation systems.",
+              "source": "@site/docs/module-3-isaac/vslam-navigation.md",
+              "sourceDirName": "module-3-isaac",
+              "slug": "/module-3-isaac/vslam-navigation",
+              "permalink": "/ai_book_hack_I/docs/module-3-isaac/vslam-navigation",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-3-isaac/vslam-navigation.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "Isaac ROS VSLAM & Navigation"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Isaac Sim Synthetic Data",
+                "permalink": "/ai_book_hack_I/docs/module-3-isaac/synthetic-data"
+              },
+              "next": {
+                "title": "Nav2 for Humanoid Locomotion",
+                "permalink": "/ai_book_hack_I/docs/module-3-isaac/nav2-locomotion"
+              }
+            },
+            {
+              "id": "module-4-vla/advanced/index",
+              "title": "Advanced Vision-Language-Action Systems",
+              "description": "Advanced techniques for multimodal AI systems in humanoid robotics",
+              "source": "@site/docs/module-4-vla/advanced/index.md",
+              "sourceDirName": "module-4-vla/advanced",
+              "slug": "/module-4-vla/advanced/",
+              "permalink": "/ai_book_hack_I/docs/module-4-vla/advanced/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-4-vla/advanced/index.md",
+              "tags": [
+                {
+                  "label": "vla",
+                  "permalink": "/ai_book_hack_I/docs/tags/vla"
+                },
+                {
+                  "label": "vision-language-action",
+                  "permalink": "/ai_book_hack_I/docs/tags/vision-language-action"
+                },
+                {
+                  "label": "ai",
+                  "permalink": "/ai_book_hack_I/docs/tags/ai"
+                },
+                {
+                  "label": "advanced",
+                  "permalink": "/ai_book_hack_I/docs/tags/advanced"
+                },
+                {
+                  "label": "multimodal",
+                  "permalink": "/ai_book_hack_I/docs/tags/multimodal"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Advanced Vision-Language-Action Systems",
+                "description": "Advanced techniques for multimodal AI systems in humanoid robotics",
+                "tags": [
+                  "vla",
+                  "vision-language-action",
+                  "ai",
+                  "advanced",
+                  "multimodal"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 4: Vision-Language-Action (VLA)",
+                "permalink": "/ai_book_hack_I/docs/module-4-vla/"
+              },
+              "next": {
+                "title": "VLA Concept Overview",
+                "permalink": "/ai_book_hack_I/docs/module-4-vla/vla-concepts"
+              }
+            },
+            {
+              "id": "module-4-vla/humanoid-interaction",
+              "title": "Role in Humanoid Interaction",
+              "description": "Vision-Language-Action (VLA) models play a crucial role in enabling natural and intuitive interaction between humans and humanoid robots. This section explores how VLA models enhance humanoid robot capabilities.",
+              "source": "@site/docs/module-4-vla/humanoid-interaction.md",
+              "sourceDirName": "module-4-vla",
+              "slug": "/module-4-vla/humanoid-interaction",
+              "permalink": "/ai_book_hack_I/docs/module-4-vla/humanoid-interaction",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-4-vla/humanoid-interaction.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "Role in Humanoid Interaction"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "VLA Concept Overview",
+                "permalink": "/ai_book_hack_I/docs/module-4-vla/vla-concepts"
+              },
+              "next": {
+                "title": "Real-World Applications",
+                "permalink": "/ai_book_hack_I/docs/module-4-vla/real-world-applications"
+              }
+            },
+            {
+              "id": "module-4-vla/index",
+              "title": "Module 4: Vision-Language-Action (VLA)",
+              "description": "Welcome to the fourth and final module of your robotics learning journey. In this module, you'll explore Vision-Language-Action models, which represent the cutting edge of multimodal reasoning and behavior in robotics.",
+              "source": "@site/docs/module-4-vla/index.md",
+              "sourceDirName": "module-4-vla",
+              "slug": "/module-4-vla/",
+              "permalink": "/ai_book_hack_I/docs/module-4-vla/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-4-vla/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Module 4: Vision-Language-Action (VLA)"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "GPU-Accelerated Perception Systems",
+                "permalink": "/ai_book_hack_I/docs/module-3-isaac/theory/gpu-accelerated-perception"
+              },
+              "next": {
+                "title": "Advanced Vision-Language-Action Systems",
+                "permalink": "/ai_book_hack_I/docs/module-4-vla/advanced/"
+              }
+            },
+            {
+              "id": "module-4-vla/intro",
+              "title": "Module 4: Vision-Language-Action (VLA)",
+              "description": "Introduction to multimodal reasoning and behavior for humanoid robotics",
+              "source": "@site/docs/module-4-vla/intro.md",
+              "sourceDirName": "module-4-vla",
+              "slug": "/module-4-vla/intro",
+              "permalink": "/ai_book_hack_I/docs/module-4-vla/intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-4-vla/intro.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "sidebar_label": "Module 4: Vision-Language-Action (VLA)",
+                "title": "Module 4: Vision-Language-Action (VLA)",
+                "description": "Introduction to multimodal reasoning and behavior for humanoid robotics"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 4 Summary: Vision-Language-Action Systems",
+                "permalink": "/ai_book_hack_I/docs/module-4-vla/summary"
+              },
+              "next": {
+                "title": "Vision-Language-Action Systems",
+                "permalink": "/ai_book_hack_I/docs/module-4-vla/theory/multimodal-integration"
+              }
+            },
+            {
+              "id": "module-4-vla/real-world-applications",
+              "title": "Real-World Applications",
+              "description": "Vision-Language-Action (VLA) models are being deployed in various real-world applications, transforming how robots interact with complex environments and human users. This section explores practical implementations and use cases.",
+              "source": "@site/docs/module-4-vla/real-world-applications.md",
+              "sourceDirName": "module-4-vla",
+              "slug": "/module-4-vla/real-world-applications",
+              "permalink": "/ai_book_hack_I/docs/module-4-vla/real-world-applications",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-4-vla/real-world-applications.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "title": "Real-World Applications"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Role in Humanoid Interaction",
+                "permalink": "/ai_book_hack_I/docs/module-4-vla/humanoid-interaction"
+              },
+              "next": {
+                "title": "Module 4 Summary: Vision-Language-Action Systems",
+                "permalink": "/ai_book_hack_I/docs/module-4-vla/summary"
+              }
+            },
+            {
+              "id": "module-4-vla/summary",
+              "title": "Module 4 Summary: Vision-Language-Action Systems",
+              "description": "Summary of VLA systems and multimodal AI for humanoid robotics",
+              "source": "@site/docs/module-4-vla/summary.md",
+              "sourceDirName": "module-4-vla",
+              "slug": "/module-4-vla/summary",
+              "permalink": "/ai_book_hack_I/docs/module-4-vla/summary",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-4-vla/summary.md",
+              "tags": [
+                {
+                  "label": "vla",
+                  "permalink": "/ai_book_hack_I/docs/tags/vla"
+                },
+                {
+                  "label": "vision-language-action",
+                  "permalink": "/ai_book_hack_I/docs/tags/vision-language-action"
+                },
+                {
+                  "label": "multimodal-ai",
+                  "permalink": "/ai_book_hack_I/docs/tags/multimodal-ai"
+                },
+                {
+                  "label": "summary",
+                  "permalink": "/ai_book_hack_I/docs/tags/summary"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 100,
+              "frontMatter": {
+                "sidebar_position": 100,
+                "title": "Module 4 Summary: Vision-Language-Action Systems",
+                "description": "Summary of VLA systems and multimodal AI for humanoid robotics",
+                "tags": [
+                  "vla",
+                  "vision-language-action",
+                  "multimodal-ai",
+                  "summary"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Real-World Applications",
+                "permalink": "/ai_book_hack_I/docs/module-4-vla/real-world-applications"
+              },
+              "next": {
+                "title": "Module 4: Vision-Language-Action (VLA)",
+                "permalink": "/ai_book_hack_I/docs/module-4-vla/intro"
+              }
+            },
+            {
+              "id": "module-4-vla/theory/multimodal-integration",
+              "title": "Vision-Language-Action Systems",
+              "description": "Creating integrated perception-action systems that understand and respond to human commands",
+              "source": "@site/docs/module-4-vla/theory/multimodal-integration.md",
+              "sourceDirName": "module-4-vla/theory",
+              "slug": "/module-4-vla/theory/multimodal-integration",
+              "permalink": "/ai_book_hack_I/docs/module-4-vla/theory/multimodal-integration",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-4-vla/theory/multimodal-integration.md",
+              "tags": [
+                {
+                  "label": "vla",
+                  "permalink": "/ai_book_hack_I/docs/tags/vla"
+                },
+                {
+                  "label": "vision-language-action",
+                  "permalink": "/ai_book_hack_I/docs/tags/vision-language-action"
+                },
+                {
+                  "label": "ai",
+                  "permalink": "/ai_book_hack_I/docs/tags/ai"
+                },
+                {
+                  "label": "robotics",
+                  "permalink": "/ai_book_hack_I/docs/tags/robotics"
+                },
+                {
+                  "label": "multimodal",
+                  "permalink": "/ai_book_hack_I/docs/tags/multimodal"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Vision-Language-Action Systems",
+                "description": "Creating integrated perception-action systems that understand and respond to human commands",
+                "tags": [
+                  "vla",
+                  "vision-language-action",
+                  "ai",
+                  "robotics",
+                  "multimodal"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 4: Vision-Language-Action (VLA)",
+                "permalink": "/ai_book_hack_I/docs/module-4-vla/intro"
+              },
+              "next": {
+                "title": "Welcome to robot.ai",
+                "permalink": "/ai_book_hack_I/docs/overview/welcome"
+              }
+            },
+            {
+              "id": "module-4-vla/vla-concepts",
+              "title": "VLA Concept Overview",
+              "description": "Vision-Language-Action (VLA) models represent a paradigm shift in robotics, where perception, language understanding, and action execution are unified in a single model architecture.",
+              "source": "@site/docs/module-4-vla/vla-concepts.md",
+              "sourceDirName": "module-4-vla",
+              "slug": "/module-4-vla/vla-concepts",
+              "permalink": "/ai_book_hack_I/docs/module-4-vla/vla-concepts",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-4-vla/vla-concepts.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "VLA Concept Overview"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Advanced Vision-Language-Action Systems",
+                "permalink": "/ai_book_hack_I/docs/module-4-vla/advanced/"
+              },
+              "next": {
+                "title": "Role in Humanoid Interaction",
+                "permalink": "/ai_book_hack_I/docs/module-4-vla/humanoid-interaction"
+              }
+            },
+            {
+              "id": "overview/welcome",
+              "title": "Welcome to robot.ai",
+              "description": "Welcome to robot.ai, a comprehensive learning platform for humanoid robotics education. This platform combines ROS 2, simulation, AI, and multimodal systems to provide you with a complete learning experience.",
+              "source": "@site/docs/overview/welcome.md",
+              "sourceDirName": "overview",
+              "slug": "/overview/welcome",
+              "permalink": "/ai_book_hack_I/docs/overview/welcome",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/overview/welcome.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Welcome to robot.ai"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Vision-Language-Action Systems",
+                "permalink": "/ai_book_hack_I/docs/module-4-vla/theory/multimodal-integration"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Module 1: The Robotic Nervous System (ROS 2)",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "label": "Advanced ROS 2 Topics",
+                    "id": "module-1-ros2/advanced/index"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-1-ros2/middleware-concepts"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-1-ros2/nodes-topics-services"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-1-ros2/rclpy-bridge"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-1-ros2/urdf-humanoids"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-1-ros2/summary"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-1-ros2/intro",
+                    "label": "Module 1: The Robotic Nervous System (ROS 2)"
+                  },
+                  {
+                    "type": "category",
+                    "label": "practical",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "module-1-ros2/practical/setup"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "theory",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "module-1-ros2/theory/core-concepts"
+                      }
+                    ]
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "module-1-ros2/index"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Module 2: The Digital Twin (Gazebo & Unity)",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "label": "Advanced Simulation Techniques",
+                    "id": "module-2-digital-twin/advanced/index"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-2-digital-twin/physics-simulation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-2-digital-twin/environment-design"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-2-digital-twin/unity-rendering"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-2-digital-twin/sensor-simulation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-2-digital-twin/summary"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-2-digital-twin/intro",
+                    "label": "Module 2: The Digital Twin (Gazebo & Unity)"
+                  },
+                  {
+                    "type": "category",
+                    "label": "practical",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "module-2-digital-twin/practical/world-creation"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "theory",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "module-2-digital-twin/theory/world-creation"
+                      }
+                    ]
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "module-2-digital-twin/index"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Module 3: The AI-Robot Brain (NVIDIA Isaac)",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "label": "Advanced GPU Acceleration and AI Integration",
+                    "id": "module-3-isaac/advanced/index"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-3-isaac/synthetic-data"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-3-isaac/vslam-navigation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-3-isaac/nav2-locomotion"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-3-isaac/summary"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-3-isaac/intro",
+                    "label": "Module 3: The AI-Robot Brain (NVIDIA Isaac)"
+                  },
+                  {
+                    "type": "category",
+                    "label": "practical",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "module-3-isaac/practical/gpu-acceleration"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "theory",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "module-3-isaac/theory/gpu-accelerated-perception"
+                      }
+                    ]
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "module-3-isaac/index"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Module 4: Vision-Language-Action (VLA)",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "label": "Advanced Vision-Language-Action Systems",
+                    "id": "module-4-vla/advanced/index"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-4-vla/vla-concepts"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-4-vla/humanoid-interaction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-4-vla/real-world-applications"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-4-vla/summary"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-4-vla/intro",
+                    "label": "Module 4: Vision-Language-Action (VLA)"
+                  },
+                  {
+                    "type": "category",
+                    "label": "theory",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "module-4-vla/theory/multimodal-integration"
+                      }
+                    ]
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "module-4-vla/index"
+                }
+              },
+              {
+                "type": "category",
+                "label": "overview",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "overview/welcome"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/ai_book_hack_I/",
+        "source": "@site/src/pages/index.jsx"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/ai_book_hack_I/welcome",
+        "source": "@site/src/pages/welcome.jsx"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/ai_book_hack_I/modules/gazebo-unity",
+        "source": "@site/src/pages/modules/gazebo-unity.jsx"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/ai_book_hack_I/modules/nvidia-isaac",
+        "source": "@site/src/pages/modules/nvidia-isaac.jsx"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/ai_book_hack_I/modules/ros2",
+        "source": "@site/src/pages/modules/ros2.jsx"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/ai_book_hack_I/modules/vla",
+        "source": "@site/src/pages/modules/vla.jsx"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

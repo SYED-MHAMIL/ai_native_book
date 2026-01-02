@@ -1,0 +1,28 @@
+{
+  "id": "module-1-ros2/intro",
+  "title": "Module 1: The Robotic Nervous System (ROS 2)",
+  "description": "Introduction to ROS 2 as the communication middleware for humanoid robots",
+  "source": "@site/docs/module-1-ros2/intro.md",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/intro",
+  "permalink": "/ai_book_hack_I/docs/module-1-ros2/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-1-ros2/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Module 1: The Robotic Nervous System (ROS 2)",
+    "title": "Module 1: The Robotic Nervous System (ROS 2)",
+    "description": "Introduction to ROS 2 as the communication middleware for humanoid robots"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 1 Summary: ROS 2 - Robotic Nervous System",
+    "permalink": "/ai_book_hack_I/docs/module-1-ros2/summary"
+  },
+  "next": {
+    "title": "ROS 2 Practical Setup and Implementation",
+    "permalink": "/ai_book_hack_I/docs/module-1-ros2/practical/setup"
+  }
+}

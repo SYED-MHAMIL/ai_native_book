@@ -1,0 +1,57 @@
+{
+  "id": "module-4-vla/theory/multimodal-integration",
+  "title": "Vision-Language-Action Systems",
+  "description": "Creating integrated perception-action systems that understand and respond to human commands",
+  "source": "@site/docs/module-4-vla/theory/multimodal-integration.md",
+  "sourceDirName": "module-4-vla/theory",
+  "slug": "/module-4-vla/theory/multimodal-integration",
+  "permalink": "/ai_book_hack_I/docs/module-4-vla/theory/multimodal-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/module-4-vla/theory/multimodal-integration.md",
+  "tags": [
+    {
+      "label": "vla",
+      "permalink": "/ai_book_hack_I/docs/tags/vla"
+    },
+    {
+      "label": "vision-language-action",
+      "permalink": "/ai_book_hack_I/docs/tags/vision-language-action"
+    },
+    {
+      "label": "ai",
+      "permalink": "/ai_book_hack_I/docs/tags/ai"
+    },
+    {
+      "label": "robotics",
+      "permalink": "/ai_book_hack_I/docs/tags/robotics"
+    },
+    {
+      "label": "multimodal",
+      "permalink": "/ai_book_hack_I/docs/tags/multimodal"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Vision-Language-Action Systems",
+    "description": "Creating integrated perception-action systems that understand and respond to human commands",
+    "tags": [
+      "vla",
+      "vision-language-action",
+      "ai",
+      "robotics",
+      "multimodal"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 4: Vision-Language-Action (VLA)",
+    "permalink": "/ai_book_hack_I/docs/module-4-vla/intro"
+  },
+  "next": {
+    "title": "Welcome to robot.ai",
+    "permalink": "/ai_book_hack_I/docs/overview/welcome"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "label": "computer-vision",
+  "permalink": "/ai_book_hack_I/docs/tags/computer-vision",
+  "allTagsPath": "/ai_book_hack_I/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "module-3-isaac/theory/gpu-accelerated-perception",
+      "title": "GPU-Accelerated Perception Systems",
+      "description": "Implementing high-performance computer vision and sensor processing using NVIDIA Isaac and GPU acceleration",
+      "permalink": "/ai_book_hack_I/docs/module-3-isaac/theory/gpu-accelerated-perception"
+    }
+  ],
+  "unlisted": false
+}
