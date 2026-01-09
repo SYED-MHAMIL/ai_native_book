@@ -1,0 +1,24 @@
+{
+  "id": "plugins/docusaurus-plugin-og-image-generator/README",
+  "title": "Docusaurus OG Image Generator Plugin",
+  "description": "Automatically generates beautiful Open Graph (social media preview) images for every page in your Docusaurus site.",
+  "source": "@site/docs/plugins/docusaurus-plugin-og-image-generator/README.md",
+  "sourceDirName": "plugins/docusaurus-plugin-og-image-generator",
+  "slug": "/plugins/docusaurus-plugin-og-image-generator/",
+  "permalink": "/ai_book_hack_I/docs/plugins/docusaurus-plugin-og-image-generator/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/plugins/docusaurus-plugin-og-image-generator/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Docusaurus Auto-Translate Plugin",
+    "permalink": "/ai_book_hack_I/docs/plugins/docusaurus-plugin-auto-translate/"
+  },
+  "next": {
+    "title": "OG Images Fix - Issue Resolution",
+    "permalink": "/ai_book_hack_I/docs/plugins/docusaurus-plugin-og-image-generator/SETUP"
+  }
+}

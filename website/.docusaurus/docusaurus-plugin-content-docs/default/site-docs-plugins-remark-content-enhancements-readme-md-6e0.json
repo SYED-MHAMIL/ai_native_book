@@ -1,0 +1,24 @@
+{
+  "id": "plugins/remark-content-enhancements/README",
+  "title": "Remark Content Enhancements Plugin",
+  "description": "Version: 1.0.0",
+  "source": "@site/docs/plugins/remark-content-enhancements/README.md",
+  "sourceDirName": "plugins/remark-content-enhancements",
+  "slug": "/plugins/remark-content-enhancements/",
+  "permalink": "/ai_book_hack_I/docs/plugins/remark-content-enhancements/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/plugins/remark-content-enhancements/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "OG Images Fix - Issue Resolution",
+    "permalink": "/ai_book_hack_I/docs/plugins/docusaurus-plugin-og-image-generator/SETUP"
+  },
+  "next": {
+    "title": "Remark Interactive Python Plugin",
+    "permalink": "/ai_book_hack_I/docs/plugins/remark-interactive-python/"
+  }
+}

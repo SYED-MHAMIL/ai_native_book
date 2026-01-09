@@ -38,6 +38,11 @@ export default [
     exact: true
   },
   {
+    path: '/ai_book_hack_I/experience-demo',
+    component: ComponentCreator('/ai_book_hack_I/experience-demo', '0b8'),
+    exact: true
+  },
+  {
     path: '/ai_book_hack_I/modules/gazebo-unity',
     component: ComponentCreator('/ai_book_hack_I/modules/gazebo-unity', 'b45'),
     exact: true
@@ -55,6 +60,11 @@ export default [
   {
     path: '/ai_book_hack_I/modules/vla',
     component: ComponentCreator('/ai_book_hack_I/modules/vla', 'bba'),
+    exact: true
+  },
+  {
+    path: '/ai_book_hack_I/test-shadcn',
+    component: ComponentCreator('/ai_book_hack_I/test-shadcn', 'e0d'),
     exact: true
   },
   {

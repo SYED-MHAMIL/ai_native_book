@@ -1,0 +1,20 @@
+{
+  "id": "plugins/remark-interactive-python/README",
+  "title": "Remark Interactive Python Plugin",
+  "description": "Automatically transforms Python code blocks in Markdown files into interactive `` components during the Docusaurus build process.",
+  "source": "@site/docs/plugins/remark-interactive-python/README.md",
+  "sourceDirName": "plugins/remark-interactive-python",
+  "slug": "/plugins/remark-interactive-python/",
+  "permalink": "/ai_book_hack_I/docs/plugins/remark-interactive-python/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/plugins/remark-interactive-python/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Remark Content Enhancements Plugin",
+    "permalink": "/ai_book_hack_I/docs/plugins/remark-content-enhancements/"
+  }
+}

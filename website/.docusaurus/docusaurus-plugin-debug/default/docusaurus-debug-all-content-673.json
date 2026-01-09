@@ -1773,8 +1773,18 @@
     "default": [
       {
         "type": "jsx",
+        "permalink": "/ai_book_hack_I/experience-demo",
+        "source": "@site/src/pages/experience-demo.jsx"
+      },
+      {
+        "type": "jsx",
         "permalink": "/ai_book_hack_I/",
         "source": "@site/src/pages/index.jsx"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/ai_book_hack_I/test-shadcn",
+        "source": "@site/src/pages/test-shadcn.jsx"
       },
       {
         "type": "jsx",

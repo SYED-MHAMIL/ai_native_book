@@ -1,0 +1,24 @@
+{
+  "id": "plugins/docusaurus-plugin-og-image-generator/SETUP",
+  "title": "OG Images Fix - Issue Resolution",
+  "description": "Problem Summary",
+  "source": "@site/docs/plugins/docusaurus-plugin-og-image-generator/SETUP.md",
+  "sourceDirName": "plugins/docusaurus-plugin-og-image-generator",
+  "slug": "/plugins/docusaurus-plugin-og-image-generator/SETUP",
+  "permalink": "/ai_book_hack_I/docs/plugins/docusaurus-plugin-og-image-generator/SETUP",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/plugins/docusaurus-plugin-og-image-generator/SETUP.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Docusaurus OG Image Generator Plugin",
+    "permalink": "/ai_book_hack_I/docs/plugins/docusaurus-plugin-og-image-generator/"
+  },
+  "next": {
+    "title": "Remark Content Enhancements Plugin",
+    "permalink": "/ai_book_hack_I/docs/plugins/remark-content-enhancements/"
+  }
+}

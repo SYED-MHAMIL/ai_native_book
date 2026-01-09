@@ -18,9 +18,14 @@
     "@docusaurus/preset-classic": "3.1.0",
     "@heroicons/react": "^2.2.0",
     "@mdx-js/react": "^3.0.0",
+    "@radix-ui/react-alert-dialog": "^1.1.15",
+    "@radix-ui/react-dialog": "^1.1.15",
+    "@radix-ui/react-dropdown-menu": "^2.1.16",
+    "@radix-ui/react-slot": "^1.2.4",
+    "@radix-ui/react-tooltip": "^1.2.8",
     "@tailwindcss/postcss": "^4.1.18",
-    "@tailwindcss/typography": "^0.5.19",
-    "clsx": "^2.0.0",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
     "lucide-react": "^0.562.0",
     "prism-react-renderer": "^2.3.0",
     "react": "^18.0.0",
@@ -32,8 +37,13 @@
     "@docusaurus/module-type-aliases": "3.1.0",
     "@docusaurus/tsconfig": "3.1.0",
     "@docusaurus/types": "3.1.0",
+    "@shadcn/ui": "^0.0.4",
+    "@swc/core": "^1.15.8",
+    "@tailwindcss/typography": "^0.5.19",
     "autoprefixer": "^10.4.23",
-    "postcss": "^8.5.6"
+    "babel-plugin-module-resolver": "^5.0.2",
+    "postcss": "^8.5.6",
+    "swc-loader": "^0.2.6"
   },
   "browserslist": {
     "production": [

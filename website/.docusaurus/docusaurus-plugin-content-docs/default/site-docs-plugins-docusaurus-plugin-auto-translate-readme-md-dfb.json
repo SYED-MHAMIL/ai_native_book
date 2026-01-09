@@ -1,0 +1,24 @@
+{
+  "id": "plugins/docusaurus-plugin-auto-translate/README",
+  "title": "Docusaurus Auto-Translate Plugin",
+  "description": "Automatically translates English content to Urdu during the Docusaurus build process using Google Gemini API.",
+  "source": "@site/docs/plugins/docusaurus-plugin-auto-translate/README.md",
+  "sourceDirName": "plugins/docusaurus-plugin-auto-translate",
+  "slug": "/plugins/docusaurus-plugin-auto-translate/",
+  "permalink": "/ai_book_hack_I/docs/plugins/docusaurus-plugin-auto-translate/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SYED-MHAMIL/ai_native_book/tree/main/website/docs/plugins/docusaurus-plugin-auto-translate/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Welcome to robot.ai",
+    "permalink": "/ai_book_hack_I/docs/overview/welcome"
+  },
+  "next": {
+    "title": "Docusaurus OG Image Generator Plugin",
+    "permalink": "/ai_book_hack_I/docs/plugins/docusaurus-plugin-og-image-generator/"
+  }
+}

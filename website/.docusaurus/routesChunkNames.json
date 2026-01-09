@@ -42,40 +42,54 @@
       "plugin": "plugin---ai-book-hack-i-docusaurus-debugc-62-996"
     }
   },
+  "/ai_book_hack_I/experience-demo-0b8": {
+    "__comp": "__comp---site-src-pages-experience-demo-jsx-123-4ac",
+    "__context": {
+      "plugin": "plugin---ai-book-hack-i-experience-demo-392-5b9"
+    },
+    "config": "config---ai-book-hack-i-experience-demo-5-e-9-39a"
+  },
   "/ai_book_hack_I/modules/gazebo-unity-b45": {
     "__comp": "__comp---site-src-pages-modules-gazebo-unity-jsxf-4-f-2be",
     "__context": {
-      "plugin": "plugin---ai-book-hack-i-modules-gazebo-unity-392-38b"
+      "plugin": "plugin---ai-book-hack-i-experience-demo-392-5b9"
     },
-    "config": "config---ai-book-hack-i-modules-gazebo-unity-5-e-9-490"
+    "config": "config---ai-book-hack-i-experience-demo-5-e-9-39a"
   },
   "/ai_book_hack_I/modules/nvidia-isaac-cac": {
     "__comp": "__comp---site-src-pages-modules-nvidia-isaac-jsxeb-1-5a4",
     "__context": {
-      "plugin": "plugin---ai-book-hack-i-modules-gazebo-unity-392-38b"
+      "plugin": "plugin---ai-book-hack-i-experience-demo-392-5b9"
     },
-    "config": "config---ai-book-hack-i-modules-gazebo-unity-5-e-9-490"
+    "config": "config---ai-book-hack-i-experience-demo-5-e-9-39a"
   },
   "/ai_book_hack_I/modules/ros2-85a": {
     "__comp": "__comp---site-src-pages-modules-ros-2-jsx-6-bc-d04",
     "__context": {
-      "plugin": "plugin---ai-book-hack-i-modules-gazebo-unity-392-38b"
+      "plugin": "plugin---ai-book-hack-i-experience-demo-392-5b9"
     },
-    "config": "config---ai-book-hack-i-modules-gazebo-unity-5-e-9-490"
+    "config": "config---ai-book-hack-i-experience-demo-5-e-9-39a"
   },
   "/ai_book_hack_I/modules/vla-bba": {
     "__comp": "__comp---site-src-pages-modules-vla-jsx-5-b-9-a5b",
     "__context": {
-      "plugin": "plugin---ai-book-hack-i-modules-gazebo-unity-392-38b"
+      "plugin": "plugin---ai-book-hack-i-experience-demo-392-5b9"
     },
-    "config": "config---ai-book-hack-i-modules-gazebo-unity-5-e-9-490"
+    "config": "config---ai-book-hack-i-experience-demo-5-e-9-39a"
+  },
+  "/ai_book_hack_I/test-shadcn-e0d": {
+    "__comp": "__comp---site-src-pages-test-shadcn-jsx-25-d-5ed",
+    "__context": {
+      "plugin": "plugin---ai-book-hack-i-experience-demo-392-5b9"
+    },
+    "config": "config---ai-book-hack-i-experience-demo-5-e-9-39a"
   },
   "/ai_book_hack_I/welcome-f9b": {
     "__comp": "__comp---site-src-pages-welcome-jsx-04-d-ac8",
     "__context": {
-      "plugin": "plugin---ai-book-hack-i-modules-gazebo-unity-392-38b"
+      "plugin": "plugin---ai-book-hack-i-experience-demo-392-5b9"
     },
-    "config": "config---ai-book-hack-i-modules-gazebo-unity-5-e-9-490"
+    "config": "config---ai-book-hack-i-experience-demo-5-e-9-39a"
   },
   "/ai_book_hack_I/docs-1f9": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
@@ -377,8 +391,8 @@
   "/ai_book_hack_I/-8fd": {
     "__comp": "__comp---site-src-pages-index-jsx-9-dd-cb1",
     "__context": {
-      "plugin": "plugin---ai-book-hack-i-modules-gazebo-unity-392-38b"
+      "plugin": "plugin---ai-book-hack-i-experience-demo-392-5b9"
     },
-    "config": "config---ai-book-hack-i-modules-gazebo-unity-5-e-9-490"
+    "config": "config---ai-book-hack-i-experience-demo-5-e-9-39a"
   }
 }
